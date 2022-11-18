@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="631px" height="264px" viewBox="0 0 631 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>work_bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="18.6441547%" y1="49.0798009%" x2="97.2087654%" y2="44.3793518%" id="linearGradient-1">
+            <stop stop-color="#1C439B" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0C2062" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.547595796">
+        <g id="home-copy-5" transform="translate(0.000000, -2047.000000)" fill="url(#linearGradient-1)">
+            <path d="M449.696754,2275.01334 C358.062961,2322.17644 271.027257,2334.07545 165.041746,2241.74359 C94.3847388,2180.18901 36.2055641,2116.18028 -9.49577797,2049.7174 L755,2047 C612.553698,2167.56683 510.785949,2243.57127 449.696754,2275.01334 Z" id="work_bg" transform="translate(372.752111, 2179.000000) scale(-1, -1) translate(-372.752111, -2179.000000) "></path>
+        </g>
+    </g>
+</svg>

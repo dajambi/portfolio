@@ -1,0 +1,95 @@
+@import './_variables.scss';
+
+#content--contact {
+  background: $color-bg;
+  color: white;
+  font-weight: 300;
+  position: relative;
+
+  ul {
+    margin:0;
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 1.125rem;
+  }
+}
+
+.contact--inside { 
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.buss {
+  max-width: 300px;
+  font-weight: 300;
+  line-height: $line-height--small;
+  font-size: $textsize--small;
+  flex-shrink: 2;
+}
+
+#circle {
+  position: absolute;
+  top: 40px;
+  right: 20%;
+ height: 150px;
+ width: 156px;
+ background: url("../img/circle.svg") no-repeat;
+ animation: spin 50s infinite linear;
+}
+
+#rectangle {
+  height: 450px;
+  position: absolute;
+  top: 0;
+  right: -20vw;
+  width: 260px;
+  background: rgb(19,229,236);
+  background: linear-gradient(134deg, rgba(6,247,255,1) 3%, rgba(71,43,218,0) 60%); 
+  transform-origin: bottom left; 
+  animation-name: scaleUp;
+      animation-timing-function: ease-out;
+      animation-duration: 1s;
+      animation-delay: 1s;
+}
+
+@keyframes scaleUp {
+  0% { transform: scale(0.8);opacity: 0;}
+  100% {transform: scale(1);opacity: 1;}
+}
+
+#logo--white {
+  position: absolute;
+  height: 44px;
+  width: 49px;
+  top: 92px;
+  right: 40%;
+}
+
+@media (max-width:660px) { 
+
+  .contact--inside { 
+    flex-direction: column;
+  }
+
+  #rectangle {
+    right: -28vw;
+    top: -80px;
+  }
+
+  .contact {
+    height: 640px;
+
+    .ellipse {
+      opacity: .4;
+    }
+  }
+
+  #header_text--contact {
+    grid-column: 1 / 8;
+  }
+
+}

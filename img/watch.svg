@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="watch-b" x1="88.291%" x2="19.91%" y1="16.034%" y2="86.242%">
+      <stop offset="0%" stop-color="#717186" stop-opacity=".943"/>
+      <stop offset="100%" stop-color="#101017"/>
+    </linearGradient>
+    <rect id="watch-a" width="30" height="30" x="1" y="1"/>
+    <mask id="watch-c" width="30" height="30" x="0" y="0" fill="#fff" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+      <use xlink:href="#watch-a"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#watch-b)" d="M16,1 C24.2842712,1 31,7.71572875 31,16 C31,24.2842712 24.2842712,31 16,31 C7.71572875,31 1,24.2842712 1,16 C1,7.71572875 7.71572875,1 16,1 Z M16,7 C15.4477153,7 15,7.44771525 15,8 L15,8 L15,17 C15,17.3200237 15.1503281,17.6049365 15.3841892,17.7872703 C15.4032969,18.0033456 15.5024096,18.2126226 15.6781549,18.3668741 L15.6781549,18.3668741 L19.5737828,21.7860632 C19.5758308,21.7878608 19.5778875,21.7896487 19.5799526,21.7914267 C19.9387293,22.1003172 20.4799805,22.0598765 20.7888711,21.7010999 C21.1015889,21.3378778 21.0633168,20.7905354 20.7030935,20.4743678 L20.7030935,20.4743678 L16.9790216,17.2047426 C16.9927726,17.1386523 17,17.0701702 17,17 L17,17 L17,8 C17,7.44771525 16.5522847,7 16,7 Z"/>
+    <use stroke="#979797" stroke-dasharray="2 2" mask="url(#watch-c)" xlink:href="#watch-a"/>
+    <rect width="2" height="2" fill="#FFF"/>
+    <rect width="2" height="2" x="15" fill="#FFF"/>
+    <rect width="2" height="2" y="15" fill="#FFF"/>
+    <rect width="2" height="2" x="30" fill="#FFF"/>
+    <rect width="2" height="2" x="30" y="15" fill="#FFF"/>
+    <rect width="2" height="2" x="30" y="30" fill="#FFF"/>
+    <rect width="2" height="2" x="15" y="30" fill="#FFF"/>
+    <rect width="2" height="2" y="30" fill="#FFF"/>
+  </g>
+</svg>

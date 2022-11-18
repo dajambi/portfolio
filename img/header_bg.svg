@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1039px" height="188px" viewBox="0 0 1039 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>header_bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="24.5337751%" y1="49.1687812%" x2="97.2087654%" y2="45.029613%" id="linearGradient-1">
+            <stop stop-color="#1C439B" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0C2062" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.608792%" y1="53.0664041%" x2="9.81406192%" y2="42.5393267%" id="linearGradient-2">
+            <stop stop-color="#1C439B" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0C2062" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-copy-5" transform="translate(-96.000000, 0.000000)">
+            <g id="header_bg" transform="translate(96.000000, -138.000000)">
+                <path d="M1248,15.7173996 C1046.55088,134.472627 915.281727,209.571274 854.192532,241.013339 C762.558739,288.176436 675.523035,300.075448 569.537524,207.743585 C498.880517,146.18901 440.701342,82.1802814 395,15.7173996 L1213,0 L1248,15.7173996 Z" id="Path-6" fill="url(#linearGradient-1)" opacity="0.603097098"></path>
+                <polygon id="Path-9" fill="url(#linearGradient-2)" opacity="0.382556734" points="0 138 211.48668 352 554 352 322.079369 138"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 344 343" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="55.9476175%" y1="28.762843%" x2="50%" y2="76.6071742%" id="linearGradient-1">
+            <stop stop-color="#13E5EC" offset="0%"></stop>
+            <stop stop-color="#472BDA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.8637833%" y1="20.6179897%" x2="49.1527435%" y2="76.4777513%" id="linearGradient-2">
+            <stop stop-color="#13E5EC" offset="0%"></stop>
+            <stop stop-color="#472BDA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-copy-5" transform="translate(-46.000000, -424.000000)">
+            <g id="Group-10" transform="translate(46.000000, 352.000000)">
+                <path d="M139,47 L231.781536,116.915902 C243.019053,125.383979 249.762777,138.529566 250.085913,152.596752 L259.187938,548.837995 L142.574281,463.323697 L139,47 Z" id="Rectangle" fill="url(#linearGradient-1)" opacity="0.43" transform="translate(199.093969, 297.918998) rotate(-37.000000) translate(-199.093969, -297.918998) "></path>
+                <path d="M153,-14 L245.781536,55.9159019 C257.019053,64.3839787 263.762777,77.5295665 264.085913,91.5967518 L273.187938,487.837995 L156.574281,402.323697 L153,-14 Z" id="Rectangle" fill="url(#linearGradient-2)" transform="translate(213.093969, 236.918998) rotate(-37.000000) translate(-213.093969, -236.918998) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

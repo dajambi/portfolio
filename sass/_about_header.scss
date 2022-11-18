@@ -1,0 +1,237 @@
+@import './_variables.scss';
+
+
+//  start -- header contact
+#header_text--contact {
+  grid-column: 1 / 6;
+  grid-row: 3/4;
+  max-width: 700px;
+  align-self: baseline;
+  animation: flyin-2 1800ms ease-out !important;
+  z-index: 10;
+  position: relative;
+  transform: translateY(-20%);
+  padding-left: 20px;
+
+  strong {
+    color: $color-white;
+    font-weight: 700;
+  }
+  
+  h1 {
+    @include fluid-type($min_width, $max_width, $min_font, $max60_font);
+    line-height: calc(30px + (80 - 30) * ((100vw - 320px) / (1400 - 320)));
+    color: $text-snow;
+    position: relative;
+    z-index: 10;
+  }
+  
+  p {
+    font-size: $textsize--standard;
+    color: $text-shadow;
+    line-height: $line-height--standard;
+    font-weight: 300;
+    max-width: 500px;
+
+    b {
+      font-weight: 600;
+    }
+  }
+}
+ 
+//  end -- header contact
+
+
+.about {
+   background-color: #000;
+   overflow: hidden; 
+   position: relative;
+   height: 1020px;
+   transition: all 0.3s ease-in;
+ }
+
+ .contact {
+  background-color: $color-bg;
+  height: 700px;
+
+  .ellipse {
+    right: -10%;
+    }
+}
+
+    #face--about {
+      grid-column: 5 / 8;
+      grid-row: 4/4;
+      background: url(../img/about-face-1.jpg) no-repeat;
+      width: 600px;
+      height: 635px;
+      background-size: cover;
+      transform: translateY(63px) translateX(0px);
+      z-index: 0;
+      position: relative;
+    }
+
+    #step__decoration {
+      position: absolute;
+      background:white;
+      height: 3.7rem;
+      width: 50%;
+      bottom: -1px;
+      right: 0;
+      z-index: 10;
+
+      &::after {
+        content: " ";
+        position: absolute;
+        bottom: 3.65rem;
+        width: 5rem;
+        height: 3.75rem;
+        background:white;
+        right: 0;
+        z-index: inherit;
+      }
+    }
+
+    .ellipse {
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+    width: 928px;
+    height: 980px;
+    mix-blend-mode: hard-light;
+    background: url(../img/about--ellipse.png) 100% 100% no-repeat;
+    z-index: 10;
+    }
+  
+    #header_text--about {
+      grid-column: 1 / 6;
+      grid-row: 3/4;
+      max-width: 680px;
+      align-self: baseline;
+      animation: flyin 1800ms ease-out !important;
+      z-index: 10;
+      position: relative;
+
+
+      strong {
+        color: $color-white;
+        font-weight: 700;
+      }
+      
+      h1 {
+        @include fluid-type($min_width, $max_width, $min_font, $max_font);
+        line-height: calc(30px + (60 - 30) * ((100vw - 320px) / (1400 - 320)));
+        color: $text-snow;
+        position: relative;
+
+        ::before {
+          content: "";
+          height: 195px;
+          width: 664px;
+          position: absolute;
+          top: -110px;
+          left: -100px;
+          z-index: -1;
+          background:url(../img/title_about.svg) no-repeat;
+          opacity: .4;
+        }
+      }
+      
+      .ab_stats {
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        flex-wrap: nowrap;
+        margin-bottom: 0.75rem;
+
+        ul {
+          list-style: none;
+          padding: 0;
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+          align-items: flex-start;
+          align-content: center;
+		      justify-content: space-between;
+        }
+        li {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          flex-wrap: nowrap;
+          align-content: center;
+          justify-content: space-between;
+          font-weight: 400;
+          font-size:$textsize--responsive;
+          margin-bottom: 0.75rem;
+        }
+        span {
+          font-size:$textsize--standard;
+          margin-top: .4em;
+        }
+      }
+
+      p {
+        font-size: $textsize--standard;
+        color: $text-shadow;
+        line-height: $line-height--standard;
+        font-weight: 300;
+
+        span {
+          color: $color-sky_blue;
+        }
+      }
+    }
+
+
+    
+
+    @media (max-width:880px) {
+
+    #header_text--about {
+      grid-column: 2 / 7;
+    }
+
+      #step__decoration {
+        display: none;
+      }
+
+      #face--about {
+        transform: translateY(122px) translateX(0px);
+      }
+    }
+
+    @media (max-width:660px) {
+
+      #social_text, #line, #social_icons {
+        display: none;
+      }
+
+      #header_text--about {
+        grid-column: 1 / 8;
+      }
+
+    }
+
+    @media (max-width:550px) {
+
+      #header_text--about {
+        transition: all 0.3s ease-in;
+        grid-row: 3/4;
+      }
+
+      #about__opinions .opinions__graphic::after {
+        display: none;
+      }
+
+    }
+
+    @media (max-width:420px) {
+
+      #header_text--about {
+        transform: translate(0px, -30px);
+        transition: all 0.3s ease-in;
+      }
+    }
+
+

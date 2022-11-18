@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="410px" height="450px" viewBox="0 0 410 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>d__clip</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="91.4518365%" y1="73.3356558%" x2="16.6759971%" y2="11.7651987%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0855AA" stop-opacity="0.0629097465" offset="100%"></stop>
+        </linearGradient>
+        <path d="M159.627273,0 C240.195288,0 302.020617,19.6349968 345.105117,58.9055794 C388.189617,98.176162 409.731544,152.78935 409.731544,222.746781 C409.731544,292.704212 388.728165,348.068466 346.720778,388.841202 C304.713391,429.613938 240.626159,450 154.457159,450 L0,450 L0,0 L159.627273,0 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-copy-5" transform="translate(-911.000000, -4387.000000)">
+            <g id="david_jambor_about" transform="translate(911.000000, 4387.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="d__clip" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
