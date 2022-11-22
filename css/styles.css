@@ -3621,7 +3621,7 @@ p a[data-fx="12"] {
   -webkit-animation: titleloops 140s linear alternate infinite; }
 
 .line2 {
-  transform: translateX(-170%);
+  transform: translateX(-100%);
   animation: titleloops2 400s linear alternate infinite;
   -webkit-animation: titleloops2 400s linear alternate infinite; }
 
