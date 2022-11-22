@@ -11,7 +11,7 @@
     <?php include('_partials/meta-links.php') ?>
 
     <meta name="description"
-        content="Contact me — 🤘I am Digital Product (UI/UX/IxD) designer with a passion for function design and with one rule in mind - Design is everything.">
+        content="Contact me — 🤘I am Digital Product (UI/UX/IxD) designer with a passion for functional design and with one rule in mind - Design is everything.">
     <meta name="keywords"
         content="contact, contact me ,ux, user interface design, ui design, ux research, ui ix designer, interaction designer, user experience, mobile app design">
     <title>Contact - David Jambor - Digital product (UI/UX/IxD) designer 🤘</title>
@@ -48,7 +48,7 @@
             <?php include('_partials/navigation.php') ?>
 
             <div id="header_text--contact">
-                <h1><span class="highlight_blue">Let’s </span><br>design something great together.</h1>
+                <h1><span class="highlight_blue">Let’s </span><br>design something great together</h1>
                 
                 <div id="rectangle">
                     <div id="circle"></div>
@@ -142,7 +142,7 @@
                             <li>Kárníkova 1170</li>
                             <li>Nové Město na Moravě 592 31</li>
                             <li>Czech Republic</li>
-                            <li>IČO: 60675080 </li>
+                            <li>IČO: 03499642 </li>
                             <li>Data box: 56hfqnx</li>
                         </ul>
                         <ul>

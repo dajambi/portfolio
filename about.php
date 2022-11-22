@@ -9,9 +9,8 @@
     <?php include('_partials/loading.php') ?>
     <?php include('_partials/meta-links.php') ?>
 
-
     <meta name="description"
-        content="About me - 🤘I am Digital Product (UI/UX/IxD) designer with a passion for function design and with one rule in mind - Design is everything.">
+        content="About me - 🤘I am Digital Product (UI/UX/IxD) designer with a passion for functional design and with one rule in mind - Design is everything.">
     <meta name="keywords"
         content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
     <title>About me - David Jambor - Digital product (UI/UX/IxD) designer 🤘</title>
@@ -50,23 +49,23 @@
             <?php include('_partials/navigation.php') ?>
 
             <div id="header_text--about">
-                <h1><span class="highlight_blue">Hello,</span> <br>beautiful people, pleasure to see you here.</h1>
-                <p>My name is David and I am a digital product designer currently living in Brno. During the last eight
-                    years I’ve
+                <h1><span class="highlight_blue">Hello,</span> <br>beautiful people, pleasure to see you here</h1>
+                <p>My name is David and I'm a digital product designer currently living in Brno. During the last eight
+                    years I've
                     worked as the Graphic, Web designer, UX/UI and Product designer for startups, corporates and also as
                     the freelancer for my own clients.</p>
                 <div class="ab_stats">
                     <ul>
-                        <li>8+ <span>Years in design</span></li>
+                        <li>9+ <span>Years in design</span></li>
                         <li>200+ <span>Projects</span></li>
                         <li>30+ <span>Own clients</span></li>
-                        <li>4+ <span>Years in remote</span></li>
+                        <li>5+ <span>Years in remote</span></li>
                     </ul>
                 </div>
-                <div class="ghost__button2">
+                <!-- <div class="ghost__button2">
                     <a href="https://www.davidjambor.cz/assets/david_jambor_cv.pdf" target="_blank"
                         rel="noopener noreferrer" class="link">Download CV</a>
-                </div>
+                </div> -->
             </div>
 
 
@@ -127,7 +126,7 @@
                 <div class="journey">
                     <div class="steps--left">
                         <div class="cont_sticky">
-                            <h1>Steps that takes me to product design.</h1>
+                            <h1>Steps that takes me to product design</h1>
                             <div>3 min read</div>
                             <div><img srcset="img/steps--big@1x.png 1x, img/steps--big@2x.png 2x" width="459px"
                                     height="435px" alt="Design journey steps"></div>
@@ -181,7 +180,7 @@
                             single platform that will digitize all internal processes and services.
 
                         </p>
-                        <p>Working independently I’ve been lucky to collaborate with great companies and individuals. I
+                        <p>Working independently I've been lucky to collaborate with great companies and individuals. I
                             worked with one of the biggest czech company Gordic.cz, who delivers the IT system,
                             on their new web and I also designed a Gordic support portal that fits their new web
                             ecosystem.
@@ -207,10 +206,8 @@
         <section id="about__opinions">
             <div class="opinions__graphic">
                 <div class="about--wrapper">
-                    <div id="steps__first"></div>
-                    <div id="steps__second"></div>
                     <h1>Work <span class="highlight_blue">attitude</span><br> & references</h1>
-                    <p class="opinions__intro">I’m lucky that I turned my passion into a job — designing and building a
+                    <p class="opinions__intro">I'm lucky that I turned my passion into a job — designing and building a
                         digital product that has a positive impact on people's life. It is not actually a job for me, it
                         is a hobby. Thanks to this positive approach I've always strived to achieve the best possible
                         results and went the extra mile to deliver them. Not because I have to, but because I wanted it.
@@ -245,7 +242,7 @@
         <section id="about__expectations">
             <div class="about--wrapper">
                 <div class="skills">
-                    <h1>What I can help you with <br> + what you can expect.</h1>
+                    <h1>What I can help you with <br> + what you can expect</h1>
                     <ul>
                         <li>
                             <figure class="work__image">
@@ -375,24 +372,22 @@
             <div class="principles__graphic">
                 <div class="about--wrapper">
                     <h1>
-                        <span class="highlight_blue">My</span> mission <br>& principles ↘
+                        <span class="highlight_blue">My</span> missions <br>& principles ↘
                     </h1>
                     <div class="expectations">
                         <div class="expec--left">
-                            <h2>Two bold mission</h2>
+                            <h2>Two bold missions</h2>
                         </div>
                         <div class="expec--right">
-                            <p><b><sup>1</sup></b> It all starts with the people and their skills — this is a mantra of
+                            <p><sup>1</sup> It all starts with the people and their skills — this is a mantra of
                                 my startup
                                 <a href="https://mentedy.com" target="_blank"
                                     class="link odkaz anim-middleout">Mentedy.com.</a>
                                 that helps companies to manage skills and help employees grow through → internal and
                                 external mentoring.
                             </p>
-                            <p><b><sup>2</sup></b> Designing the helpdesk platform to help deliver a seamless
-                                traveling experience while <a href="https://www.kiwi.com/" target="_blank"
-                                    class="link odkaz anim-middleout">Kiwi.com</a> is becoming a Virtual Global
-                                Super-carrier.</p>
+                            <p><sup>2</sup> Designing and transforming Sales analytics into simple and actionable stories in 
+                            <a href="https://www.outreach.io/" target="_blank" class="link odkaz anim-middleout">Outreach.io</a></p>
                         </div>
                     </div>
                     <div class="expectations">
@@ -403,15 +398,7 @@
                             <ul class="accordion">
                                 <li>
                                     <a><span><sup>1</sup></span>Design is everything</a>
-                                    <p>Design is everything - and it is true. I don't mean the pixels, but how
-                                        everything works together. It's
-                                        about the service, support, sales, marketing — it is about every customer
-                                        touchpoint. Especially now when the good design is no longer optional. This is
-                                        what will make product or service different and bring long-term success even in
-                                        a very
-                                        competitive market. If you want your product to stand out then the design and
-                                        the customer experience have to have a key place in your company structure.
-                                        Otherwise, it will be very hard to even start.</p>
+                                    <p>Design is everything - and it is true. I don't mean pixels, but how everything works together. It's about the service, support, sales, marketing — it is about every customer touchpoint. Especially now when the good design is no longer optional. This is what will make products or services different and bring long-term success even in a very competitive market. If you want your product to stand out then the design and the customer experience have to have a key place in your company structure. Otherwise, it will be very hard to even start.</p>
                                 </li>
                                 <li>
                                     <a><span><sup>2</sup></span> There is no substitute of hard work</a>
@@ -432,7 +419,7 @@
                                 </li>
                                 <li>
                                     <a><span><sup>4</sup></span>Honesty and open communication</a>
-                                    <p>I really do respect people, but I believe in open communication culture. I did a
+                                    <p>I really do respect people and I believe in open communication culture. I did a
                                         few mistakes in the past when I was quiet and followed the crowd, but I will not
                                         repeat it. So now when I don't like something I say it, when I see space for
                                         improvements I say it even if you will be the highest-paid person in the room.
@@ -440,15 +427,7 @@
                                 </li>
                                 <li>
                                     <a><span><sup>5</sup></span>It has to be diverse and fun</a>
-                                    <p>I love working in a startup mode. The mode where people are doing their best,
-                                        where everyone goes far beyond their own responsibilities, and when you can grab
-                                        the beer and enjoy a nice moment with the team.
-
-                                        I am enjoying a very diverse projects. The projects where I can collaborate or
-                                        handle the research, design, validation, motion or helping with the
-                                        design system and principles. Thanks to my side project I also found the passion
-                                        in front-end,
-                                        product/project management, and go-to-market activities.</p>
+                                    <p>I love working in a startup mode. The mode where people are doing their best, where everyone goes far beyond their own responsibilities, and when you can grab the beer and enjoy a nice moment with the team. I am enjoying very diverse projects. The projects where I can collaborate or handle the research, design, validation, motion, or help with the design system and principles. Thanks to my side project I also found a passion in front-end, product/project management, and go-to-market activities.</p>
                                 </li>
                                 <ul>
                         </div>
@@ -465,8 +444,8 @@
                     <article>
                         <div class="article__topic">Building the startup · story NO—1</div>
                         <h3>From zero to hero</h3>
-                        <p>Life is a jurney of and sooner or later you as a designer will look for other life challange.
-                            What can be more challanging then trying to build your own startup? I got this chance and I
+                        <p>Life is a journey of and sooner or later you as a designer will look for other life challenge.
+                            What can be more challenging then trying to build your own startup? I got this chance and I
                             will tell you what this is like.</p>
                         <div class="article__detail">12 Dec 2020 · 10 min read</div>
                     </article>
@@ -534,8 +513,8 @@
         <section id="about__prefooter">
             <div class="about--wrapper">
                 <h4>What next?</h4>
-                <!-- <a href="/work">See my work<span> </span></a> -->
-                <a href="/contact" class="link">Let’s get in touch<span> </span></a>
+                <a href="/work">See my work<span> </span></a>
+                <a href="/contact">Let's get in touch<span> </span></a>
             </div>
         </section>
     </main>

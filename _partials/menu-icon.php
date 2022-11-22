@@ -1,8 +1,8 @@
 
 			<nav>
-				<a href="#" class="link" id="navigation" aria-label="menu" role="button" aria-haspopup="true" tabindex="1" aria-controls="nav__main">
+				<a href="#" class="link" id="navigation" role="navigation" aria-label="Show menu" role="button" aria-haspopup="true" tabindex="0" aria-controls="nav__main">
 					<span id="nt">Menu</span> 
-					<svg width="20px" height="36px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<svg aria-hidden="true" width="20px" height="36px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 							<g id="home-copy-5" class="icon">
 								<g id="menu">
 									<rect id="rectangle1" x="0" y="0" width="20" height="2"></rect>

@@ -8,7 +8,7 @@
   background: url(../img/lines.svg) repeat-y 50% 50%;
 }
 
-a[data-fx="12"] {
+p a[data-fx="12"] {
   border-bottom: 1px dotted $color-sky_blue;
   color:$color-sky_blue;
 }
@@ -216,6 +216,7 @@ a[data-fx="12"] {
     justify-content: flex-start;
     flex-wrap: nowrap;
     margin-bottom: 5rem;
+    margin-top: 5rem;
   }
 
   ul {
@@ -250,6 +251,12 @@ a[data-fx="12"] {
   justify-content: space-around;
   margin-bottom: 3rem;
   line-height: $line-height--standard;
+
+  sup {
+    color: $color-sky_blue;
+    margin-right: 0.2em;
+  }
+
 
   strong {
     font-weight: 600;
@@ -756,8 +763,9 @@ a[data-fx="12"] {
 //hover reveal
 .hover-reveal {
 	position: fixed;
-	width: 200px;
-	height: 150px;
+	width: 350px;
+	height: 216px;
+  border-radius: 8px;
 	top: 0;
 	left: 0;
 	pointer-events: none;
@@ -769,6 +777,8 @@ a[data-fx="12"] {
 	width: 100%;
 	height: 100%;
 	position: relative;
+  border-radius: 8px;
+  border: 1px solid $text-coal;
 }
 
 .hover-reveal__deco {
@@ -777,7 +787,7 @@ a[data-fx="12"] {
 	position: absolute;
 	top: 0;
 	left: 0;
-	background-color: #181314;
+  background-color: #181314;
 }
 
 .hover-reveal__img {

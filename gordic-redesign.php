@@ -27,12 +27,12 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://www.davidjambor.cz/assets/david-jambor-social.png">
     <meta property="og:description"
-        content="I am Digital Product (UI/UX/Ix) designer with a passion for function design and with one rule in mind - Design is everything.">
+        content="I am Digital Product (UI/UX/Ix) designer with a passion for functional design and with one rule in mind - Design is everything.">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@davejambor">
     <meta property="twitter:description"
-        content="I am Digital Product (UI/UX/Ix) designer with a passion for function design and with one rule in mind - Design is everything.">
+        content="I am Digital Product (UI/UX/Ix) designer with a passion for functional design and with one rule in mind - Design is everything.">
     <meta property="twitter:title" content="David Jambor - Portfolio Digital - product (UI/UX/Ix) designer">
     <meta property="twitter:image" content="https://www.davidjambor.cz/assets/david-jambor-social.png">
 
@@ -56,7 +56,7 @@
     <link rel="manifest" href="/manifest.json">
 
     <meta name="description"
-        content="🤘 I am Digital Product (UI/UX/Ix) designer with a passion for function design and with one rule in mind - Design is everything.">
+        content="🤘 I am Digital Product (UI/UX/Ix) designer with a passion for functional design and with one rule in mind - Design is everything.">
     <meta name="keywords"
         content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
     <title>Web redesigning for SaaS company</title>

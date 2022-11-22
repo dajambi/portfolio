@@ -9,7 +9,7 @@
     <?php include('_partials/meta-links.php') ?>
 
     <meta name="description"
-        content="I am Digital Product (UI/UX/Ix) designer with a passion for function design and with one rule in mind - Design is everything.">
+        content="I am Digital Product (UI/UX/Ix) designer with a passion for functional design and with one rule in mind - Design is everything.">
     <meta name="keywords"
         content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
     <title>David Jambor - 404 - page doesn't exist</title>

@@ -59,6 +59,51 @@ header {
       font-weight: 400;
       will-change: transform;  
       height: 60px;
+      position: relative;
+
+
+      &::before {
+        content: 'M';
+        position: absolute;
+        text-align: center;
+        display: flex;
+        top: 20px;
+        left: -28px;
+        width: 1.25rem;
+        height: 1.25rem;
+        border: 1px solid #60606d;
+        border-radius: 4px;
+        font-size: 12px;
+        align-content: center;
+        justify-content: center;
+        color: #a0a0a1;
+        align-items: center;
+        background: #0d0d19;
+      }
+
+      &.esc::before { 
+        content: 'ESC';
+        position: absolute;
+        text-align: center;
+        display: flex;
+        top: 20px;
+        left: -44px;
+        width: 2.25rem;
+        height: 1.25rem;
+        border: 1px solid #60606d;
+        border-radius: 4px;
+        font-size: 12px;
+        align-content: center;
+        justify-content: center;
+        color: #a0a0a1;
+        align-items: center;
+        background: #0d0d19;
+      }
+
+       /* smartphones, touchscreens */
+       @media (hover: none) and (pointer: coarse) {
+        &.esc::before, &::before { display: none;}
+      }
 
       &:hover {
       color:$color-sky_blue;
@@ -302,7 +347,7 @@ header {
   #clients {
     display: flex;
     flex-direction: row;
-    align-items: flex-end;
+    align-items: flex-start;
     justify-content: space-between;
     flex-wrap: nowrap;
     margin-top: 50px;
@@ -515,7 +560,7 @@ header {
       width: auto;
       height: auto;
       transform: translateX(-50%) translateY(-50%);
-      background: #0D0D19;
+      background: #0d071e;
       background-size: cover;
       transition: 1s opacity;
     }

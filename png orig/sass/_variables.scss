@@ -1,0 +1,60 @@
+// * {
+//  outline: 1px solid red;
+// }
+
+ //ui colors
+$color-white: #fff;
+$color-bg: #0D0D19;
+$color-cursor: #ff0000;
+$color-sky_blue: #00D9FF;
+$color-line: #20202B;
+$color-bg-grey: #EBEEF4;
+$fancy-bg: #131435;
+
+ //text colors
+$text-shadow: #CACDCE;
+$text-snow: #E0E9EE;
+$text-coal: #474F5B;
+$text-coal--light: #27272d;
+$text-dark:#434350;
+$text-link-dark:#1822F7;
+
+@media (prefers-contrast: more) {
+    $text-dark:#080808;
+  }
+  
+// gradient
+$blue_gradient--start:#3A9DB7;
+$blue_gradient--end:#0855AA;
+$lighblue_gradient--start: #259DD5;
+$lighblue_gradient--end: #4AD3F4;
+
+//text size
+$textsize--big: 50px;
+$textsize--responsive:42px;
+$textsize--standard: 16px;
+$textsize--normal: 14px;
+$textsize--small: 12px;
+
+//line heignt
+$line-height--big: 50px;
+$line-height--standard: 36px;
+$line-height--responsive: 30px;
+$line-height--neutral: 24px;
+$line-height--small: 20px;
+
+//fluid typography
+$min_width: 320px;
+$max_width: 1400px;
+
+// h1
+$min_font: 30px;
+$max_font: 50px;
+$max40_font: 40px;
+$max60_font: 60px;
+
+
+//box shadow
+$elevation1: 20px 44px 64px 0 rgba(134, 135, 160, 0.14), 0 32px 32px 0 rgba(117, 120, 153, 0.02), 0 16px 16px 0 rgba(118, 119, 155, 0.02), 0 8px 8px 0 rgba(122, 120, 152, 0.06), 0 4px 4px 0 rgba(118, 115, 154, 0.04);
+$elevation2:  inset 0 1px 1px 0 hsla(0,0%,100%,.1), 0 50px 100px -20px rgba(50,50,93,.25), 0 30px 60px -30px rgba(0,0,0,.3);
+$elevation1: 0px 2.76726px 2.21381px rgba(0,0,0,0.0196802), 0px 6.6501px 5.32008px rgba(0,0,0,0.0282725), 0px 12.5216px 10.0172px rgba(0,0,0,0.035), 0px 22.3363px 17.869px rgba(0,0,0,0.0417275), 0px 41.7776px 33.4221px rgba(0,0,0,0.0503198), 0px 100px 80px rgba(0,0,0,0.07);

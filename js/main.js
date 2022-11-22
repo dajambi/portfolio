@@ -592,47 +592,40 @@ $(document).ready(function () {
 });
 
 
-
-//navigace
-function removeScroll(param){
-  if ($('body').hasClass('lock-scroll')) {
-    $('body').removeClass('lock-scroll');
-  }
-  else {
-    $('body').addClass('lock-scroll');
-  }
-}
-
 $('#navigation').on('click', function() {
   this.classList.toggle('active');
 })
 
 
-$('#navigation').on ('click', (function () {
-  removeScroll();
 
+$('#navigation').on ('click', (function () {
   if ($('.nav__overlay').is(':visible')) {
     $('.nav__overlay').fadeOut(600);
     $('.ellipse').css('display', 'flex');
     $('#nt').text('Menu');
-    
+    $('#navigation').removeClass('esc');
+    $('body').removeClass('lock-scroll');
   }
   else {
     $('.nav__overlay').fadeIn(600);
     $('#nt').text('Close');
+    $('#navigation').addClass('esc');
     $('.ellipse').css('display', 'none');
+    $('body').addClass('lock-scroll');
   }
-}));
+}
+));
 
 //closing menu on esc
 window.addEventListener('keydown', (event) => {
   if (event.code === 'Escape') {
     if ($('.nav__overlay').is(':visible')) {
+      $('body').removeClass('lock-scroll');
       $('.nav__overlay').fadeOut(600);
       $('.ellipse').css('display', 'flex');
       $('#nt').text('Menu');
+      $('nav a').removeClass('esc');
       $('#navigation').removeClass('active');
-      removeScroll();
     }
   }
 });
@@ -640,12 +633,18 @@ window.addEventListener('keydown', (event) => {
 //opening menu on M
 window.addEventListener('keydown', (event) => {
   if (event.code === 'KeyM') {
-    removeScroll();
-      $('.nav__overlay').fadeIn(600);
-      $('#nt').text('Close');
-      $('.ellipse').css('display', 'none');
-      $('#navigation').addClass('active');
-  }
+    if ($('.nav__overlay').is(':visible')) {
+
+    }
+    else {      
+    $('.nav__overlay').fadeIn(600);
+    $('#nt').text('Close');
+    $('nav a').addClass('change');
+    $('.ellipse').css('display', 'none');
+    $('#navigation').addClass('esc');
+    $('body').addClass('lock-scroll');
+  } 
+}
 });
 
 

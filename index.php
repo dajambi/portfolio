@@ -11,10 +11,10 @@
     <?php include('_partials/meta-links.php') ?>
 
     <meta name="description"
-        content="🤘I am Digital Product (UI/UX/IxD) designer with a passion for function design and with one rule in mind - Design is everything.">
+        content="🤘I am Senior digital Product (UI/UX/IxD) designer with a passion for functional design and with one rule in mind - Design is everything.">
     <meta name="keywords"
         content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
-    <title>David Jambor - Portfolio - Digital product (UI/UX/IxD) designer 🤘</title>
+    <title>David Jambor - Portfolio - Senior digital product (UI/UX/IxD) designer 🤘</title>
 
 </head>
 
@@ -49,10 +49,10 @@
             </div>
 
             <div id="header_text">
-                <h1>I transfer ideas into real <span class="highlight_blue">digital products.</span></h1>
-                <p>Hello, I’m David, <strong>product designer</strong> with a passion for function
+                <h1>I transfer ideas into real <span class="highlight_blue">digital products</span></h1>
+                <p>Hello, I'm David, <strong>Senior product designer</strong> with a passion for functional
                     design and with one rule in mind - <strong>Design is&nbsp;everything.</strong> Currently designing
-                    the Insights system at Outreach.io and building my startup Mentedy.com</p>
+                    Sales analytics and reporting features at Outreach.io and building my startup Mentedy.com</p>
 
                 <div id="clients">
                     <div id="design_for">I designed <br> <span>for</span></div>
@@ -122,13 +122,13 @@
             <section id="container__work--black">
                 <div id="project-text">
                     <h1>Chosen <span class="highlight_blue">project</span></h1>
-                    <p>Since 2012 I’ve had privileges and opportunities to design for entrepreneurs, startups, and for big
+                    <p>Since 2012 I've had privileges and opportunities to design for entrepreneurs, startups, and for SaaS
                         companies with a global reach. By using data, design frameworks and by applying design
                         principles I'm able to rapidly deliver an impactful solution, not just pixels, for web or
                         mobile app. The goal is to solve the business problem, met users' needs, satisfy KPIs, and hit
-                        the market niche. Do you like the approach? <span>
+                        the market niche. Do you like this approach? <span>
                             <a href="#hs-chat-open"
-                                class="link odkaz anim-middleout">Let’s&nbsp;design&nbsp;something&nbsp;together.</a>
+                                class="link odkaz anim-middleout">Let's&nbsp;design&nbsp;next big thing&nbsp;together.</a>
                     </p>
                 </div>
 
@@ -140,7 +140,6 @@
                                     alt="Customer support platform" >
                                 <div class="work__overlay">
                                     <div class="overlay__text">
-                                        <!-- <img src="./img/magnifier.svg" alt="See more"> -->
                                         <span class="link odkaz">View case study</span>
                                     </div>
                                     <div class="overlay__meta">
@@ -152,7 +151,7 @@
                             </figure>
                             <figcaption class="work__info">
                                 <img src="./img/references/kiwi.svg" width="60" alt="Kiwi.com">
-                                <h3>Customer service platform</h3>
+                                <h3>Designing customer support platform during travel crisis</h3>
                                 <p>See how we've designed and built the in-house language-agnostic helpdesk platform in a few weeks and how it has helped Kiwi.com survive the travel crisis.</p>
                             </figcaption>
                         </a>
@@ -180,7 +179,7 @@
                             </figure>
                             <figcaption class="work__info">
                                 <img src="./img/references/solarwinds.svg" width="80" alt="Solarwinds">
-                                <h3>Backup reporting</h3>
+                                <h3>Reporting for Backup cloud platform</h3>
                                 <p>Sending a backup report of hundreds of devices to each of your customers every week
                                     can be a huge time-consuming pain. See how the redesign of the reporting flow saves
                                     many hours every week.</p>
@@ -188,29 +187,6 @@
                         </a>
                     </div>
                 </div>
-
-                <!-- <div class="work__effect work__job2">
-                    <div class="work">
-                        <a href="#">
-                            <figure class="work__image">
-                                <img srcset="img/work/mentedy@1x.png 1x, img/work/mentedy@2x.png 2x" alt="Mentedy" >
-                                <div class="work__overlay">
-                                    <div class="overlay__text">
-                                        <img src="./img/magnifier.svg" alt="See more">
-                                        Case study coming soon
-                                    </div>
-                                </div>
-                            </figure>
-                            <figcaption class="work__info">
-                                <img src="./img/work/mentedy_logo.svg" alt="Mentedy">
-                                <h3>Knowledge sharing platform</h3>
-                                <p>I Designed and managed the development of a Knowledge sharing platform that connects
-                                    Mentors and Mentees. Mentedy is Place where people can find the knowledge of all
-                                    kind and share it between one’s who needs help or wants to personally grow.</p>
-                            </figcaption>
-                        </a>
-                    </div>
-                </div> -->
 
                 <div class="work__effect work__job3">
                     <div class="work">
@@ -235,7 +211,7 @@
                             <figcaption class="work__info">
                                 <img src="./img/references/solarwinds.svg" width="80" alt="Solarwinds" >
                                 <h3>Knowledge Base management</h3>
-                                <p>Giving MSP’s an ability to effectively create and manage company knowledge base
+                                <p>Giving MSP's an ability to effectively create and manage company knowledge base
                                     between technicians which makes it it easy to solve the issues and also allows users
                                     to avoid long wait times.</p>
                             </figcaption>
@@ -279,71 +255,9 @@
                 </div>
 
 
-
-
-
-                <div class="work__effect work__job5">
-                    <div class="work">
-                        <a href="/gordic-redesign">
-                            <figure class="work__image">
-                                <img srcset="img/work/gordic_main@1x.png 1x, img/work/gordic_main@2x.png 2x"
-                                    alt="Gordic company portal">
-                               
-                                    <div class="work__overlay">
-                                        <div class="overlay__text">
-                                            <span class="link odkaz">View case study</span>
-                                        </div>
-                                        <div class="overlay__meta">
-                                            <h4>Web design, Prototyping</h4>
-                                            <div>Web · B2B, B2G · 2018
-                                            </div>
-                                        </div>
-                                    </div>
-                            </figure>
-                            <figcaption class="work__info">
-                                <img src="./img/references/gordic_new.svg" width="80" alt="Gordic">
-                                <h3>Company website redesign</h3>
-                                <p>I had the opportunity to work on the redesign of GORDIC main website, create scalable
-                                    architecture, responsive wireframes, and interactions for more than hundreds of
-                                    subpages.
-                                </p>
-                            </figcaption>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="work__effect work__job6">
-                    <div class="work">
-                        <a href="/gordic-support">
-                            <figure class="work__image">
-                                <img srcset="img/work/gordic_support@1x.png 1x, img/work/gordic_support@2x.png 2x"
-                                    alt="Gordic support">
-                                        <div class="work__overlay">
-                                            <div class="overlay__text">
-                                                <span class="link odkaz">View case study</span>
-                                            </div>
-                                            <div class="overlay__meta">
-                                                <h4>Web design, Visual & interaction design</h4>
-                                                <div>Web · B2B, B2G
-                                                </div>
-                                            </div>
-                                        </div>
-                            </figure>
-                            <figcaption class="work__info">
-                                <img src="./img/references/gordic_new.svg" width="80" alt="Gordic">
-                                <h3>Learning & Support portal</h3>
-                                <p>I designed portal where GORDIC company shares personalized news, events, important
-                                    legal updates and best industry practices in order to help their customers to do the
-                                    right things right.</p>
-                            </figcaption>
-                        </a>
-                    </div>
-                </div>
-
-
                 <div class="work__job7">
                     <div id="ld_other"">
-						<a href=" #">
+						<a href="/work">
                         <ul>
                             <li><img srcset="img/work/floating_1@1x.png 1x, img/work/floating_1@2x.png 2x" width="200px"
                                     height="150px" alt="Raketak" loading="lazy"></li>
@@ -367,8 +281,7 @@
                                     height="221px" alt="ElNido" loading="lazy"></li>
                         </ul>
                         <div class="see__more">
-                            <a href="https://www.behance.net/jambi" class="link odkaz anim-middleout">See more on
-                                Behance</a>
+                            <a href="/work" class="link odkaz anim-middleout">See more work</a>
                         </div>
                         </a>
                     </div>
@@ -380,14 +293,13 @@
         <section class="ld__about">
             <div class="container--about">
                 <div class="about__text">
-                    <h1><span class="highlight_blue">HI,</span> I am David</h1>
-                    <p>I'm a passionate digital product designer currently living in Brno in Czechia. During the last ten years, I’ve worked as a Graphic, Web designer, Web developer, UX/UI, and Product designer for startups, corporates and also as the freelancer for my own clients where I’ve gained valuable experiences in different fields such as marketing, front-end development, project ownership, and building products from scratch. I want to get things done in a quick manner, but I still place emphasis on quality. Traveling, friends, adrenalin sport and adventures are the hobbies where I'm getting energy and inspiration from.</p>
+                    <h1><span class="highlight_blue">Hi,</span> I'm David</h1>
+                    <p>I'm a passionate self–taught digital product designer currently living in Brno in Czechia. During the last ten years, I've worked as a Graphic, Web designer, Web developer, UX/UI, and Product designer for startups, corporates and also as the freelancer for my own clients where I've gained valuable experiences in different fields such as marketing, front-end development, project ownership, and building products from scratch.</p>
+                     <p>I want to get things done in a quick manner, but I still place emphasis on quality. Traveling, friends, adrenalin sport and adventures are the hobbies where I'm getting energy and inspiration from.</p>
                     <div class="buttons__container">
                         <div class="wrap__ghost">
                             <a href="/about" class="link ghost__button">More about me</a>
                         </div>
-                        <a href="https://www.davidjambor.cz/assets/david_jambor_cv.pdf"
-                            class="link odkaz anim-middleout target=" _blank" rel="noopener noreferrer">Download CV</a>
                     </div>
                 </div>
                 <div class="about__photo">
@@ -401,7 +313,7 @@
 
         <section class="ld__process">
             <div class="container--process">
-                <h1>How I <span class="highlight_blue--light">design products.</span></h1>
+                <h1>How I <span class="highlight_blue--light">design products</span></h1>
                 <div class="wrapper__process">
                     <ul class="slider slider-nav">
                         <li class="active link" data-slide="1">01. Research</li>
@@ -417,7 +329,7 @@
                             <p>
                                 Designing without data is as driving without brakes, you can handle it, but it is a
                                 risk. Because of that, the most important thing is to know as much as possible about the
-                                problem/task and user need. Let’s gather at least quantitative data from available
+                                problem/task and user need. Let's gather at least quantitative data from available
                                 analytics or ideally plan the qualitative research, which would be even better.
                             </p>
                             <p>
@@ -461,7 +373,7 @@
                                 I will provide the design guidelines for the Front-end team and all other design sources
                                 to make sure they have everything they need. I will also keep an eye on design during
                                 the implementation and care about the quality and communicate the required changes. What
-                                next? Even the best products need to evolve. Let’s identify a new market niche and
+                                next? Even the best products need to evolve. Let's identify a new market niche and
                                 repeat this process again.
                             </p>
                         </div>

@@ -18,28 +18,25 @@
 
 
 <body>
-
-<body>
-
     <main>
         <section>
             <div data-scroll-container>
                 <div class="loco" data-scroll-section>
                     <div>
                     <h1 class="left-h1" data-scroll data-scroll-direction="horizontal" data-scroll-speed="-3" data-scroll-class="appear" data-scroll-repeat="true">Beautiful Holiday Destinations</h1>
-                    <p data-scroll data-scroll-direction="horizontal" data-scroll-speed="12">👋</p>
+                    <p data-scroll data-scroll-direction="horizontal" data-scroll-speed="6">👋</p>
                     </div>
                 </div>
                 <div class="loco" data-scroll-section>
                     <div>
                     <h2 data-scroll data-scroll-speed="1">Looks like rain</h2>
-                    <p data-scroll data-scroll-speed="4">🌧</p>
+                    <p data-scroll data-scroll-speed="2">🌧</p>
                     </div>
                 </div>
                 <div class="loco" data-scroll-section>
                     <div>
                     <h2 data-scroll data-scroll-speed="1">Have an apple</h2>
-                    <p data-scroll data-scroll-direction="horizontal" data-scroll-speed="-6">🍎</p>
+                    <p data-scroll data-scroll-direction="horizontal" data-scroll-speed="3">🍎</p>
                     </div>
                 </div>
             </div>
@@ -54,7 +51,8 @@
 	<script>
         const scroller = new LocomotiveScroll({
         el: document.querySelector('[data-scroll-container]'),
-        smooth: true
+        smooth: true,
+        multiplier: 5
         });
     </script>
 

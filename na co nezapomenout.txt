@@ -1,5 +1,4 @@
 ﻿work
-todo - main work link in headedr - work.php
 - udělat cookies stranku
 
 
@@ -14,4 +13,8 @@ aplikovat principy - https://polypane.app/blog/creating-websites-with-prefers-re
 BuG:
 - když kliknu na swipe tak zmizí "menu"
 - 404 nefunguje
-projet feedback html a dosttat hint
+- projet feedback html a dosttat hint
+
+
+Case studies
+ - build patičku -  see next projects

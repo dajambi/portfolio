@@ -10,6 +10,7 @@ $color-sky_blue: #00D9FF;
 $color-line: #20202B;
 $color-bg-grey: #EBEEF4;
 $fancy-bg: #131435;
+$dark-divider: #27272b;
 
  //text colors
 $text-shadow: #CACDCE;
@@ -49,9 +50,15 @@ $max_width: 1400px;
 
 // h1
 $min_font: 30px;
-$max_font: 50px;
+$min20_font: 20px;
+
+$max35_font: 35px;
 $max40_font: 40px;
+$max_font: 50px; //default
 $max60_font: 60px;
+$max80_font: 80px;
+
+
 
 
 //box shadow
