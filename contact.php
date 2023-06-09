@@ -11,10 +11,10 @@
     <?php include('_partials/meta-links.php') ?>
 
     <meta name="description"
-        content="Contact me — 🤘I am Digital Product (UI/UX/IxD) designer with a passion for functional design and with one rule in mind - Design is everything.">
+        content="Contact me — I’m Senior product designer with a passion for functional design and with one rule in mind - Design is everything.">
     <meta name="keywords"
         content="contact, contact me ,ux, user interface design, ui design, ux research, ui ix designer, interaction designer, user experience, mobile app design">
-    <title>Contact - David Jambor - Digital product (UI/UX/IxD) designer 🤘</title>
+    <title>Contact - Senior product designer</title>
 
 </head>
 

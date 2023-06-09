@@ -1,6 +1,6 @@
-// * {
+//  * {
 //  outline: 1px solid red;
-// }
+//  }
 
  //ui colors
 $color-white: #fff;
@@ -9,8 +9,10 @@ $color-cursor: #ff0000;
 $color-sky_blue: #00D9FF;
 $color-line: #20202B;
 $color-bg-grey: #EBEEF4;
+$color-bg-white: #f8f8f8;
 $fancy-bg: #131435;
-$dark-divider: #27272b;
+$dark-divider: #3a3a40;
+
 
  //text colors
 $text-shadow: #CACDCE;
@@ -41,6 +43,7 @@ $textsize--small: 12px;
 $line-height--big: 50px;
 $line-height--standard: 36px;
 $line-height--responsive: 30px;
+$line-height--middle: 28px;
 $line-height--neutral: 24px;
 $line-height--small: 20px;
 
@@ -57,9 +60,6 @@ $max40_font: 40px;
 $max_font: 50px; //default
 $max60_font: 60px;
 $max80_font: 80px;
-
-
-
 
 //box shadow
 $elevation1: 20px 44px 64px 0 rgba(134, 135, 160, 0.14), 0 32px 32px 0 rgba(117, 120, 153, 0.02), 0 16px 16px 0 rgba(118, 119, 155, 0.02), 0 8px 8px 0 rgba(122, 120, 152, 0.06), 0 4px 4px 0 rgba(118, 115, 154, 0.04);

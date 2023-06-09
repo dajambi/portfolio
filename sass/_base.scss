@@ -30,6 +30,7 @@
 		display: flex;
 		margin-top: 30vh;
 		justify-content: center;
+		will-change: opacity;
 		animation-name: logo;
 				animation-duration: 2.5s;
 				animation-iteration-count: infinite;
@@ -47,11 +48,11 @@
 
 
 html {
-	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-khtml-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
+	box-sizing: border-box;
 	transition:all 0.5s ease-in-out;
 	scroll-behavior: smooth;
 	font-variant-numeric: lining-nums; 
@@ -64,17 +65,17 @@ html:focus-within {
   }
 
 *, *::before, *::after {
-	box-sizing: inherit;
 	-webkit-box-sizing: inherit;
 	-khtml-box-sizing: inherit;
 	-moz-box-sizing: inherit;
 	-ms-box-sizing: inherit;
+	box-sizing: inherit;
 }
 
 
 body {
 	font-weight: bold;
-	background: $color-white;
+	background: $color-bg-white;
 	font-family: 'Montserrat', sans-serif;
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: auto;

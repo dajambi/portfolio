@@ -5,7 +5,7 @@
   line-height: $line-height--standard;
   text-align: left;
   font-weight: 400;
-  background: url(../img/lines.svg) repeat-y 50% 50%;
+  background: url(../img/lines.svg) repeat-y 50% 50% $color-bg-white;
 }
 
 p a[data-fx="12"] {
@@ -208,7 +208,6 @@ p a[data-fx="12"] {
 
 
 #about__expectations {
-  margin-top: 6.25rem;
 
   .skills {
     display: flex;
@@ -485,6 +484,7 @@ p a[data-fx="12"] {
   position: relative;
   flex-direction: row;
   overflow: hidden;
+  margin-top: 6.25rem;
 
 
 
@@ -632,6 +632,7 @@ p a[data-fx="12"] {
       transition: all 0.3s ease-in;
       transform-style: preserve-3d;
       perspective: 1000px;
+      will-change: transform, opacity;
       animation: 
           circle--anim1 10s ease-in-out infinite both alternate,
           circle--anim2 15s ease-in-out infinite both;

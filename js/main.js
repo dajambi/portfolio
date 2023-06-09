@@ -642,6 +642,7 @@ window.addEventListener('keydown', (event) => {
     $('nav a').addClass('change');
     $('.ellipse').css('display', 'none');
     $('#navigation').addClass('esc');
+    $('#navigation').addClass('active');
     $('body').addClass('lock-scroll');
   } 
 }

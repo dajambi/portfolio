@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<?php include('_partials/spy.php') ?>
+<?php include '_partials/spy.php'; ?>
 <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
 <!--[if IE]>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
 <![endif]-->
 
 <head>
-    <?php include('_partials/loading.php') ?>
-    <?php include('_partials/meta-links.php') ?>
+    <?php include '_partials/loading.php'; ?>
+    <?php include '_partials/meta-links.php'; ?>
 
     <meta name="description"
         content="About me - 🤘I am Digital Product (UI/UX/IxD) designer with a passion for functional design and with one rule in mind - Design is everything.">
@@ -17,7 +17,7 @@
 
 </head>
 
-<?php include('_partials/tag-manager.php') ?>
+<?php include '_partials/tag-manager.php'; ?>
 
 
 <body class="custom_cursor">
@@ -26,7 +26,7 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include('_partials/loading_overlay.php') ?>
+    <?php include '_partials/loading_overlay.php'; ?>
 
     <div class="cursor cursor--small"></div>
     <canvas class="cursor cursor--canvas" resize></canvas>
@@ -45,18 +45,17 @@
             </div>
 
 
-            <?php include('_partials/menu-icon.php') ?>
-            <?php include('_partials/navigation.php') ?>
+            <?php include '_partials/menu-icon.php'; ?>
+            <?php include '_partials/navigation.php'; ?>
 
             <div id="header_text--about">
                 <h1><span class="highlight_blue">Hello,</span> <br>beautiful people, pleasure to see you here</h1>
-                <p>My name is David and I'm a digital product designer currently living in Brno. During the last eight
-                    years I've
-                    worked as the Graphic, Web designer, UX/UI and Product designer for startups, corporates and also as
+                <p>My name is David and I'm a Senior product designer currently living in Czechia. During the last ten
+                    years I've worked as the Graphic, Web designer, UX/UI and Product designer for startups, corporates and also as
                     the freelancer for my own clients.</p>
                 <div class="ab_stats">
                     <ul>
-                        <li>9+ <span>Years in design</span></li>
+                        <li>10+ <span>Years in design</span></li>
                         <li>200+ <span>Projects</span></li>
                         <li>30+ <span>Own clients</span></li>
                         <li>5+ <span>Years in remote</span></li>
@@ -133,25 +132,17 @@
                         </div>
                     </div>
                     <div class="steps--right">
-                        <p>Design is something I always did and always loved. One and a half-decade back, I luckily
-                            installed Photoshop and designed the first web with one paragraph and three buttons 👏 This
-                            started my design journey.</p>
-                        <p>After that, I designed and somehow coded the <a data-img="img/about/bside.png"
-                                data-fx="12">gaming
-                                portal</a> for myself and my gaming
-                            companions. As a teenager, I found a passion for design and it brought me the first clients
-                            and this gives me <a data-img="img/about/freedom.gif" data-fx="12">freedom.</a> </p>
+                        <p>Design is something I have always loved and been passionate about. One and a half decades ago, I was lucky enough to install Photoshop and design my first website, which consisted of one paragraph and three buttons 👏. This marked the beginning of my design journey.</p>
 
-                        <p>At the university, I realize how I can combine a design with business and project
-                            management. So I started a new journey as a freelancer. During the five years, that I spent
-                            in
-                            college, I designed over a hundred <a data-img="img/about/webs.jpg"
+                        <p>As a teenager, I designed and coded a <a data-img="img/about/bside.png" data-fx="12">gaming portal</a> for myself and my gaming companions. My passion for design led me to my first clients, which gave me the <a data-img="img/about/freedom.gif" data-fx="12">freedom.</a> to pursue it further. </p>
+
+                        <p> While in university, I realized how I could combine design with business and project management, and so, I started a new journey as a freelancer. Over the course of five years, I designed over a 
+                             <a data-img="img/about/webs.jpg"
                                 data-fx="12">websites</a>, dozens of logos, <a data-img="img/about/posters.jpg"
                                 data-fx="12">posters</a>, <a data-img="img/about/billboards.jpg"
-                                data-fx="12">billboards</a>, car
-                            wraps, book covers, email campaigns and business cards. When the client asked for something,
-                            I did my best to deliver it even though I didn't know how. Almost everything I learned, I
-                            learned on the go and most of it by myself. It was a great adventure with many mistakes.
+                                data-fx="12">billboards</a>
+                            , car wraps, book covers, email campaigns, and business cards.
+                            Whenever a client requested something I didn't know how to do, I did my best to learn and deliver it. Almost everything I learned, I learned on the go and mostly by myself. It was a great adventure with many mistakes, but I learned a lot from it.
                             This experience I used when my mother started her business. I helped her to design a
                             customer experience, not just a marketing web. This was something I really liked because it
                             wasn't temporary and it had high value. Therefore after college, I jump into UX and started
@@ -203,39 +194,73 @@
             </div>
         </section>
 
-        <section id="about__opinions">
-            <div class="opinions__graphic">
+        <section id="about__principles">
+            <div class="principles__graphic">
                 <div class="about--wrapper">
-                    <h1>Work <span class="highlight_blue">attitude</span><br> & references</h1>
-                    <p class="opinions__intro">I'm lucky that I turned my passion into a job — designing and building a
-                        digital product that has a positive impact on people's life. It is not actually a job for me, it
-                        is a hobby. Thanks to this positive approach I've always strived to achieve the best possible
-                        results and went the extra mile to deliver them. Not because I have to, but because I wanted it.
-                        <strong>Passion&nbsp;<span class="blues">+</span>&nbsp;full
-                            commitment</strong> are my drivers and that's probably
-                        why others like my work.
-                    </p>
-                    <div id="design_for">I designed <br> <span>for</span></div>
-                    <div class="about-logos">
-                        <a href="https://www.outreach.io/" target="_blank"><img src="./img/references/outreach.svg"
-                                alt="Outreach.io" loading="lazy"></a>
-                        <a href="https://www.kiwi.com/" target="_blank"><img src="./img/references/kiwi.svg"
-                                alt="kiwi.com" loading="lazy"></a>
-                        <a href="https://www.solarwinds.com/" target="_blank"><img src="./img/references/solarwinds.svg"
-                                alt="solarwinds" loading="lazy"></a>
-                        <a href="https://www.gordic.cz/" target="_blank"><img src="./img/references/gordic_new.svg"
-                                alt="gordic" loading="lazy"></a>
-                        <a href="https://www.ntsup.eu/" target="_blank"><img src="./img/references/ntsup.svg"
-                                alt="ntsup" loading="lazy"></a>
-                        <a href="https://www.ntsup.eu/" target="_blank"><img src="./img/references/smartest.svg"
-                                alt="smartest" loading="lazy"></a>
-                        <a href="https://www.emontana.cz/" target="_blank"><img src="./img/references/emontana.svg"
-                                alt="emontana" loading="lazy"></a>
-                        <a href="http://www.techsophia.cz/" target="_blank"><img src="./img/references/techsophia.png"
-                                alt="Techsophia" width="128px" loading="lazy"></a>
+                    <h1>
+                        <span class="highlight_blue">My</span> missions <br>& principles ↘
+                    </h1>
+                    <div class="expectations">
+                        <div class="expec--left">
+                            <h2>Two bold missions</h2>
+                        </div>
+                        <div class="expec--right">
+                            <p><sup>1</sup> It all starts with the people and their skills — this is a mantra of
+                                my startup
+                                <a href="https://mentedy.com" target="_blank"
+                                    class="link odkaz anim-middleout">Mentedy.com.</a>
+                                that helps companies to manage skills and help employees grow through → internal and
+                                external mentoring.
+                            </p>
+                            <p><sup>2</sup> Designing and transforming Sales analytics into simple and actionable stories in 
+                            <a href="https://www.outreach.io/" target="_blank" class="link odkaz anim-middleout">Outreach.io</a></p>
+                        </div>
+                    </div>
+                    <div class="expectations">
+                        <div class="expec--left">
+                            <h2>My five principles</h2>
+                        </div>
+                        <div class="expec--right">
+                            <ul class="accordion">
+                                <li>
+                                    <a><span><sup>1</sup></span>Design is everything</a>
+                                    <p>Design is everything - and it is true. Design goes beyond nice pixels and aesthetics. It's about how every element of a product or service works together to create a seamless and enjoyable experience for the customer. From service to support, sales to marketing, every touchpoint must be carefully crafted to ensure a cohesive and engaging user journey. In today's highly competitive market, good design is no longer optional. It's what sets apart successful products and services and drives long-term success. However, good design is not just about the big picture.</p>
+                                    
+                                    <p>It's also about the details - the little things that may go unnoticed but can make a significant difference in the overall experience. Without attention to detail, even the best-designed product or service may fall short of its potential. Therefore, it's crucial to give design and customer experience a central place in your company's structure if you want to create a standout product that resonates with your customers.</p>
+                                </li>
+                                <li>
+                                    <a><span><sup>2</sup></span> There is no substitute of hard work</a>
+                                    <p>Everything I've achieved in sport, school, job or life was thanks to hard work,
+                                        endurance and a positive approach and it didn't happen over the night. I like a
+                                        famous quote from Arnold Schwarzenegger „If you don't find the time, if you
+                                        don't do the work, you don't get the results." — this streams through my veins
+                                        and I believe
+                                        that it is reflected in my work.</p>
+                                </li>
+                                <li>
+                                    <a><span><sup>3</sup></span>Never stop evolving</a>
+                                    <p>The feedback is the best thing you can get even though it is hard to accept it
+                                        sometimes. But it is the only way how to move forward. Basically it is a simple
+                                        formula — pain + reflection + open mind = progress. The same way works the
+                                        design process and the same way I use this principle for my personal
+                                        development.</p>
+                                </li>
+                                <li>
+                                    <a><span><sup>4</sup></span>Honesty and open communication</a>
+                                    <p>I really do respect people and I believe in open communication culture. I did a
+                                        few mistakes in the past when I was quiet and followed the crowd, but I will not
+                                        repeat it. So now when I don't like something I say it, when I see space for
+                                        improvements I say it even if you will be the highest-paid person in the room.
+                                    </p>
+                                </li>
+                                <li>
+                                    <a><span><sup>5</sup></span>It has to be diverse and fun</a>
+                                    <p>I love working in a startup mode. The mode where people are doing their best, where everyone goes far beyond their own responsibilities, and when you can grab the beer and enjoy a nice moment with the team. I am enjoying very diverse projects. The projects where I can collaborate or handle the research, design, validation, motion, or help with the design system and principles. Thanks to my side project I also found a passion in front-end, product/project management, and go-to-market activities.</p>
+                                </li>
+                                <ul>
+                        </div>
                     </div>
                 </div>
-                <?php include('_partials/testimonials.php') ?>
             </div>
         </section>
 
@@ -368,71 +393,34 @@
             </div>
         </section>
 
-        <section id="about__principles">
-            <div class="principles__graphic">
+        <section id="about__opinions">
+            <div class="opinions__graphic">
                 <div class="about--wrapper">
-                    <h1>
-                        <span class="highlight_blue">My</span> missions <br>& principles ↘
-                    </h1>
-                    <div class="expectations">
-                        <div class="expec--left">
-                            <h2>Two bold missions</h2>
-                        </div>
-                        <div class="expec--right">
-                            <p><sup>1</sup> It all starts with the people and their skills — this is a mantra of
-                                my startup
-                                <a href="https://mentedy.com" target="_blank"
-                                    class="link odkaz anim-middleout">Mentedy.com.</a>
-                                that helps companies to manage skills and help employees grow through → internal and
-                                external mentoring.
-                            </p>
-                            <p><sup>2</sup> Designing and transforming Sales analytics into simple and actionable stories in 
-                            <a href="https://www.outreach.io/" target="_blank" class="link odkaz anim-middleout">Outreach.io</a></p>
-                        </div>
-                    </div>
-                    <div class="expectations">
-                        <div class="expec--left">
-                            <h2>My five principles</h2>
-                        </div>
-                        <div class="expec--right">
-                            <ul class="accordion">
-                                <li>
-                                    <a><span><sup>1</sup></span>Design is everything</a>
-                                    <p>Design is everything - and it is true. I don't mean pixels, but how everything works together. It's about the service, support, sales, marketing — it is about every customer touchpoint. Especially now when the good design is no longer optional. This is what will make products or services different and bring long-term success even in a very competitive market. If you want your product to stand out then the design and the customer experience have to have a key place in your company structure. Otherwise, it will be very hard to even start.</p>
-                                </li>
-                                <li>
-                                    <a><span><sup>2</sup></span> There is no substitute of hard work</a>
-                                    <p>Everything I've achieved in sport, school, job or life was thanks to hard work,
-                                        endurance and a positive approach and it didn't happen over the night. I like a
-                                        famous quote from Arnold Schwarzenegger „If you don't find the time, if you
-                                        don't do the work, you don't get the results." — this streams through my veins
-                                        and I believe
-                                        that it is reflected in my work.</p>
-                                </li>
-                                <li>
-                                    <a><span><sup>3</sup></span>Never stop evolving</a>
-                                    <p>The feedback is the best thing you can get even though it is hard to accept it
-                                        sometimes. But it is the only way how to move forward. Basically it is a simple
-                                        formula — pain + reflection + open mind = progress. The same way works the
-                                        design process and the same way I use this principle for my personal
-                                        development.</p>
-                                </li>
-                                <li>
-                                    <a><span><sup>4</sup></span>Honesty and open communication</a>
-                                    <p>I really do respect people and I believe in open communication culture. I did a
-                                        few mistakes in the past when I was quiet and followed the crowd, but I will not
-                                        repeat it. So now when I don't like something I say it, when I see space for
-                                        improvements I say it even if you will be the highest-paid person in the room.
-                                    </p>
-                                </li>
-                                <li>
-                                    <a><span><sup>5</sup></span>It has to be diverse and fun</a>
-                                    <p>I love working in a startup mode. The mode where people are doing their best, where everyone goes far beyond their own responsibilities, and when you can grab the beer and enjoy a nice moment with the team. I am enjoying very diverse projects. The projects where I can collaborate or handle the research, design, validation, motion, or help with the design system and principles. Thanks to my side project I also found a passion in front-end, product/project management, and go-to-market activities.</p>
-                                </li>
-                                <ul>
-                        </div>
+                    <h1>Work <span class="highlight_blue">attitude</span><br> & references</h1>
+                    <p class="opinions__intro">
+                        I feel fortunate to have transformed my passion for digital product design and development into a fulfilling career that positively impacts people's lives. For me, it's more than just a job; it's a personal interest and hobby that drives me to strive for excellence in every project I undertake. My dedication&nbsp;<span class="blues">+</span>&nbsp;commitment to achieving exceptional outcomes stem from my passion for the craft, rather than a sense of obligation. I believe that my genuine enthusiasm and unwavering focus on delivering quality results are what have earned me recognition and appreciation from my peers and clients alike.
+                    </p>
+                    <div id="design_for">I designed <br> <span>for</span></div>
+                    <div class="about-logos">
+                        <a href="https://www.outreach.io/" target="_blank"><img src="./img/references/outreach.svg"
+                                alt="Outreach.io" loading="lazy"></a>
+                        <a href="https://www.kiwi.com/" target="_blank"><img src="./img/references/kiwi.svg"
+                                alt="kiwi.com" loading="lazy"></a>
+                        <a href="https://www.solarwinds.com/" target="_blank"><img src="./img/references/solarwinds.svg"
+                                alt="solarwinds" loading="lazy"></a>
+                        <a href="https://www.gordic.cz/" target="_blank"><img src="./img/references/gordic_new.svg"
+                                alt="gordic" loading="lazy"></a>
+                        <a href="https://www.ntsup.eu/" target="_blank"><img src="./img/references/ntsup.svg"
+                                alt="ntsup" loading="lazy"></a>
+                        <a href="https://www.ntsup.eu/" target="_blank"><img src="./img/references/smartest.svg"
+                                alt="smartest" loading="lazy"></a>
+                        <a href="https://www.emontana.cz/" target="_blank"><img src="./img/references/emontana.svg"
+                                alt="emontana" loading="lazy"></a>
+                        <a href="http://www.techsophia.cz/" target="_blank"><img src="./img/references/techsophia.png"
+                                alt="Techsophia" width="128px" loading="lazy"></a>
                     </div>
                 </div>
+                <?php include '_partials/testimonials.php'; ?>
             </div>
         </section>
 
@@ -519,8 +507,8 @@
         </section>
     </main>
 
-    <?php include('_partials/footer.php') ?>
-    <?php include('_partials/footer-links.php') ?>
+    <?php include '_partials/footer.php'; ?>
+    <?php include '_partials/footer-links.php'; ?>
     <script src="js/TweenMax.min.js"></script>
     <script src="js/hoverEffect.js"></script>
 </body>

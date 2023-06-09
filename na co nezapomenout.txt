@@ -12,9 +12,12 @@ aplikovat principy - https://polypane.app/blog/creating-websites-with-prefers-re
 
 BuG:
 - když kliknu na swipe tak zmizí "menu"
-- 404 nefunguje
 - projet feedback html a dosttat hint
+
 
 
 Case studies
  - build patičku -  see next projects
+
+
+ Book a call with me to add to themenu

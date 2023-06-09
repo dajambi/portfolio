@@ -10,10 +10,10 @@
     <?php include '_partials/meta-links.php'; ?>
 
     <meta name="description"
-        content="About me - 🤘I am Digital Product (UI/UX/IxD) designer with a passion for functional design and with one rule in mind - Design is everything.">
+        content="About me -I’m senior product designer with a passion for functional design and with one rule in mind - Design is everything.">
     <meta name="keywords"
         content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
-    <title>Work - UX projects and design for digital products 🤘</title>
+    <title>Work - UX projects and design for digital products</title>
 </head>
 
 <?php include '_partials/tag-manager.php'; ?>
@@ -31,7 +31,6 @@
     <canvas class="cursor cursor--canvas" resize></canvas>
 
     <header class="home about hwork">
-        <div class="ellipse"></div>
         <div class="container">
             <div class="logo">
                 <a href="https://www.davidjambor.cz"><img src="./img/logo.svg"
@@ -49,10 +48,16 @@
 
             <div id="header_text--work">
                 <p>The mix of</p>
-                <h1>Projects 
-                    <span class="wt-image"><img srcset="img/work-header-1@1x.png 1x, img/work-header-1@2x.png 2x" alt="Products" ></span> Products<br>
-                    <span class="experiment">&&nbsp;experiments</span>
-                    <span class="wt-image"><img srcset="img/work-header-2@1x.png 1x, img/work-header-2@2x.png 2x" alt="experiments" ></span></h1>
+                <div class="header--row"> 
+                    <h1>Projects </h1>
+                    <div class="wt-image"><img srcset="img/work-header-1@1x.png 1x, img/work-header-1@2x.png 2x" alt="Products"></div>
+                    <h1>Products</h1>
+                </div>
+                <div class="header--row2"> 
+                    <h1 class="experiment">&&nbsp;experiments</h1>
+                    <div class="wt-image"><img srcset="img/work-header-2@1x.png 1x, img/work-header-2@2x.png 2x" alt="experiments"></div>
+                </div>
+                
                 <p>I'm proud of.</p>
             </div>
             
@@ -60,7 +65,7 @@
                 <div class="line1">
                 Design is everything <span>—</span> Design empowers <span>—</span> Design provides value <span>—</span> Design improves business <span>—</span> Design strives for perfection <span>—</span> Design solves challenges <span>—</span>  Design last for ages <span>—</span>  Design is everything <span>—</span> Design empowers <span>—</span> Design provides value <span>—</span> Design improves business <span>—</span> Design strives for perfection <span>—</span> Design solves challenges <span>—</span>  Design last for ages
                 </div>
-                <div class="line2">
+                <div class="line2 reverse">
                 Design harness the opportunity <span>—</span> Design identify and capture value <span>—</span> Design influence <span>—</span> Design makes lives easier <span>—</span> Design is innovation <span>—</span> Design challenges status quo <span>—</span> Product discovery <span>—</span> Product strategy  <span>—</span> Design sprints <span>—</span> Product design <span>—</span> Product vision <span>—</span> Design system <span>—</span> Rapid prototyping <span>—</span> Design validation <span>—</span> Product experimentation <span>—</span> Product discovery <span>—</span> Product strategy  <span>—</span> Design sprints 
                 </div>
             </div>
@@ -113,7 +118,7 @@
     </header>
 
     <main id="home">
-        <div id="black" class="wblack">
+        <div id="black workcont" class="wblack">
             <section id="container__work--black">
                 <div id="project-text">
                     <h1>Chosen <span class="highlight_blue">case studies</span></h1>
@@ -356,37 +361,28 @@
             <div class="figma__detail">
 
                 <article>
-                    <div class="work">
-                        <a href="https://www.figma.com/community/file/926864817495202639" target="_blank"> 
-                            <figure class="ar--first work__image">
-                                <img srcset="img/icons@1x.png 1x, img/icons@2x.png 2x" alt="Icons for design portfolio" width="454px" height="273px" loading="lazy">
-                                <div class="work__overlay">
-                                    <div class="overlay__text">
-                                        <span class="link odkaz">View case study</span>
-                                    </div>
-                                </div>
-                            </figure>
-                            <figcaption>
-                                <p>#Design #Skills #Iconography  #Portfolio</p>
-                            </figcaption>
+                        <figure class="ar--first work__image">
+                            <img srcset="img/icons@1x.png 1x, img/icons@2x.png 2x" alt="Icons for design portfolio" width="454px" height="273px" loading="lazy">
+                        </figure>
+                        <figcaption>
+                            <p>#Design #Skills #Iconography  #Portfolio</p>
+                        </figcaption>
 
-                            <h2>Icons for design portfolio</h2>
-                            <p>I've created a free icon set to visually represent the design skills and information related to design case studies — so now you can focus on writings, not on the visuals. Light and dark variation is available for Figma. </p>
-                            <a href="https://www.figma.com/community/file/926864817495202639" target="_blank" class="link odkaz anim-middleout">Open in Figma</a>
-                        </a>
-                    </div>
+                        <h2>Icons for design portfolio</h2>
+                        <p>I've created a free icon set to visually represent the design skills and information related to design case studies — so now you can focus on writings, not on the visuals. Light and dark variation is available for Figma. </p>
+                        <a href="https://www.figma.com/community/file/926864817495202639" target="_blank" class="link odkaz anim-middleout">Get icons</a>
                 </article>
 
                 <article>
                     <figure class="ar--first ar--second">
-                        <img srcset="img/Roadmap@1x.png 1x, img/Roadmap@2x.png 2x" alt="Rodmap for strategizing, planning" width="454px" height="273px" loading="lazy">
+                        <img srcset="img/Roadmap@1x.png 1x, img/Roadmap@2x.png 2x" alt="Design roadmap for strategizing, planning" width="454px" height="273px" loading="lazy">
                     <figcaption>
                         <p>#Figma  #DesignOps  #DesignStrategy  #DesignPlanning</p>
                     </figcaption>
                         <h2>Design roadmap</h2>
                     </figure>
                     <p>Strategizing, planning & communicating progress to your team - Use your loved Figma and have your plan, design execution, documentation, and hand-off in one place — there is new tool for your design planning.</p>
-                    <a href="https://www.figma.com/community/file/1126601931242717830" class="link odkaz anim-middleout">Open in Figma</a>
+                    <a href="https://www.figma.com/community/file/1126601931242717830" class="link odkaz anim-middleout">Get roadmap template</a>
                 </article>
             </div>
             <div class="figma--deco deco--2">Free sources</div>
@@ -402,9 +398,9 @@
                 <div class="w__curriculum">  
                      <ul>
                          <li>
-                             <div>Current</div>
+                             <div>Now</div>
                              <div>Outreach.io</div>
-                             <div>Product designer</div>
+                             <div>Product designer & Senior product designer</div>
                              <div class="w_location">Czechia · Prague · Hybrid</div>
                          </li>
                          <li>
@@ -430,10 +426,10 @@
                     <h3>Personal project</h3>
                     <ul>
                          <li>
-                             <div>2018–2022</div>
+                             <div>2018 – 2022</div>
                              <div>Mentedy.cz</div>
                              <div>Full stack designer & Product evangelist</div>
-                             <div class="w_location">Internet world</div>
+                             <div class="w_location">Cloud</div>
                          </li>
                      </ul>
 

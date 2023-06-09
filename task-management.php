@@ -1,6 +1,3 @@
-<?php 
-include('password_protection.php');
-?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
 <!--[if IE]>

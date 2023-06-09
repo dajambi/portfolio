@@ -44,7 +44,7 @@
                         exist.</span></div>
                 <p>Go back to
                     <a href="https://www.davidjambor.cz/" class="link odkaz anim-middleout">homepage</a> or
-                    <a href="#hs-chat-open" class="link odkaz anim-middleout">send me a message</a>
+                    <a href="mailto:ja@davidjambor.cz?subject=Hello%20David&body=Hello!%20I'd%20like%20to%20ask%20for..."  class="link odkaz anim-middleout">send me a message</a>
                     if you need to find something specific.
                 </p>
                 <video width="100%" video="100%" style="width:100%, height:100%" playsinline autoplay muted loop>

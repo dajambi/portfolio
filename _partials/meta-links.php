@@ -27,7 +27,8 @@
 	
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" >	
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
+	
 	<link rel="stylesheet" type="text/css" href="css/styles.css" />
 	
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css" integrity="sha512-wR4oNhLBHf7smjy0K4oqzdWumd+r5/+6QO/vDda76MW5iug4PT7v86FoEkySIJft3XA0Ae6axhIvHrqwm793Nw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -42,4 +43,3 @@
 	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png" />
 	<link rel="icon" type="image/png" href="/img/favicons/favicon-32x32.png" sizes="32x32" />
 	<link rel="icon" type="image/png" href="/img/favicons/favicon-16x16.png" sizes="16x16" />
-	<link rel="manifest" href="./manifest.json">

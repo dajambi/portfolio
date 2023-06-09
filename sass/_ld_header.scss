@@ -68,6 +68,7 @@ header {
         text-align: center;
         display: flex;
         top: 20px;
+        padding-top: 2px;
         left: -28px;
         width: 1.25rem;
         height: 1.25rem;
@@ -87,6 +88,7 @@ header {
         text-align: center;
         display: flex;
         top: 20px;
+        padding-top: 2px;
         left: -44px;
         width: 2.25rem;
         height: 1.25rem;
@@ -116,7 +118,6 @@ header {
 
       svg {
         margin-left: 16px;
-        
       }
 
       &:hover .icon {
@@ -237,8 +238,8 @@ header {
       }
       
       h1 {
-        font-size: 50px;
-        line-height: 60px;
+        @include fluid-type($min_width, $max_width, $min_font, $max_font);
+        line-height: calc(30px + (60 - 30) * ((100vw - 320px) / (1400 - 320)));
         color: $text-snow;
         padding-right:30px;
       }
@@ -462,12 +463,6 @@ header {
 
             p {
               line-height: $line-height--responsive;
-            }
-
-              h1 {
-              font-size: $textsize--responsive;
-              padding-right: 0;
-            letter-spacing: -1.7px;
             }
           }
 

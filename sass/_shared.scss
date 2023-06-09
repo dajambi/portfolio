@@ -54,11 +54,13 @@ body.custom_cursor {
   min-width: 165px;
   padding: 2px;
   margin-right: 30px;
+  border-radius: 0.75rem;
 
   a {
     font-weight: 400;
     color: $color-white;
     transition: all 0.3s ease-out;
+    border-radius: 0.75rem;
 
     &:hover {
       color:$color-sky_blue;
@@ -71,6 +73,7 @@ body.custom_cursor {
   text-align: center;
   padding:0  25px;
   background: #050521;
+  border-radius: 0.75rem;
 }
 
 .page {
@@ -104,6 +107,7 @@ body.custom_cursor {
 header, main, .page, .page a {
   cursor: default; 
   cursor: none;
+  background-color: $color-bg-white;
 }
 
 footer {
@@ -112,6 +116,7 @@ footer {
   border-top: 1px solid #F0F0F0;
   display: flex;
   flex-direction: column;
+  background: $color-bg-white;
 
   ul {
     list-style: none;
@@ -120,20 +125,16 @@ footer {
 
     li {
     height: 50px;
-    margin-top: 5px;
     width: auto;
-    display: block;
+    display: flex;
 
       a {
         height: 50px;
+        min-width: 3rem;
         display: block;
+        padding: 0px 12px;
       }
     }
-
-    li:first-child {
-      width: 150px;
-    }
- 
   }
 
   .container__footer {
@@ -174,10 +175,11 @@ footer {
 
     a {
       font-size: 12px;
+      display: flex;
       color: #399CB7;
-      margin-right: 40px;
       fill: #171717;
-      height: 50px;
+      align-items: center;
+      justify-content: center;
     }
     
     .icon {

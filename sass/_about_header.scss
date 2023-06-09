@@ -73,7 +73,7 @@
 
     #step__decoration {
       position: absolute;
-      background:white;
+      background:$color-bg-white;
       height: 3.7rem;
       width: 50%;
       bottom: -1px;
@@ -86,7 +86,7 @@
         bottom: 3.65rem;
         width: 5rem;
         height: 3.75rem;
-        background:white;
+        background:$color-bg-white;
         right: 0;
         z-index: inherit;
       }

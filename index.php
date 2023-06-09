@@ -1,24 +1,24 @@
 <?php session_start(); ?>
 <!DOCTYPE html>
-<?php include('_partials/spy.php') ?>
+<?php include '_partials/spy.php'; ?>
 <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
 <!--[if IE]>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
 <![endif]-->
 
 <head>
-    <?php include('_partials/loading.php') ?>
-    <?php include('_partials/meta-links.php') ?>
+    <?php include '_partials/loading.php'; ?>
+    <?php include '_partials/meta-links.php'; ?>
 
     <meta name="description"
-        content="🤘I am Senior digital Product (UI/UX/IxD) designer with a passion for functional design and with one rule in mind - Design is everything.">
+        content="🤘I’m Senior product designer with a passion for functional design and with one rule in mind - Design is everything.">
     <meta name="keywords"
         content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
-    <title>David Jambor - Portfolio - Senior digital product (UI/UX/IxD) designer 🤘</title>
+    <title>David Jambor - Portfolio - Senior product designer 🤘</title>
 
 </head>
 
-<?php include('_partials/tag-manager.php') ?>
+<?php include '_partials/tag-manager.php'; ?>
 
 <body class="custom_cursor">
     <!-- Google Tag Manager (noscript) -->
@@ -26,7 +26,7 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include('_partials/loading_overlay.php') ?>
+    <?php include '_partials/loading_overlay.php'; ?>
 
     <div class="cursor cursor--small"></div>
     <canvas class="cursor cursor--canvas" resize></canvas>
@@ -41,8 +41,8 @@
             <div class="welcome">Welcome</div>
 
 
-            <?php include('_partials/menu-icon.php')?>
-            <?php include('_partials/navigation.php')?>
+            <?php include '_partials/menu-icon.php'; ?>
+            <?php include '_partials/navigation.php'; ?>
 
             <div id="face">
                 <div id="abstract"></div>
@@ -51,9 +51,9 @@
             <div id="header_text">
                 <h1>I transfer ideas into real <span class="highlight_blue">digital products</span></h1>
                 <p>Hello, I'm David, <strong>Senior product designer</strong> with a passion for functional
-                    design and with one rule in mind - <strong>Design is&nbsp;everything.</strong> Currently designing
-                    Sales analytics and reporting features at Outreach.io and building my startup Mentedy.com</p>
-
+                    design.  My guiding principle is - <strong>Design is&nbsp;everything.</strong>
+                    Currently designing cutting-edge AI features that empower sales professionals for Outreach.io</p>
+                    
                 <div id="clients">
                     <div id="design_for">I designed <br> <span>for</span></div>
                     <div id="logos">
@@ -121,14 +121,11 @@
         <div id="black">
             <section id="container__work--black">
                 <div id="project-text">
-                    <h1>Chosen <span class="highlight_blue">project</span></h1>
-                    <p>Since 2012 I've had privileges and opportunities to design for entrepreneurs, startups, and for SaaS
-                        companies with a global reach. By using data, design frameworks and by applying design
-                        principles I'm able to rapidly deliver an impactful solution, not just pixels, for web or
-                        mobile app. The goal is to solve the business problem, met users' needs, satisfy KPIs, and hit
-                        the market niche. Do you like this approach? <span>
-                            <a href="#hs-chat-open"
-                                class="link odkaz anim-middleout">Let's&nbsp;design&nbsp;next big thing&nbsp;together.</a>
+                    <h1>Chosen <span class="highlight_blue">projects</span></h1>
+                    <p>Since 2012, I've been fortunate enough to design for entrepreneurs, startups, and SaaS companies worldwide! By using data, design frameworks, and applying design principles, I'm able to deliver impactful solutions quickly, not just pretty pixels, for web or mobile apps. The aim is to solve business problems, meet users' needs, satisfy KPIs, and hit the market niche. Do you like this approach? <span>
+                        <a href="#hs-chat-open"
+                            class="link odkaz anim-middleout">Let's&nbsp;design&nbsp;next big thing&nbsp;together.
+                        </a>
                     </p>
                 </div>
 
@@ -202,7 +199,6 @@
                                     <div class="overlay__meta">
                                         <h4>UX/UI, Prototyping</h4>
                                         <div>CloudApp · B2B  · 2018
-                                            <span class="protected">Password required</span>
                                         </div>
                                     </div>
                                 </div>
@@ -237,7 +233,6 @@
                                         <div class="overlay__meta">
                                             <h4>UX/UI, Prototyping</h4>
                                             <div>CloudApp · B2B · 2017
-                                                <span class="protected">Password required</span>
                                             </div>
                                         </div>
                                 </div>
@@ -294,8 +289,9 @@
             <div class="container--about">
                 <div class="about__text">
                     <h1><span class="highlight_blue">Hi,</span> I'm David</h1>
-                    <p>I'm a passionate self–taught digital product designer currently living in Brno in Czechia. During the last ten years, I've worked as a Graphic, Web designer, Web developer, UX/UI, and Product designer for startups, corporates and also as the freelancer for my own clients where I've gained valuable experiences in different fields such as marketing, front-end development, project ownership, and building products from scratch.</p>
-                     <p>I want to get things done in a quick manner, but I still place emphasis on quality. Traveling, friends, adrenalin sport and adventures are the hobbies where I'm getting energy and inspiration from.</p>
+                    <p>I'm a passionate, self-taught digital product designer currently living in Brno, Czechia. Over the last ten years, I have worked in various roles including Graphic Designer, Web Designer, Web Developer, UX/UI Designer, and Product Designer for startups, corporations, and as a freelancer for my own clients. Through these experiences, I have gained valuable expertise in diverse fields, such as marketing, front-end development, product management, and building products from scratch.</p>
+
+                     <p>Traveling, spending time with friends, adrenaline sports, and adventures are the hobbies from which I gain energy and inspiration.</p>
                     <div class="buttons__container">
                         <div class="wrap__ghost">
                             <a href="/about" class="link ghost__button">More about me</a>
@@ -308,7 +304,7 @@
                 </div>
             </div>
 
-            <?php include('_partials/testimonials.php') ?>
+            <?php include '_partials/testimonials.php'; ?>
         </section>
 
         <section class="ld__process">
@@ -327,54 +323,34 @@
                             <!-- <img src="./img/research_icon@1x.png" alt="Research icon"> -->
                             <h2>01. Research</h2>
                             <p>
-                                Designing without data is as driving without brakes, you can handle it, but it is a
-                                risk. Because of that, the most important thing is to know as much as possible about the
-                                problem/task and user need. Let's gather at least quantitative data from available
-                                analytics or ideally plan the qualitative research, which would be even better.
+                                Designing without data is like driving without brakes; you can handle it, but it's risky. Therefore, the most crucial step is to know as much as possible about the problem/task and user needs. Let's gather at least quantitative data from available analytics or, ideally, let's have a regular discovery habit, which would be even better.
                             </p>
                             <p>
-                                Thus I will dig deep to discover what really your customers are looking for and together
-                                we will decide what the next steps are. More quantitative and qualitative data achieves
-                                better problem understanding for everyone and allows me to choose the right decisions in
-                                the design process.
+                                Therefore, I will dig deep to discover what your customers are truly looking for. Together, we can decide on the next steps. By gathering both quantitative and qualitative data, we can better understand the problem and make more informed decisions during the design process.
                             </p>
                         </div>
                         <div>
                             <!-- <img src="./img/research_icon@1x.png" alt="Research icon"> -->
                             <h2>02. Design</h2>
                             <p>
-                                We have to sit together and come up with a plan for the feature or product. It means
-                                that Product Manager, Architect, and Dev lead and I needs to be on the same page. What
-                                will be my role? I will transfer the information from the research, create a design
-                                brief and start design sketches which I will quickly transfer to high-fidelity prototype
-                                or to design increment within weeks, not months.
+                                 We need to collaborate and create a plan for the new feature or product. This requires alignment between the Product Manager, Architect, Dev Lead, and myself. My role will be to gather information from research, create a design brief, and produce design sketches. I will then quickly transfer these sketches into high-fidelity prototypes or design increments, taking weeks rather than months.
                             </p>
                             <p>
-                                The result? Together we can see interactive prototype which is supposed to deliver real
-                                value to our customer and we will be ready for user testing to get user's insight.
+                                The result? Together, we can view an interactive prototype that is designed to deliver real value to our customers. Afterward, we will be prepared for user testing to gain insight from users.
                             </p>
                         </div>
                         <div>
                             <!-- <img src="./img/research_icon@1x.png" alt="Research icon"> -->
                             <h2>03. Test</h2>
                             <p>
-                                Even the best solution needs to be tested to make sure that it will really bring value
-                                to your customers. I will prepare the test plan and scenarios and set up analytics for
-                                testing and either I or your researchers will conduct the testing. I will attend the
-                                user sessions and rapidly iterate on design based on feedback. After that, we will sit
-                                together and we will decide what If we need to change anything else or if we are all
-                                right with the design which we have.
+                                Even the best solution needs to be tested to ensure that it will truly bring value to your customers. I will prepare the test plan and scenarios, set up analytics for testing, and either I or your researchers will conduct the testing. I will attend user sessions and rapidly iterate on design based on feedback. Afterward, we will review the results together and decide whether any changes need to be made or if we are satisfied with the current design.
                             </p>
                         </div>
                         <div>
                             <!-- <img src="./img/research_icon@1x.png" alt="Research icon"> -->
                             <h2>04. Implement</h2>
                             <p>
-                                I will provide the design guidelines for the Front-end team and all other design sources
-                                to make sure they have everything they need. I will also keep an eye on design during
-                                the implementation and care about the quality and communicate the required changes. What
-                                next? Even the best products need to evolve. Let's identify a new market niche and
-                                repeat this process again.
+                                I will provide design guidelines for the front-end team and all other design sources to ensure they have everything they need. I will also monitor design during implementation, care about quality, and communicate any necessary changes. What's next? Even the best products need to evolve. Let's identify a new market niche and repeat this process again.
                             </p>
                         </div>
                     </div>
@@ -383,8 +359,8 @@
         </section>
     </main>
 
-    <?php include('_partials/footer.php')?>
-    <?php include('_partials/footer-links.php')?>
+    <?php include '_partials/footer.php'; ?>
+    <?php include '_partials/footer-links.php'; ?>
 </body>
 
 </html>

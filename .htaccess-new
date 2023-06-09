@@ -18,6 +18,8 @@ RewriteRule ^helpdesk?$ /helpdesk.php
 RewriteRule ^about?$ /about.php
 RewriteRule ^contact?$ /contact.php
 RewriteRule ^work?$ /work.php
+RewriteRule ^feedback?$ /feedback.html
+
 
 # cele domeny (aliasy)
 RewriteCond %{REQUEST_URI} !^domains/
