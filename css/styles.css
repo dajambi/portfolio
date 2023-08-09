@@ -2056,12 +2056,13 @@ main#home {
     position: relative;
     min-height: 600px;
     max-width: 450px;
-    border-radius: 16px;
+    border-radius: 24px;
     background: #fff;
     box-shadow: 0 64px 64px 0 rgba(134, 135, 160, 0.02), 0 32px 32px 0 rgba(117, 120, 153, 0.02), 0 16px 16px 0 rgba(118, 119, 155, 0.02), 0 8px 8px 0 rgba(122, 120, 152, 0.06), 0 4px 4px 0 rgba(118, 115, 154, 0.04), 0 64px 64px 0 rgba(134, 135, 160, 0.08), 0 32px 32px 0 rgba(117, 120, 153, 0.05);
     z-index: 10;
     perspective: 1000px;
-    transition: transform 0.3s ease-out; }
+    transition: transform 0.3s ease-out;
+    padding: 10px; }
     main#home .work figcaption a {
       display: inline-block;
       margin-top: 10px; }
@@ -2069,7 +2070,7 @@ main#home {
       width: 100.1%;
       max-height: 425px;
       background: #fff;
-      clip-path: inset(0% 0% 0% 0% round 16px 16px 0px 0px);
+      clip-path: inset(0% 0% 0% 0% round 20px 20px 20px 20px);
       display: flex;
       transition: transform 0.3s ease-out;
       position: relative; }
@@ -2161,8 +2162,7 @@ main#home {
       text-shadow: 0px 2px 20px rgba(0, 0, 0, 0.05);
       margin: 10px 0px; }
     main#home .work .work__info {
-      padding: 10px 20px;
-      padding-bottom: 20px;
+      padding: 16px 10px;
       transition: transform 0.2s ease-out; }
   main#home .work__job1 {
     grid-column: 6 / 10;

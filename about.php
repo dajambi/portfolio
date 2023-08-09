@@ -55,10 +55,10 @@
                     the freelancer for my own clients.</p>
                 <div class="ab_stats">
                     <ul>
-                        <li>10+ <span>Years in design</span></li>
-                        <li>200+ <span>Projects</span></li>
-                        <li>30+ <span>Own clients</span></li>
-                        <li>5+ <span>Years in remote</span></li>
+                        <li>12+ <span>Years in design</span></li>
+                        <li>210+ <span>Projects</span></li>
+                        <li>6+ <span>Years in remote</span></li>
+                        <li>1 <span>Startup founded</span></li>
                     </ul>
                 </div>
                 <!-- <div class="ghost__button2">
