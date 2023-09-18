@@ -106,17 +106,17 @@
                 scaleX: 0,
                 x: '-=5%'
             }, 0.04, 'begin+=0.3')
-            .add(new TweenMax(this.DOM.revealInner, 0.6, {
+            .add(new TweenMax(this.DOM.revealInner, 0.3, {
                 ease: Expo.easeOut,
                 startAt: {x: '100%'},
                 x: '0%',
                 opacity: 1
-            }), 'begin+=0.75')
-            .add(new TweenMax(this.DOM.revealImg, 0.6, {
+            }), 'begin+=0.3')
+            .add(new TweenMax(this.DOM.revealImg, 0.3, {
                 ease: Expo.easeOut,
                 startAt: {x: '-100%'},
                 x: '0%'
-            }), 'begin+=0.75');
+            }), 'begin+=0.3');
         }
         hideImage() {
             TweenMax.killTweensOf(this.DOM.revealInner);

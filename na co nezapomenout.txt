@@ -23,4 +23,3 @@ Case studies
  Book a call with me to add to themenu
 
 
- -- dat nové social ikony do menu ( github a codepen)
