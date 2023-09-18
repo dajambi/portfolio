@@ -154,6 +154,34 @@
 
                 <div class="work__effect work__job2">
                     <div class="work">
+                        <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank">
+                            <figure class="work__image">
+                                <img srcset="img/work/mentedy@1x.png 1x, img/work/mentedy@2x.png 2x" alt="Mentedy" >
+                              
+                                <div class="work__overlay">
+                                    <div class="overlay__text">
+                                        <span class="link odkaz">View article</span>
+                                    </div>
+                                    <div class="overlay__meta">
+                                        <h4>Everything from Design, code to sales</h4>
+                                        <div>SaaS startup · B2C & B2B · 2020
+                                             <span class="protected">Medium article</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </figure>
+                            <figcaption class="work__info">
+                                <img src="./img/mentedy-logo.svg" alt="Mentedy">
+                                <h3>Story about Mentedy — My Startup Odyssey</h3>
+                                <p>What could be the most exciting aspiration for a designer? For me, it was  building my own SaaS startup. story — This is not typical case study, but the story of turning aspirations into a reality.</p>
+                            </figcaption>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="work__effect work__job3">
+                    <div class="work">
                         <a href="/backup-reporting">
                             <figure class="work__image">
                                 <img srcset="img/work/backup_reporting@1x.png 1x, img/work/backup_reporting@2x.png 2x"
@@ -181,60 +209,8 @@
                         </a>
                     </div>
                 </div>
-
-                <!-- <div class="work__effect work__job2">
-                    <div class="work">
-                        <a href="#">
-                            <figure class="work__image">
-                                <img srcset="img/work/mentedy@1x.png 1x, img/work/mentedy@2x.png 2x" alt="Mentedy" >
-                                <div class="work__overlay">
-                                    <div class="overlay__text">
-                                        <img src="./img/magnifier.svg" alt="See more">
-                                        Case study coming soon
-                                    </div>
-                                </div>
-                            </figure>
-                            <figcaption class="work__info">
-                                <img src="./img/work/mentedy_logo.svg" alt="Mentedy">
-                                <h3>Knowledge sharing platform</h3>
-                                <p>I Designed and managed the development of a Knowledge sharing platform that connects
-                                    Mentors and Mentees. Mentedy is Place where people can find the knowledge of all
-                                    kind and share it between one’s who needs help or wants to personally grow.</p>
-                            </figcaption>
-                        </a>
-                    </div>
-                </div> -->
-
-                <div class="work__effect work__job3">
-                    <div class="work">
-                        <a href="/knowledge-base">
-                            <figure class="work__image">
-                                <img srcset="img/work/knowledge@1x.png 1x, img/work/knowledge@2x.png 2x"
-                                    alt="Knowledge">
-
-                                <div class="work__overlay">
-                                    <div class="overlay__text">
-                                        <span class="link odkaz">View case study</span>
-                                    </div>
-                                    <div class="overlay__meta">
-                                        <h4>UX/UI, Prototyping</h4>
-                                        <div>CloudApp · B2B  · 2018
-                                            <span class="protected">Password required</span>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </figure>
-                            <figcaption class="work__info">
-                                <img src="./img/references/solarwinds.svg" width="80" alt="Solarwinds" >
-                                <h3>Knowledge Base management</h3>
-                                <p>Giving MSP’s an ability to effectively create and manage company knowledge base
-                                    between technicians which makes it it easy to solve the issues and also allows users
-                                    to avoid long wait times.</p>
-                            </figcaption>
-                        </a>
-                    </div>
-                </div>
+         
+              
             </section>
         </div>
 
@@ -242,6 +218,37 @@
             <section id="container__work--white">
 
                 <div class="work__effect work__job4">
+                        <div class="work">
+                            <a href="/knowledge-base">
+                                <figure class="work__image">
+                                    <img srcset="img/work/knowledge@1x.png 1x, img/work/knowledge@2x.png 2x"
+                                        alt="Knowledge">
+
+                                    <div class="work__overlay">
+                                        <div class="overlay__text">
+                                            <span class="link odkaz">View case study</span>
+                                        </div>
+                                        <div class="overlay__meta">
+                                            <h4>UX/UI, Prototyping</h4>
+                                            <div>CloudApp · B2B  · 2018
+                                                <span class="protected">Password required</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </figure>
+                                <figcaption class="work__info">
+                                    <img src="./img/references/solarwinds.svg" width="80" alt="Solarwinds" >
+                                    <h3>Knowledge Base management</h3>
+                                    <p>Giving MSP’s an ability to effectively create and manage company knowledge base
+                                        between technicians which makes it it easy to solve the issues and also allows users
+                                        to avoid long wait times.</p>
+                                </figcaption>
+                            </a>
+                        </div>
+                </div>
+
+                <div class="work__effect work__job5">
                     <div class="work">
                         <a href="/task-management">
                             <figure class="work__image">
@@ -266,40 +273,6 @@
                                 <p>Even the best IT technicians have a hard time with keeping up with the work that
                                     needs to be done. Hence I designed a task management feature so that the technicians
                                     can see where things stand at any time with all the details.</p>
-                            </figcaption>
-                        </a>
-                    </div>
-                </div>
-
-
-
-
-
-                <div class="work__effect work__job5">
-                    <div class="work">
-                        <a href="/gordic-redesign">
-                            <figure class="work__image">
-                                <img srcset="img/work/gordic_main@1x.png 1x, img/work/gordic_main@2x.png 2x"
-                                    alt="Gordic company portal">
-                            
-                                    <div class="work__overlay">
-                                        <div class="overlay__text">
-                                            <span class="link odkaz">View case study</span>
-                                        </div>
-                                        <div class="overlay__meta">
-                                            <h4>Web design, Prototyping</h4>
-                                            <div>Web · B2B, B2G · 2018
-                                            </div>
-                                        </div>
-                                    </div>
-                            </figure>
-                            <figcaption class="work__info">
-                                <img src="./img/references/gordic_new.svg" width="80" alt="Gordic">
-                                <h3>Company website redesign</h3>
-                                <p>I had the opportunity to work on the redesign of GORDIC main website, create scalable
-                                    architecture, responsive wireframes, and interactions for more than hundreds of
-                                    subpages.
-                                </p>
                             </figcaption>
                         </a>
                     </div>
@@ -332,6 +305,38 @@
                         </a>
                     </div>
                 </div>
+
+                <!-- <div class="work__effect work__job7">
+                    <div class="work">
+                        <a href="/gordic-redesign">
+                            <figure class="work__image">
+                                <img srcset="img/work/gordic_main@1x.png 1x, img/work/gordic_main@2x.png 2x"
+                                    alt="Gordic company portal">
+                            
+                                    <div class="work__overlay">
+                                        <div class="overlay__text">
+                                            <span class="link odkaz">View case study</span>
+                                        </div>
+                                        <div class="overlay__meta">
+                                            <h4>Web design, Prototyping</h4>
+                                            <div>Web · B2B, B2G · 2018
+                                            </div>
+                                        </div>
+                                    </div>
+                            </figure>
+                            <figcaption class="work__info">
+                                <img src="./img/references/gordic_new.svg" width="80" alt="Gordic">
+                                <h3>Company website redesign</h3>
+                                <p>I had the opportunity to work on the redesign of GORDIC main website, create scalable
+                                    architecture, responsive wireframes, and interactions for more than hundreds of
+                                    subpages.
+                                </p>
+                            </figcaption>
+                        </a>
+                    </div>
+                </div> -->
+
+               
             </section>
         </div>  
     </main>

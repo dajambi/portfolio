@@ -52,7 +52,7 @@
                 <h1>I transfer ideas into real <span class="highlight_blue">digital products</span></h1>
                 <p>Hello, I'm David, <strong>Senior product designer</strong> with a passion for functional
                     design.  My guiding principle is - <strong>Design is&nbsp;everything.</strong>
-                    Currently designing cutting-edge AI features that empower sales professionals for Outreach.io</p>
+                    Currently designing GAI features that empower sales professionals for Outreach.io</p>
                     
                 <div id="clients">
                     <div id="design_for">I designed <br> <span>for</span></div>
@@ -123,7 +123,7 @@
                 <div id="project-text">
                     <h1>Chosen <span class="highlight_blue">projects</span></h1>
                     <p>Since 2012, I've been fortunate to design for entrepreneurs, startups, and SaaS companies worldwide! By using data, design frameworks, and applying design principles, I'm able to deliver impactful solutions quickly, not just pretty pixels, for web or mobile apps. The aim is to solve business problems, meet users' needs, satisfy KPIs, and hit the market niche. Do you like this approach? <span>
-                        <a href="#hs-chat-open"
+                        <a href="/contact"
                             class="link odkaz anim-middleout">Let's&nbsp;design&nbsp;next big thing&nbsp;together.
                         </a>
                     </p>
@@ -157,6 +157,34 @@
 
                 <div class="work__effect work__job2">
                     <div class="work">
+                        <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank">
+                            <figure class="work__image">
+                                <img srcset="img/work/mentedy@1x.png 1x, img/work/mentedy@2x.png 2x" alt="Mentedy" >
+                              
+                                <div class="work__overlay">
+                                    <div class="overlay__text">
+                                        <span class="link odkaz">View article</span>
+                                    </div>
+                                    <div class="overlay__meta">
+                                        <h4>Everything from Design, code to sales</h4>
+                                        <div>SaaS startup · B2C & B2B · 2020
+                                             <span class="protected">Medium article</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </figure>
+                            <figcaption class="work__info">
+                                <img src="./img/mentedy-logo.svg" alt="Mentedy">
+                                <h3>Story about Mentedy — My Startup Odyssey</h3>
+                                <p>What could be the most exciting aspiration for a designer? For me, it was  building my own SaaS startup. story — This is not typical case study, but the story of turning aspirations into a reality.</p>
+                            </figcaption>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="work__effect work__job3">
+                    <div class="work">
                         <a href="/backup-reporting">
                             <figure class="work__image">
                                 <img srcset="img/work/backup_reporting@1x.png 1x, img/work/backup_reporting@2x.png 2x"
@@ -180,36 +208,6 @@
                                 <p>Sending a backup report of hundreds of devices to each of your customers every week
                                     can be a huge time-consuming pain. See how the redesign of the reporting flow saves
                                     many hours every week.</p>
-                            </figcaption>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="work__effect work__job3">
-                    <div class="work">
-                        <a href="/knowledge-base">
-                            <figure class="work__image">
-                                <img srcset="img/work/knowledge@1x.png 1x, img/work/knowledge@2x.png 2x"
-                                    alt="Knowledge">
-
-                                <div class="work__overlay">
-                                    <div class="overlay__text">
-                                        <span class="link odkaz">View case study</span>
-                                    </div>
-                                    <div class="overlay__meta">
-                                        <h4>UX/UI, Prototyping</h4>
-                                        <div>CloudApp · B2B  · 2018
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </figure>
-                            <figcaption class="work__info">
-                                <img src="./img/references/solarwinds.svg" width="80" alt="Solarwinds" >
-                                <h3>Knowledge Base management</h3>
-                                <p>Giving MSP's an ability to effectively create and manage company knowledge base
-                                    between technicians which makes it it easy to solve the issues and also allows users
-                                    to avoid long wait times.</p>
                             </figcaption>
                         </a>
                     </div>

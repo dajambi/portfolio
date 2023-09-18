@@ -839,11 +839,11 @@ footer {
       .nav__overlay ul {
         margin-top: 80px; } }
   .nav__overlay .m--last {
-    border-top: 1px solid #3a3a40;
-    border-bottom: 1px solid #3a3a40; }
+    border-top: 1px solid #1d1d1f;
+    border-bottom: 1px solid #1d1d1f; }
   .nav__overlay li {
     width: 100%;
-    border-top: 1px solid #3a3a40;
+    border-top: 1px solid #1d1d1f;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -3784,7 +3784,7 @@ p a[data-fx="12"] {
     justify-content: space-between;
     width: 100%;
     line-height: 160%;
-    border-bottom: 1px #3a3a40 solid; }
+    border-bottom: 1px #1d1d1f solid; }
     .w__curriculum li div {
       text-align: left;
       padding: 1.25rem 0; }
