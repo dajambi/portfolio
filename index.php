@@ -166,7 +166,7 @@
                                         <span class="link odkaz">View article</span>
                                     </div>
                                     <div class="overlay__meta">
-                                        <h4>Everything from Design, code to sales</h4>
+                                        <h4>Everything from Design, through Code to Sales</h4>
                                         <div>SaaS startup · B2C & B2B · 2020
                                              <span class="protected">Medium article</span>
                                         </div>

@@ -2121,6 +2121,7 @@ main#home {
             height: 150px;
             align-content: center;
             align-items: center;
+            justify-content: center;
             transition: all 0.3s ease-out; }
             main#home .work .work__image .work__overlay .overlay__text .odkaz:hover {
               color: #00D9FF;

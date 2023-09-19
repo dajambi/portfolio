@@ -158,7 +158,9 @@ main#home{
 							height: 150px;
 							align-content: center;
 							align-items: center;
+							justify-content: center;
 							transition: all 0.3s ease-out;
+
 
 							&:hover {
 								color: $color-sky_blue;
