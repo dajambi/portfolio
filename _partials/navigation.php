@@ -19,8 +19,8 @@
                 if ($cesta === 'Worki') echo '<li><span class="m--number">04</span><a href="/work.php#designsources" role="menuitem" class="link odkaz"><span class="highlight_blue">Design sources</span></a></li>';
                 else echo '<li><span class="m--number">04</span><a href="/work.php#designsources" role="menuitem" class="link odkaz">Design sources</a></li>';
 
-                if ($cesta === 'contact') echo '<li class="m--last"><span class="m--number">05</span><a href="/contact" role="menuitem" class="link odkaz"><span class="highlight_blue">Contact me</span></a></li>';
-                else echo '<li class="m--last"><span class="m--number">05</span><a href="/contact" role="menuitem" class="link odkaz">Contact me</a></li>';
+                if ($cesta === 'contact') echo '<li class="m--last"><span class="m--number">05</span><a href="/contact" role="menuitem" class="link odkaz" data-img="img/callme.gif" data-fx="12"><span class="highlight_blue">Contact me</span></a></li>';
+                else echo '<li class="m--last"><span class="m--number">05</span><a href="/contact" role="menuitem" class="link odkaz" data-img="img/callme.gif" data-fx="12">Contact me</a></li>';
 
                  ?>	
                     <ul class="nav__social">

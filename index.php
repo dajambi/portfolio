@@ -52,7 +52,7 @@
                 <h1>I transfer ideas into real <span class="highlight_blue">digital products</span></h1>
                 <p>Hello, I'm David, <strong>Senior product designer</strong> with a passion for functional
                     design.  My guiding principle is - <strong>Design is&nbsp;everything.</strong>
-                    Currently designing GAI features that empower sales professionals for Outreach.io</p>
+                    Currently designing GenAI features that empower sales professionals for Outreach.io</p>
                     
                 <div id="clients">
                     <div id="design_for">I designed <br> <span>for</span></div>

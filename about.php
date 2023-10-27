@@ -381,11 +381,7 @@
                         <h2>Solid design process</h2>
                     </div>
                     <div class="expec--right">
-                        <p>Sometimes a situation requires jumping in the solution space and deliver, but most of the
-                            time is good to spend 80 % of the time with discovery. Find your why, research the need of
-                            your target audience, test the prototype, and see how successfully the hypothesizes were.
-                            Yes, this process might take a longer time, but in the long term, it is much cheaper, less
-                            risky and it will move us towards the goal.</p>
+                        <p>Sometimes a situation requires jumping into the solution space and delivering, but most of the time is good to spend 80 % of the time on discovery. Find your why, research the needs of your target audience, test the prototype, and see how successful the hypotheses were. Yes, this process might take a longer time, but in the long term, it is much cheaper, less risky and it will move us towards the goal.</p>
                     </div>
                 </div>
             </div>
