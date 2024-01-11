@@ -1,5 +1,16 @@
 @import './_variables.scss';
 
+.woverlay {
+    display: flex;
+    position: sticky;
+    width: 100%;
+    height: 60px;
+    top: 0px;
+    left: 0px;
+    background: linear-gradient(180deg, #F8F8F8 0%, rgba(248, 248, 248, 0.00) 100%);
+    z-index: 777;
+}
+
 .text-highlight {
   border-left: 3px solid;
   border-radius: 4px;
@@ -82,6 +93,7 @@
   width: 100%;
   top: 0px;
   left: 0px;
+  z-index: 999;
 }
 
 #progress-bar {
@@ -712,7 +724,7 @@
 
 @media (max-width:568px) {
 
-  .welcome--sub {
+  .welcome--sub, .woverlay {
   display:none;
   }
 }
@@ -743,3 +755,4 @@
   width: 90%;
 }
 }
+

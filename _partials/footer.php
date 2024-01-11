@@ -6,7 +6,7 @@
 
 			<ul class="footer__links">
 				<li><a class="link email odkaz anim-middleout" href="javascript:window.Confirmic('ConsentManager:show')">Manage cookies</a></li>
-				<li><a class="link email odkaz anim-middleout" href="mailto:ja@davidjambor.cz?subject=Hello%20David&body=Hello!%20I'd%20like%20to%20ask%20for..." target="_blank" rel="noopener noreferrer" itemprop="email">ja@davidjambor.cz</a></li>
+				<li><a class="link email odkaz anim-middleout" href="mailto:hey@davidjambor.cz?subject=Hello%20David&body=Hello!%20I'd%20like%20to%20ask%20for..." target="_blank" rel="noopener noreferrer" itemprop="email">hey@davidjambor.cz</a></li>
 				<li><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.behance.net/jambi" class="link odkaz anim-middleout" aria-label="My profile Behance">
 						<svg width="14px" height="9px" viewBox="0 0 14 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 							<g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">

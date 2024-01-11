@@ -130,10 +130,10 @@
             </div>
         </div>
     </header>
-
+    <div class="woverlay"></div>
     <main>
         <div class="rf_solution">
-            <div class="wrapper_content ">
+            <div class="wrapper_content">
                 <section class="rf_content">
                     <div class="section_name"><span>1 / 6</span> Solution</div>
 

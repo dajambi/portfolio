@@ -48,8 +48,8 @@
             <?php include('_partials/navigation.php') ?>
 
             <div id="header_text--contact">
-                <h1><span class="highlight_blue">Let’s </span><br>design something great together</h1>
-                
+                <h1><span class="highlight_blue">Let’s design</span><br>next big thing together</h1>
+            
                 <div id="rectangle">
                     <div id="circle"></div>
                     <div id="logo--white">
@@ -70,8 +70,8 @@
                     </div>
                 </div>
                 
-                <p><a href="#hs-chat-open" class="link odkaz anim-middleout">Contact me</a> for freelance projects,
-                    full-time jobs or to say hello.
+                <p>Contact me for freelance projects,
+                    full-time jobs or to say hello.<br>
                     I usually respond in <b>two days</b> with a smile.</p>
             </div>
             <div id="social_text">Follow me</div>
@@ -131,8 +131,8 @@
                             <li>David Jambor</li>
                             <li><a href="https://www.linkedin.com/in/david-jambor/" class="link odkaz anim-middleout" target="_blank" rel="noopener noreferrer">linkedin.com/in/david-jambor/</a></li>
                             <li><a href="tel:+420777551116" class="link odkaz anim-middleout">(+420) 777 551 116</a></li>
-                            <li><a href="mailto:ja@davidjambor.cz?subject=Hello%20David&body=Hello!%20I'd%20like%20to%20ask%20for..." class="link odkaz anim-middleout"  target="_blank" rel="noopener noreferrer" itemprop="email">ja@davidjambor.cz</a></li>
-                            <li>Or use a <a href="#hs-chat-open" class="link odkaz anim-middleout">chat</a> to send quick message.</li>
+                            <li><a href="mailto:hey@davidjambor.cz?subject=Hello%20David&body=Hello!%20I'd%20like%20to%20ask%20for..." class="link odkaz anim-middleout" itemprop="email">hey@davidjambor.cz</a></li>
+                            <!-- <li>Or use a <a href="#hs-chat-open" class="link odkaz anim-middleout">chat</a> to send quick message.</li> -->
                         </ul>
                     </div>
                     <div>

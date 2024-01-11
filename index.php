@@ -50,7 +50,7 @@
 
             <div id="header_text">
                 <h1>I transfer ideas into real <span class="highlight_blue">digital products</span></h1>
-                <p>Hello, I'm David, <strong>Senior product designer</strong> with a passion for functional
+                <p>Hey, I'm David, <strong>Senior product designer</strong> with a passion for functional
                     design.  My guiding principle is - <strong>Design is&nbsp;everything.</strong>
                     Currently designing GenAI features that empower sales professionals for Outreach.io</p>
                     
@@ -123,7 +123,7 @@
                 <div id="project-text">
                     <h1>Chosen <span class="highlight_blue">projects</span></h1>
                     <p>Since 2012, I've been fortunate to design for entrepreneurs, startups, and SaaS companies worldwide! By using data, design frameworks, and applying design principles, I'm able to deliver impactful solutions quickly, not just pretty pixels, for web or mobile apps. The aim is to solve business problems, meet users' needs, satisfy KPIs, and hit the market niche. Do you like this approach? <span>
-                        <a href="/contact"
+                        <a href="/contact.php"
                             class="link odkaz anim-middleout">Let's&nbsp;design&nbsp;next big thing&nbsp;together.
                         </a>
                     </p>
