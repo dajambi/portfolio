@@ -128,32 +128,6 @@
 
                 <div class="work__effect work__job1">
                     <div class="work">
-                        <a href="/helpdesk">
-                            <figure class="work__image">
-                                <img srcset="img/work/kiwi_helpdesk@1x.png 1x, img/work/kiwi_helpdesk@2x.png 2x"
-                                    alt="Customer support platform" >
-                                <div class="work__overlay">
-                                    <div class="overlay__text">
-                                        <span class="link odkaz">View case study</span>
-                                    </div>
-                                    <div class="overlay__meta">
-                                        <h4>Product design</h4>
-                                        <div>CloudApp · B2C · 2021
-                                        </div>
-                                    </div>
-                                </div>
-                            </figure>
-                            <figcaption class="work__info">
-                                <img src="./img/references/kiwi.svg" width="60" alt="Kiwi.com">
-                                <h3>Designing customer support platform during travel crisis</h3>
-                                <p>See how we've designed and built the in-house language-agnostic helpdesk platform in a few weeks and how it has helped Kiwi.com survive the travel crisis.</p>
-                            </figcaption>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="work__effect work__job2">
-                    <div class="work">
                         <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank">
                             <figure class="work__image">
                                 <img srcset="img/work/mentedy@1x.png 1x, img/work/mentedy@2x.png 2x" alt="Mentedy" >
@@ -163,9 +137,9 @@
                                         <span class="link odkaz">View article</span>
                                     </div>
                                     <div class="overlay__meta">
-                                        <h4>Everything from Design, through Code to Sales</h4>
-                                        <div>SaaS startup · B2C & B2B · 2020
-                                             <span class="protected">Medium article</span>
+                                        <h4>Role: Everything from Design, through Code to Sales</h4>
+                                        <div>Startup · B2C & B2B · 2020–22
+                                             <span class="protected">On Medium</span>
                                         </div>
                                     </div>
                                 </div>
@@ -175,6 +149,32 @@
                                 <img src="./img/mentedy-logo.svg" alt="Mentedy">
                                 <h3>Story about Mentedy — My Startup Odyssey</h3>
                                 <p>What could be the most exciting aspiration for a designer? For me, it was  building my own SaaS startup. story — This is not typical case study, but the story of turning aspirations into a reality.</p>
+                            </figcaption>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="work__effect work__job2">
+                    <div class="work">
+                        <a href="/helpdesk">
+                            <figure class="work__image">
+                                <img srcset="img/work/kiwi_helpdesk@1x.png 1x, img/work/kiwi_helpdesk@2x.png 2x"
+                                    alt="Customer support platform" >
+                                <div class="work__overlay">
+                                    <div class="overlay__text">
+                                        <span class="link odkaz">View case study</span>
+                                    </div>
+                                    <div class="overlay__meta">
+                                        <h4>Role: Product design</h4>
+                                        <div>CloudApp · B2C · 2021
+                                        </div>
+                                    </div>
+                                </div>
+                            </figure>
+                            <figcaption class="work__info">
+                                <img src="./img/references/kiwi.svg" width="60" alt="Kiwi.com">
+                                <h3>Designing customer support platform during travel crisis</h3>
+                                <p>See how we've designed and built the in-house language-agnostic helpdesk platform in a few weeks and how it has helped Kiwi.com survive the travel crisis.</p>
                             </figcaption>
                         </a>
                     </div>
@@ -191,7 +191,7 @@
                                         <span class="link odkaz">View case study</span>
                                     </div>
                                     <div class="overlay__meta">
-                                        <h4>Product design</h4>
+                                        <h4>Role: Product design</h4>
                                         <div>CloudApp · B2B · 2019
                                             <span class="protected"><img src="./img/lock.svg" alt="Lock icon">Password
                                                 required</span>
@@ -229,7 +229,7 @@
                                             <span class="link odkaz">View case study</span>
                                         </div>
                                         <div class="overlay__meta">
-                                            <h4>UX/UI, Prototyping</h4>
+                                            <h4>Role: UX/UI, Prototyping</h4>
                                             <div>CloudApp · B2B  · 2018
                                                 <span class="protected">Password required</span>
                                             </div>
@@ -259,7 +259,7 @@
                                             <span class="link odkaz">View case study</span>
                                         </div>
                                         <div class="overlay__meta">
-                                            <h4>UX/UI, Prototyping</h4>
+                                            <h4>Role: UX/UI, Prototyping</h4>
                                             <div>CloudApp · B2B · 2017
                                                 <span class="protected">Password required</span>
                                             </div>
@@ -289,7 +289,7 @@
                                                 <span class="link odkaz">View case study</span>
                                             </div>
                                             <div class="overlay__meta">
-                                                <h4>Web design, Visual & interaction design</h4>
+                                                <h4>Role: Web design, Visual & interaction design</h4>
                                                 <div>Web · B2B, B2G
                                                 </div>
                                             </div>
@@ -336,7 +336,6 @@
                     </div>
                 </div> -->
 
-               
             </section>
         </div>  
     </main>

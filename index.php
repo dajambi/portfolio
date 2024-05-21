@@ -49,7 +49,7 @@
             </div>
 
             <div id="header_text">
-                <h1>I transfer ideas into real <span class="highlight_blue">digital products</span></h1>
+                <h1>I transform visions to real <span class="highlight_blue">digital products</span></h1>
                 <p>Hey, I'm David, <strong>Senior product designer</strong> with a passion for functional
                     design.  My guiding principle is - <strong>Design is&nbsp;everything.</strong>
                     Currently designing GenAI features that empower sales professionals for Outreach.io</p>
@@ -122,7 +122,7 @@
             <section id="container__work--black">
                 <div id="project-text">
                     <h1>Chosen <span class="highlight_blue">projects</span></h1>
-                    <p>Since 2012, I've been fortunate to design for entrepreneurs, startups, and SaaS companies worldwide! By using data, design frameworks, and applying design principles, I'm able to deliver impactful solutions quickly, not just pretty pixels, for web or mobile apps. The aim is to solve business problems, meet users' needs, satisfy KPIs, and hit the market niche. Do you like this approach? <span>
+                    <p>Since 2012, I've been fortunate to design for entrepreneurs, startups, and SaaS companies worldwide! By using data, design frameworks, and applying design principles, I'm able to deliver impactful solutions quickly, not just pretty pixels, for web or mobile apps. The goal is to solve business problems, meet users' needs, satisfy KPIs, and hit the market niche. Do you like this approach? <span>
                         <a href="/contact.php"
                             class="link odkaz anim-middleout">Let's&nbsp;design&nbsp;next big thing&nbsp;together.
                         </a>
@@ -130,32 +130,6 @@
                 </div>
 
                 <div class="work__effect work__job1">
-                    <div class="work">
-                        <a href="/helpdesk">
-                            <figure class="work__image">
-                                <img srcset="img/work/kiwi_helpdesk@1x.png 1x, img/work/kiwi_helpdesk@2x.png 2x"
-                                    alt="Customer support platform" >
-                                <div class="work__overlay">
-                                    <div class="overlay__text">
-                                        <span class="link odkaz">View case study</span>
-                                    </div>
-                                    <div class="overlay__meta">
-                                        <h4>Product design</h4>
-                                        <div>CloudApp · B2C · 2021
-                                        </div>
-                                    </div>
-                                </div>
-                            </figure>
-                            <figcaption class="work__info">
-                                <img src="./img/references/kiwi.svg" width="60" alt="Kiwi.com">
-                                <h3>Designing customer support platform during travel crisis</h3>
-                                <p>See how we've designed and built the in-house language-agnostic helpdesk platform in a few weeks and how it has helped Kiwi.com survive the travel crisis.</p>
-                            </figcaption>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="work__effect work__job2">
                     <div class="work">
                         <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank">
                             <figure class="work__image">
@@ -166,9 +140,9 @@
                                         <span class="link odkaz">View article</span>
                                     </div>
                                     <div class="overlay__meta">
-                                        <h4>Everything from Design, through Code to Sales</h4>
-                                        <div>SaaS startup · B2C & B2B · 2020
-                                             <span class="protected">Medium article</span>
+                                        <h4>Role: Everything from Design, through Code to Sales</h4>
+                                        <div>Startup · B2C & B2B · 2020–22
+                                             <span class="protected">On Medium</span>
                                         </div>
                                     </div>
                                 </div>
@@ -178,6 +152,32 @@
                                 <img src="./img/mentedy-logo.svg" alt="Mentedy">
                                 <h3>Story about Mentedy — My Startup Odyssey</h3>
                                 <p>What could be the most exciting aspiration for a designer? For me, it was  building my own SaaS startup. story — This is not typical case study, but the story of turning aspirations into a reality.</p>
+                            </figcaption>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="work__effect work__job2">
+                    <div class="work">
+                        <a href="/helpdesk">
+                            <figure class="work__image">
+                                <img srcset="img/work/kiwi_helpdesk@1x.png 1x, img/work/kiwi_helpdesk@2x.png 2x"
+                                    alt="Customer support platform" >
+                                <div class="work__overlay">
+                                    <div class="overlay__text">
+                                        <span class="link odkaz">View case study</span>
+                                    </div>
+                                    <div class="overlay__meta">
+                                        <h4>Role: Product design</h4>
+                                        <div>CloudApp · B2C · 2021
+                                        </div>
+                                    </div>
+                                </div>
+                            </figure>
+                            <figcaption class="work__info">
+                                <img src="./img/references/kiwi.svg" width="60" alt="Kiwi.com">
+                                <h3>Designing customer support platform during travel crisis</h3>
+                                <p>See how we've designed and built the in-house language-agnostic helpdesk platform in a few weeks and how it has helped Kiwi.com survive the travel crisis.</p>
                             </figcaption>
                         </a>
                     </div>
@@ -229,7 +229,7 @@
                                             <span class="link odkaz">View case study</span>
                                         </div>
                                         <div class="overlay__meta">
-                                            <h4>UX/UI, Prototyping</h4>
+                                            <h4>Role: UX/UI, Prototyping</h4>
                                             <div>CloudApp · B2B · 2017
                                             </div>
                                         </div>
@@ -310,7 +310,7 @@
                 <h1>How I <span class="highlight_blue--light">design products</span></h1>
                 <div class="wrapper__process">
                     <ul class="slider slider-nav">
-                        <li class="active link" data-slide="1">01. Research</li>
+                        <li class="active link" data-slide="1">01. Discover</li>
                         <li class="link" data-slide="2">02. Design</li>
                         <li class="link" data-slide="3">03. Test</li>
                         <li class="link" data-slide="4">04. Implement</li>

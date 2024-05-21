@@ -189,6 +189,10 @@ p a[data-fx="12"] {
     margin-top: 1.2em;
     align-items: center;
 
+    a {
+      padding: 3rem;
+    }
+
     .design_for {
       margin-right: 16px;
     }
@@ -759,14 +763,11 @@ p a[data-fx="12"] {
 }
 
 
-
-
 //hover reveal
 .hover-reveal {
 	position: fixed;
 	width: 350px;
 	height: 216px;
-  border-radius: 8px;
 	top: 0;
 	left: 0;
 	pointer-events: none;
@@ -778,7 +779,7 @@ p a[data-fx="12"] {
 	width: 100%;
 	height: 100%;
 	position: relative;
-  border-radius: 8px;
+  border-radius: 12px;
   border: 1px solid $text-coal;
 }
 

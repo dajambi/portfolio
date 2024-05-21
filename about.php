@@ -61,10 +61,6 @@
                         <li>1 <span>Startup founded</span></li>
                     </ul>
                 </div>
-                <!-- <div class="ghost__button2">
-                    <a href="https://www.davidjambor.cz/assets/david_jambor_cv.pdf" target="_blank"
-                        rel="noopener noreferrer" class="link">Download CV</a>
-                </div> -->
             </div>
 
 
@@ -394,7 +390,7 @@
                 <div class="about--wrapper">
                     <h1>Work <span class="highlight_blue">attitude</span><br> & references</h1>
                     <p class="opinions__intro">
-                        I feel fortunate to have transformed my passion for digital product design and development into a fulfilling career that positively impacts people's lives. For me, it's more than just a job; it's a personal interest and hobby that drives me to strive for excellence in every project I undertake. My dedication&nbsp;<span class="blues">+</span>&nbsp;commitment to achieving exceptional outcomes stem from my passion for the craft, rather than a sense of obligation. I believe that my genuine enthusiasm and unwavering focus on delivering quality results are what have earned me recognition and appreciation from my peers and clients alike.
+                        I feel fortunate to have transformed my passion for digital product design and development into a fulfilling career that positively impacts people's lives. For me, it's more than just a job – it's a personal interest and hobby that drives me to strive for excellence in every project I undertake. My dedication&nbsp;<span class="blues">+</span>&nbsp;commitment to achieving exceptional outcomes stem from my passion for the craft, rather than a sense of obligation. I believe that my genuine enthusiasm and unwavering focus on delivering quality results are what have earned me recognitions from my peers and clients alike.
                     </p>
                     <div id="design_for">I designed <br> <span>for</span></div>
                     <div class="about-logos">
@@ -455,7 +451,7 @@
 
         <section id="about__hobbies">
             <div class="about--wrapper">
-                <h1>Where do I get <br> my energy <br> and inspiration?</h1>
+                <h1>How do I get <br> my energy <br> and inspiration?</h1>
                 <div class="hobbies__detail">
                     <article>
                         <figure class="ar--first">

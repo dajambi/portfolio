@@ -3129,6 +3129,8 @@ p a[data-fx="12"] {
     flex-wrap: wrap;
     margin-top: 1.2em;
     align-items: center; }
+    #about__opinions .about-logos a {
+      padding: 3rem; }
     #about__opinions .about-logos .design_for {
       margin-right: 16px; }
     #about__opinions .about-logos img {
@@ -3558,7 +3560,6 @@ p a[data-fx="12"] {
   position: fixed;
   width: 350px;
   height: 216px;
-  border-radius: 8px;
   top: 0;
   left: 0;
   pointer-events: none;
@@ -3569,7 +3570,7 @@ p a[data-fx="12"] {
   width: 100%;
   height: 100%;
   position: relative;
-  border-radius: 8px;
+  border-radius: 12px;
   border: 1px solid #474F5B; }
 
 .hover-reveal__deco {

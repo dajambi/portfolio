@@ -493,11 +493,4 @@
     <?php include('_partials/footer.php')?>
     <?php include('_partials/footer-links.php')?>
 </body>
-
 </html>
-
-
-<!-- 
-
-    -link in for another case study dodat
- -->
