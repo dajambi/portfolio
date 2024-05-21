@@ -1,0 +1,36 @@
+<article>
+    <ul id="browser">
+
+    </ul>
+
+    <ul id="user">
+
+    </ul>
+</article>
+
+<script>
+    
+
+    document.body.addEventListener('click', clickedIt);
+
+    function clickedIt () {
+    var browserList = document.getElementById('browser'),
+    newItem = document.createElement('li');
+
+    newItem.textContent = 'page clickedIT';
+    browserList.appendChild( newItem );
+
+    }
+
+
+document.body.addEventListener('click', clickedIt2)
+
+function clickedIt2() {
+    var browserList2 = document.getElementById( 'browser' );
+    newItem = document.createElement('li');
+    newItem.textContent = "page clicked";
+    
+    browserList2.appendChild(newItem);
+}
+
+</script>
