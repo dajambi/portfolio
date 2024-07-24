@@ -11,13 +11,18 @@
     "type": "git",
     "url": "git+https://github.com/dajambi/portfolio.git"
   },
-  "author": "",
+  "author": "DJ",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dajambi/portfolio/issues"
   },
   "homepage": "https://github.com/dajambi/portfolio#readme",
-  "dependencies": {
-    "node-sass": "^7.0.3"
-  }
+  "devDependencies": {
+    "sass": "^1.77.8"
+  },
+  "keywords": [
+    "my",
+    "own",
+    "portfolio"
+  ]
 }
