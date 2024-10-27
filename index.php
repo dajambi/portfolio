@@ -131,6 +131,34 @@
 
                 <div class="work__effect work__job1">
                     <div class="work">
+                        <a href="https://medium.com/outreach-prague/how-did-we-join-the-genai-race-with-smart-email-assist-09d9571dc624" target="_blank">
+                            <figure class="work__image">
+                                <img srcset="img/work/sea@1x.png 1x, img/work/sea@2x.png 2x" alt="Smart Email Assist" >
+                              
+                                <div class="work__overlay">
+                                    <div class="overlay__text">
+                                        <span class="link odkaz">View article</span>
+                                    </div>
+                                    <div class="overlay__meta">
+                                        <h4>Product design</h4>
+                                        <div>GenAI · B2B · 2023
+                                             <span class="protected">On Medium</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </figure>
+                            <figcaption class="work__info">
+                                <img src="./img/outreach-logo.svg" alt="Outreach.io">
+                                <h3>Leverage GenAI to boost sales productivity</h3>
+                                <p>How did we join the GenAI race? I had the privilege to be part of the team to design the first GenAi Outreach.io feature and here is a story of how we created Smart Email Assist.</p>
+                            </figcaption>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="work__effect work__job2">
+                    <div class="work">
                         <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank">
                             <figure class="work__image">
                                 <img srcset="img/work/mentedy@1x.png 1x, img/work/mentedy@2x.png 2x" alt="Mentedy" >
@@ -157,7 +185,7 @@
                     </div>
                 </div>
 
-                <div class="work__effect work__job2">
+                <div class="work__effect work__job3">
                     <div class="work">
                         <a href="/helpdesk">
                             <figure class="work__image">
@@ -168,7 +196,7 @@
                                         <span class="link odkaz">View case study</span>
                                     </div>
                                     <div class="overlay__meta">
-                                        <h4>Role: Product design</h4>
+                                        <h4>Product design</h4>
                                         <div>CloudApp · B2C · 2021
                                         </div>
                                     </div>
@@ -182,8 +210,13 @@
                         </a>
                     </div>
                 </div>
+            </section>
+        </div>
 
-                <div class="work__effect work__job3">
+        <div id="white">
+            <section id="container__work--white">
+
+                 <div class="work__effect work__job4">
                     <div class="work">
                         <a href="/backup-reporting">
                             <figure class="work__image">
@@ -212,13 +245,8 @@
                         </a>
                     </div>
                 </div>
-            </section>
-        </div>
 
-        <div id="white">
-            <section id="container__work--white">
-
-                <div class="work__effect work__job4">
+                <div class="work__effect work__job5">
                     <div class="work">
                         <a href="/task-management">
                             <figure class="work__image">
@@ -229,7 +257,7 @@
                                             <span class="link odkaz">View case study</span>
                                         </div>
                                         <div class="overlay__meta">
-                                            <h4>Role: UX/UI, Prototyping</h4>
+                                            <h4>UX/UI, Prototyping</h4>
                                             <div>CloudApp · B2B · 2017
                                             </div>
                                         </div>
@@ -247,9 +275,37 @@
                     </div>
                 </div>
 
+                <div class="work__effect work__job6">
+                    <div class="work">
+                        <a href="/gordic-support">
+                            <figure class="work__image">
+                                <img srcset="img/work/gordic_support@1x.png 1x, img/work/gordic_support@2x.png 2x"
+                                    alt="Gordic support">
+                                        <div class="work__overlay">
+                                            <div class="overlay__text">
+                                                <span class="link odkaz">View case study</span>
+                                            </div>
+                                            <div class="overlay__meta">
+                                                <h4>Web design, Visual & interaction design</h4>
+                                                <div>Web · B2B, B2G
+                                                </div>
+                                            </div>
+                                        </div>
+                            </figure>
+                            <figcaption class="work__info">
+                                <img src="./img/references/gordic_new.svg" width="80" alt="Gordic">
+                                <h3>Learning & Support portal</h3>
+                                <p>I designed portal where GORDIC company shares personalized news, events, important
+                                    legal updates and best industry practices in order to help their customers to do the
+                                    right things right.</p>
+                            </figcaption>
+                        </a>
+                    </div>
+                </div>
+
 
                 <div class="work__job7">
-                    <div id="ld_other"">
+                    <div id="ld_other">
 						<a href="/work">
                         <ul>
                             <li><img srcset="img/work/floating_1@1x.png 1x, img/work/floating_1@2x.png 2x" width="200px"
@@ -321,7 +377,7 @@
                             <!-- <img src="./img/research_icon@1x.png" alt="Research icon"> -->
                             <h2>01. Research</h2>
                             <p>
-                                Designing without data is like driving without brakes; you can handle it, but it's risky. Therefore, the most crucial step is to know as much as possible about the problem/task and user needs. Let's gather at least quantitative data from available analytics or, ideally, let's have a regular discovery habit, which would be even better.
+                                Designing without data is like driving without brakes. You can handle it, but it's risky. Therefore, the most crucial step is to know as much as possible about the problem/task and user needs. Let's gather at least quantitative data from available analytics or, ideally, let's have a regular discovery habit, which would be even better.
                             </p>
                             <p>
                                 Therefore, I will dig deep to discover what your customers are truly looking for. Together, we can decide on the next steps. By gathering both quantitative and qualitative data, we can better understand the problem and make more informed decisions during the design process.

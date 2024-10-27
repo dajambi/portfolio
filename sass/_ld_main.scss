@@ -87,7 +87,7 @@ main#home{
 			min-height: 600px;
 			max-width: 450px;
 			border-radius: 24px;
-			background: $color-white;
+			background: $color-bg-white;
 			box-shadow: 0 64px 64px 0 rgba(134,135,160,0.02), 0 32px 32px 0 rgba(117,120,153,0.02), 0 16px 16px 0 rgba(118,119,155,0.02), 0 8px 8px 0 rgba(122,120,152,0.06), 0 4px 4px 0 rgba(118,115,154,0.04), 0 64px 64px 0 rgba(134,135,160,0.08), 0 32px 32px 0 rgba(117,120,153,0.05);
 			z-index: 10;
 			perspective: 1000px;
@@ -325,13 +325,24 @@ main#home{
 			max-width: 1280px;
 			height: auto;
 			grid-template-columns: 12.5% 12.5% 12.5% 10% 5% 10% 12.5% 12.5% 12.5%;
-			grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+			grid-template-rows: 220px 220px 220px 220px 220px;
 			justify-items: start;
 			align-items: center;
 			margin: 0 auto;
 			padding: 50px 30px;
 		}
 
+		#container__work--white--fix {
+			display: grid;
+			max-width: 1280px;
+			height: auto;
+			grid-template-columns: 12.5% 12.5% 12.5% 10% 5% 10% 12.5% 12.5% 12.5%;
+			grid-template-rows: 220px 220px 220px 220px 220px 220px 220px 220px;
+			justify-items: start;
+			align-items: center;
+			margin: 0 auto;
+			padding: 50px 30px;
+		}
 
 		.work__job4 {
 			grid-column: 1 / 5;
@@ -380,7 +391,7 @@ main#home{
 
 		.work__job6 {
 			grid-column: 1 / 5;
-			grid-row: 5;
+			grid-row: 4;
 			justify-self: start;
 			align-self: start;
 
@@ -401,9 +412,10 @@ main#home{
 
 		.work__job7 {
 			grid-column: 6 / 10;
-			grid-row: 5;
+			grid-row: 6;
 			justify-self: end;
 			align-self: start;
+
 
 			figcaption img {
 				opacity: .6;

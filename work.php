@@ -126,7 +126,36 @@
                     </p>
                 </div>
 
+
                 <div class="work__effect work__job1">
+                    <div class="work">
+                        <a href="https://medium.com/outreach-prague/how-did-we-join-the-genai-race-with-smart-email-assist-09d9571dc624" target="_blank">
+                            <figure class="work__image">
+                                <img srcset="img/work/sea@1x.png 1x, img/work/sea@2x.png 2x" alt="Smart Email Assist" >
+                              
+                                <div class="work__overlay">
+                                    <div class="overlay__text">
+                                        <span class="link odkaz">View article</span>
+                                    </div>
+                                    <div class="overlay__meta">
+                                        <h4>Product design</h4>
+                                        <div>GenAI · B2B · 2023
+                                             <span class="protected">On Medium</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </figure>
+                            <figcaption class="work__info">
+                                <img src="./img/outreach-logo.svg" alt="Outreach.io">
+                                <h3>Leverage GenAI to boost sales productivity</h3>
+                                <p>How did we join the GenAI race? I had the privilege to be part of the team to design the first GenAi Outreach.io feature and here is a story of how we created Smart Email Assist.</p>
+                            </figcaption>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="work__effect work__job2">
                     <div class="work">
                         <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank">
                             <figure class="work__image">
@@ -154,7 +183,7 @@
                     </div>
                 </div>
 
-                <div class="work__effect work__job2">
+                <div class="work__effect work__job3">
                     <div class="work">
                         <a href="/helpdesk">
                             <figure class="work__image">
@@ -178,9 +207,15 @@
                             </figcaption>
                         </a>
                     </div>
-                </div>
+                </div>         
+              
+            </section>
+        </div>
 
-                <div class="work__effect work__job3">
+        <div id="white">
+            <section id="container__work--white--fix">
+
+                 <div class="work__effect work__job4">
                     <div class="work">
                         <a href="/backup-reporting">
                             <figure class="work__image">
@@ -191,7 +226,7 @@
                                         <span class="link odkaz">View case study</span>
                                     </div>
                                     <div class="overlay__meta">
-                                        <h4>Role: Product design</h4>
+                                        <h4>Product design</h4>
                                         <div>CloudApp · B2B · 2019
                                             <span class="protected"><img src="./img/lock.svg" alt="Lock icon">Password
                                                 required</span>
@@ -209,15 +244,8 @@
                         </a>
                     </div>
                 </div>
-         
-              
-            </section>
-        </div>
 
-        <div id="white">
-            <section id="container__work--white">
-
-                <div class="work__effect work__job4">
+                <div class="work__effect work__job5">
                         <div class="work">
                             <a href="/knowledge-base">
                                 <figure class="work__image">
@@ -229,7 +257,7 @@
                                             <span class="link odkaz">View case study</span>
                                         </div>
                                         <div class="overlay__meta">
-                                            <h4>Role: UX/UI, Prototyping</h4>
+                                            <h4>UX/UI, Prototyping</h4>
                                             <div>CloudApp · B2B  · 2018
                                                 <span class="protected">Password required</span>
                                             </div>
@@ -248,7 +276,7 @@
                         </div>
                 </div>
 
-                <div class="work__effect work__job5">
+                <div class="work__effect work__job6">
                     <div class="work">
                         <a href="/task-management">
                             <figure class="work__image">
@@ -259,7 +287,7 @@
                                             <span class="link odkaz">View case study</span>
                                         </div>
                                         <div class="overlay__meta">
-                                            <h4>Role: UX/UI, Prototyping</h4>
+                                            <h4>UX/UI, Prototyping</h4>
                                             <div>CloudApp · B2B · 2017
                                                 <span class="protected">Password required</span>
                                             </div>
@@ -278,7 +306,7 @@
                     </div>
                 </div>
 
-                <div class="work__effect work__job6">
+                <div class="work__effect work__job7">
                     <div class="work">
                         <a href="/gordic-support">
                             <figure class="work__image">
@@ -289,7 +317,7 @@
                                                 <span class="link odkaz">View case study</span>
                                             </div>
                                             <div class="overlay__meta">
-                                                <h4>Role: Web design, Visual & interaction design</h4>
+                                                <h4>Web design, Visual & interaction design</h4>
                                                 <div>Web · B2B, B2G
                                                 </div>
                                             </div>
@@ -340,7 +368,7 @@
         </div>  
     </main>
 
-    <section id="about__principles" class="wsideprojects">
+    <!-- <section id="about__principles" class="wsideprojects">
         <div class="wsideprojects__graphic">
             <div class="about--wrapper">
                 <h1>Humble <br><span class="highlight_blue"> design evolution</span></h1>
@@ -356,7 +384,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
     <section id="designsources">
