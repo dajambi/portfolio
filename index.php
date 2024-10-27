@@ -14,7 +14,7 @@
         content="🤘I’m Senior product designer with a passion for functional design and with one rule in mind - Design is everything.">
     <meta name="keywords"
         content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
-    <title>David Jambor - Portfolio - Senior product designer 🤘</title>
+    <title>David Jambor - Portfolio - Staff product designer 🤘</title>
 
 </head>
 
@@ -50,9 +50,9 @@
 
             <div id="header_text">
                 <h1>I transform visions to real <span class="highlight_blue">digital products</span></h1>
-                <p>Hey, I'm David, <strong>Senior product designer</strong> with a passion for functional
+                <p>Hey, I'm David, <strong>Staff product designer</strong> with a passion for functional
                     design.  My guiding principle is - <strong>Design is&nbsp;everything.</strong>
-                    Currently designing GenAI features that empower sales professionals for Outreach.io</p>
+                    Currently designing GenAI features that empower sales professionals for Outreach.io. I'm based in Czechia (CET) timezone. Working with global teams.</p>
                     
                 <div id="clients">
                     <div id="design_for">I designed <br> <span>for</span></div>
@@ -151,7 +151,7 @@
                             <figcaption class="work__info">
                                 <img src="./img/mentedy-logo.svg" alt="Mentedy">
                                 <h3>Story about Mentedy — My Startup Odyssey</h3>
-                                <p>What could be the most exciting aspiration for a designer? For me, it was  building my own SaaS startup. story — This is not typical case study, but the story of turning aspirations into a reality.</p>
+                                <p>What could be the most exciting aspiration for a designer? For me, it was building my own SaaS startup. This is not typical case study, but the story of turning aspirations into a reality.</p>
                             </figcaption>
                         </a>
                     </div>

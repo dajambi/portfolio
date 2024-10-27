@@ -573,6 +573,9 @@ a {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   opacity: 1; }
 
+.slick-slide {
+  margin-right: 1.875rem; }
+
 .slick-dots {
   display: flex;
   justify-content: center;

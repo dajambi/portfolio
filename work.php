@@ -13,7 +13,7 @@
         content="About me -I’m senior product designer with a passion for functional design and with one rule in mind - Design is everything.">
     <meta name="keywords"
         content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
-    <title>Work - UX projects and design for digital products</title>
+    <title>My work - UX projects and design for digital products</title>
 </head>
 
 <?php include '_partials/tag-manager.php'; ?>
@@ -404,7 +404,7 @@
                          <li>
                              <div>Now</div>
                              <div>Outreach.io</div>
-                             <div>Product designer & Senior product designer</div>
+                             <div>Product designer, Senior & Staff product designer</div>
                              <div class="w_location">Czechia · Prague · Hybrid</div>
                          </li>
                          <li>
@@ -427,7 +427,7 @@
                          </li>
                      </ul>
 
-                    <h3>Personal project</h3>
+                    <h3>Building my startup</h3>
                     <ul>
                          <li>
                              <div>2018 – 2022</div>
