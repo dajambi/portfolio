@@ -13,8 +13,8 @@
                 if ($cesta === 'about') echo '<li><span class="m--number">02</span><a href="/about" role="menuitem" class="link odkaz" data-img="img/menu-about.png" data-fx="12"><span class="highlight_blue">About me</span></a></li>';
                 else echo '<li><span class="m--number">02</span><a href="/about" role="menuitem" class="link odkaz" data-img="img/menu-about.png" data-fx="12">About me</a></li>';
 
-                if ($cesta === 'work') echo '<li><span class="m--number">03</span><a href="/work" role="menuitem" class="link odkaz"><span class="highlight_blue">Craft & case studies</span></a></li>';
-                else echo '<li><span class="m--number">03</span><a href="/work" role="menuitem" class="link odkaz">Craft & case studies</a></li>';
+                if ($cesta === 'work') echo '<li><span class="m--number">03</span><a href="/work" role="menuitem" class="link odkaz" data-img="img/sea.png" data-fx="12"><span class="highlight_blue">Craft & case studies</span></a></li>';
+                else echo '<li><span class="m--number">03</span><a href="/work" role="menuitem" class="link odkaz" data-img="img/sea.png" data-fx="12">Craft & case studies</a></li>';
 
                 if ($cesta === 'Worki') echo '<li><span class="m--number">04</span><a href="/work.php#designsources" role="menuitem" class="link odkaz"><span class="highlight_blue">Design sources</span></a></li>';
                 else echo '<li><span class="m--number">04</span><a href="/work.php#designsources" role="menuitem" class="link odkaz">Design sources</a></li>';
