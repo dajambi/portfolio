@@ -10,7 +10,7 @@
     <?php include '_partials/meta-links.php'; ?>
 
     <meta name="description"
-        content="About me - 🤘I am Digital Product (UI/UX/IxD) designer with a passion for functional design and with one rule in mind - Design is everything.">
+        content="About me - 🤘I am Staff digital Product designer with a passion for design & business and with one rule in mind - Design is everything.">
     <meta name="keywords"
         content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
     <title>About me - David Jambor - Staff digital product (UI/UX/IxD) designer 🤘</title>
@@ -49,16 +49,14 @@
             <?php include '_partials/navigation.php'; ?>
 
             <div id="header_text--about">
-                <h1><span class="highlight_blue">Hello,</span> <br>beautiful people, pleasure to see you here</h1>
-                <p>My name is David and I'm a Senior product designer currently living in Czechia. During the last ten
-                    years I've worked as the Graphic, Web designer, UX/UI and Product designer for startups, corporates and also as
-                    the freelancer for my own clients.</p>
+                <h1><span class="highlight_blue">I can</span> help you build ambitious digital product</h1>
+                <p>Hey, I'm David, Staff product designer with a passion for design & business . My guiding principle is - 
+                    <a target="_blank" href="https://www.facebook.com" class="link odkaz anim-middleout">Design is everything</a>. Currently designing GenAI features that empower sales professionals for Outreach.io. I'm based in Czechia (CET) timezone. Working with global teams.</p>
                 <div class="ab_stats">
                     <ul>
                         <li>12+ <span>Years in design</span></li>
                         <li>210+ <span>Projects</span></li>
-                        <li>6+ <span>Years in remote</span></li>
-                        <li>1 <span>Startup founded</span></li>
+                        <li>2× <span>Startup founded</span></li>
                     </ul>
                 </div>
             </div>
@@ -110,12 +108,99 @@
                         </a></li>
                 </ul>
             </div>
-            <div id="step__decoration"></div>
 
         </div>
     </header>
 
     <main>
+        <section id="about__intro">
+                <div class="about__intro--wrapper">
+                    <div class="intro__left">
+                        <a href="" target="_blank">
+                            <figure class="speech__image">
+                                <img srcset="img/work/sea@1x.png 1x, img/work/sea@2x.png 2x" alt="Speech about Smart Email Assist" >
+                                    <div class="work__overlay">
+                                        <div class="overlay__text">
+                                            <span class="link odkaz">Play</span>
+                                        </div>
+                                    </div>
+                            </figure>
+                        </a>
+                    </div>
+                    <div class="intro__right">
+                        <h1>Building digital products with <span class="AiSphere">I can</span> GenAI & startups</h1>
+                        <p>Hello, I’m David, thrilled Product designer with a passion for simplicity, function design and with one rule in my mind - Design is everything. Currently designing the Customer Support app at Czech startup Kiwi.com in Brno.. Medium articleHello, I’m David, thrilled Product designer with a passion for simplicity, function design and with one rule in my mind - Design is everything. Currently designing the Customer Support app at Czech startup Kiwi.com in Brno.. Medium article.  Get in touch</p>
+                        <div class="tags">
+                            <h3>My niche</h3>
+                            <ul class="tags__list">
+                                <li>AI tools</li>
+                                <li>GenAI</li>
+                                <li>Web3</li>
+                                <li>Fintech</li>
+                                <li>Travel</li>
+                                <li>Sales</li>
+                                <li>Education</li>
+                                <li>Performance</li>
+                                <li>Security & observability</li>
+                                <li>Startups</li>
+                                <li>0 → 1</li>
+                                <li>Mentoring</li>
+                                <li>Health</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>   
+
+                <div class="about__intro--wrapper column">
+                    <h3>Education</h3>
+                    <div id="about__education">
+                            <div class="edu__graphic">
+                                    <div class="w__curriculum">  
+                                        <ul>
+                                            <li>
+                                                <div>2014 – 2016</div>
+                                                <div>Brno University of Technology</div>
+                                                <div>Master's degree, Systems engineering, <br><a href="https://dspace.vutbr.cz/handle/11012/59328" target="_blank" class="link">Master's thesis</a></div>
+                                                <div class="w_location">Czechia · Brno</div>
+                                            </li>
+                                            <li>
+                                                <div>2011 – 2014</div>
+                                                <div>Brno University of Technology</div>
+                                                <div>Bachelor's degree, Systems engineering, <br><a href="http://hdl.handle.net/11012/59328" target="_blank" class="link">Bachelor's thesis</a></div>
+                                                <div class="w_location">Czechia · Brno</div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                            </div>
+                    </div>
+                </div>
+
+                <div class="about__intro--wrapper">
+                    <div class="intro__left">
+                        <h3>Certifications & courses</h3>
+                        <ul>
+                            <li>Design for complex UIS</li>
+                            <li>Motion</li>
+                            <li>Art direction</li>
+                        </ul>
+                        <ul>
+                            <li>Product metrics </li>
+                            <li>Product strategy</li>
+                            <li>Accessibility training</li>
+                        </ul>
+                    </div>
+                    <div class="intro__right">
+                        <h3>Speaking</h3>
+                        <div>
+                            Design GenAI Superpowers 
+                            <span>Design meet up ·  Prague · 2023 · </span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="step__decoration"></div>
+        </section>
+
         <section id="about__journey">
             <div class="about--wrapper">
                 <div class="journey">
@@ -174,14 +259,14 @@
                             I designed and developed a well-known climbing portal in the Czech republic — emontana.cz
                             with a reach of
                             over 10k visitors per month. For ntsup.cz I redesigned the branding and offline campaigns
-                            that
-                            were promoted all over the Czechia.
+                            that were promoted all over the Czechia. In Kiwi.com I contributed with designed solution and helped digitize the customer support and survive during covid crises.
+                            In Outreach.io I designed a first GenAI feature – Smart Email Assist and other GenAi capabilities like Account plan or Prospecting agent which totally disrupt the sales domain.
                         </p>
-                        <p>Today, I spend almost all my free time building my own startup for online mentoring
-                            mentedy.cz. It is rewarding, terrifying, and exhausting - usually everything at once. But
-                            it's an invaluable experience when you have to design everything, care about product
-                            management, think about human resources, finances, negotiate with potential investors. </br>
-                            That's my story. Now let's focus on yours, shall we?</p>
+                        <p>I’m ex-cofounder of Mentedy – mentoring platform which which we almost succeeded. 
+                            Today, I spend almost all my free time building my second startup – Accounting and payment platform for SMBs powered by GenAI.
+                            mentedy.cz. It is rewarding, terrifying, and exhausting - usually everything at once.</br>
+                            That's my story. Now let's focus on yours, shall we?                        
+                        </p>
                     </div>
                 </div>
 
@@ -451,7 +536,7 @@
 
         <section id="about__hobbies">
             <div class="about--wrapper">
-                <h1>How do I get <br> my energy <br> and inspiration?</h1>
+                <h1>Where I find <br> my energy <br> and inspiration</h1>
                 <div class="hobbies__detail">
                     <article>
                         <figure class="ar--first">
@@ -460,15 +545,9 @@
                             <h2>Adventures & Traveling</h2>
                         </figure>
                         <figcaption>
-                            <p>Mont Blanc · 2018</p>
+                            <p>Mont Blanc · Alps</p>
                         </figcaption>
-                        <p>The adventures, adrenalin sports, and traveling are the activities that help me enjoy my l
-                            life and where I get the energy from. I am happy when I can spend time in nature, feel sea
-                            salt in my hair, and watch the sunset falling behind ocean horizons. The best moments of my
-                            life haven't happened in front of the monitor. It happened when I went beyond the comfort
-                            zone, conquer the mountains, and enjoy a well-deserved view together with my adventure
-                            companion. I found out that people regret things that they didn't do, not things that
-                            they've done. I think it is true - therefore I like saying yes to new challenges.</p>
+                        <p>Adventures, adrenaline sports, and traveling are the activities that bring joy to my life and recharge my energy. I feel truly alive when I’m immersed in nature, with sea salt in my hair and sunsets melting into ocean horizons. The best moments of my life haven’t been spent in front of a monitor—they’ve been created when I stepped out of my comfort zone, conquered mountains, and shared breathtaking views with my adventure companions. I’ve realized that people regret the things they didn’t do, not the things they tried. That’s why I embrace saying yes to new challenges.</p>
                     </article>
                     <article>
                         <figure class="ar--first ar--second">
@@ -477,14 +556,9 @@
                             <h2>Family & Friends</h2>
                         </figure>
                         <figcaption>
-                            <p>One of many trips · 2016</p>
+                            <p>One of many trips · Paradise</p>
                         </figcaption>
-                        <p>Life without family, supportive friends, and great colleagues would be too sad. In the
-                            past, I spent a lot of time alone, because I wanted to finish work for my clients or
-                            deliver new features sooner. Now I realize how important work-life balance is. I say NO to
-                            side projects unless it is something special and I prefer spending my time with my family,
-                            friends or by learning something new. It is always worth it. That free time has a much
-                            bigger value to me now.</p>
+                        <p>Life without family, supportive friends, and great colleagues would be far too lonely. In the past, I often isolated myself, focusing solely on completing work for clients or rushing to deliver new features. Now, I’ve come to understand what truly matters. I’ve learned to say no to side projects unless they’re truly meaningful, and I prioritize spending time with my family, friends, or pursuing personal growth. These moments hold far greater value.</p>
                     </article>
                 </div>
             </div>
