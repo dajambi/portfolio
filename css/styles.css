@@ -3096,11 +3096,16 @@ p a[data-fx="12"] {
 .about__intro--wrapper {
   display: flex;
   flex-direction: row;
-  align-items: left;
-  max-width: 1280px;
-  padding-bottom: 6rem;
+  align-items: start;
+  justify-content: space-around;
+  width: 1280px;
+  gap: 1.5rem;
+  padding-bottom: 2rem;
   z-index: 1;
-  border: 1px solid red; }
+  padding-top: 4em; }
+  @media (max-width: 1280px) {
+    .about__intro--wrapper {
+      width: 100%; } }
 
 .column {
   display: flex;
@@ -3109,18 +3114,46 @@ p a[data-fx="12"] {
 .intro__left {
   display: flex;
   width: 50%;
-  border: 1px solid red; }
+  justify-content: flex-start; }
+
+.speech__image {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative; }
+  .speech__image::after {
+    content: " ";
+    position: absolute;
+    right: -12%;
+    bottom: -12%;
+    width: 158px;
+    height: 116px;
+    z-index: 1;
+    background: url("../img/about/me_conference2.png") no-repeat; }
 
 .intro__right {
   display: flex;
   flex-direction: column;
-  width: 50%;
-  border: 1px solid red; }
+  width: 50%; }
   .intro__right p {
     font-size: 16px;
     color: #CACDCE;
     line-height: 36px;
     font-weight: 300; }
+  .intro__right h2 {
+    line-height: calc(30px + (50 - 30) * ((100vw - 320px) / (1400 - 320)));
+    color: #E0E9EE;
+    position: relative;
+    z-index: 10;
+    margin: 0; }
+    .intro__right h2 {
+      font-size: 30px; }
+      @media screen and (min-width: 320px) {
+        .intro__right h2 {
+          font-size: calc(30px + 10 * ((100vw - 320px) / 1080)); } }
+      @media screen and (min-width: 1400px) {
+        .intro__right h2 {
+          font-size: 40px; } }
   .intro__right ul {
     list-style: none;
     display: flex;
@@ -3132,9 +3165,21 @@ p a[data-fx="12"] {
     line-height: 28px;
     display: flex;
     border-radius: 1.25rem;
-    border: 1px solid #20202B;
+    border: 1px solid #27272d;
     padding: 0 16px;
     color: #CACDCE; }
+
+.about_header--row {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap; }
+
+.aisphere {
+  max-width: 145px;
+  height: auto;
+  margin: -28px; }
 
 #about__education {
   display: flex;
@@ -3157,6 +3202,44 @@ p a[data-fx="12"] {
     background: url("../img/principles_bg.svg") 5% 0% no-repeat;
     position: relative;
     overflow: hidden; }
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 6em; }
+
+.cer__right {
+  flex: 1;
+  padding: 0 8%;
+  line-height: 140%; }
+  .cer__right div, .cer__right a {
+    color: #CACDCE; }
+  .cer__right a:hover {
+    text-decoration: underline; }
+
+.cer__left {
+  display: flex;
+  flex-direction: column;
+  flex: 2;
+  padding-right: 3em; }
+  .cer__left ul {
+    list-style: none;
+    color: #CACDCE;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    margin: 0;
+    padding: 0; }
+  .cer__left li {
+    display: flex;
+    align-items: center;
+    gap: 16px; }
+
+.caption {
+  display: flex;
+  flex-direction: row;
+  font-size: 12px; }
 
 #about__opinions {
   display: flex;
@@ -3491,7 +3574,8 @@ p a[data-fx="12"] {
       top: 12px;
       right: 50%;
       left: -10%;
-      width: 100%; }
+      width: 100%;
+      margin: 0; }
       #about__hobbies .ar--first h2 {
         font-size: 30px; }
         @media screen and (min-width: 320px) {

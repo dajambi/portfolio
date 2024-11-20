@@ -32,7 +32,6 @@
     <canvas class="cursor cursor--canvas" resize></canvas>
 
     <header class="home about">
-        <div class="ellipse"></div>
         <div class="container">
             <div class="logo">
                 <a href="https://www.davidjambor.cz"><img src="./img/logo.svg"
@@ -116,19 +115,24 @@
         <section id="about__intro">
                 <div class="about__intro--wrapper">
                     <div class="intro__left">
-                        <a href="" target="_blank">
+                        <a href="https://www.youtube.com/watch?v=lBhBG88wJFo&t" target="_blank" class="link">
                             <figure class="speech__image">
-                                <img srcset="img/work/sea@1x.png 1x, img/work/sea@2x.png 2x" alt="Speech about Smart Email Assist" >
-                                    <div class="work__overlay">
-                                        <div class="overlay__text">
-                                            <span class="link odkaz">Play</span>
-                                        </div>
+                                <img srcset="img/about/me_conference@1x.png 1x, img/about/me_conference@2x.png 2x" alt="Speech about Smart Email Assist" loading="lazy" width="304px" height="422px" />
+                                  
+                                    <div class="play_button">
+                                        <span>Play</span>
                                     </div>
                             </figure>
                         </a>
                     </div>
                     <div class="intro__right">
-                        <h1>Building digital products with <span class="AiSphere">I can</span> GenAI & startups</h1>
+                        <h2>Building digital products </h2>
+                        <div class="about_header--row"> 
+                            <h2>with</h2>
+                            <div class="aisphere"><img srcset="img/about/aisphere@1x.png 1x, img/about/aisphere@2x.png 2x" alt="AI Sphere" width="145px" height="153px" loading="lazy"></div>
+                            <h2>GenAI & startups</h2>
+                         </div>
+
                         <p>Hello, I’m David, thrilled Product designer with a passion for simplicity, function design and with one rule in my mind - Design is everything. Currently designing the Customer Support app at Czech startup Kiwi.com in Brno.. Medium articleHello, I’m David, thrilled Product designer with a passion for simplicity, function design and with one rule in my mind - Design is everything. Currently designing the Customer Support app at Czech startup Kiwi.com in Brno.. Medium article.  Get in touch</p>
                         <div class="tags">
                             <h3>My niche</h3>
@@ -152,7 +156,7 @@
                 </div>   
 
                 <div class="about__intro--wrapper column">
-                    <h3>Education</h3>
+                    <h3>Higher education</h3>
                     <div id="about__education">
                             <div class="edu__graphic">
                                     <div class="w__curriculum">  
@@ -160,13 +164,13 @@
                                             <li>
                                                 <div>2014 – 2016</div>
                                                 <div>Brno University of Technology</div>
-                                                <div>Master's degree, Systems engineering, <br><a href="https://dspace.vutbr.cz/handle/11012/59328" target="_blank" class="link">Master's thesis</a></div>
+                                                <div>Master's degree, Systems engineering, <br><a href="https://dspace.vutbr.cz/handle/11012/59328" target="_blank" class="link">Master's thesis · Information system assessment and proposal for ICT modification</a></div>
                                                 <div class="w_location">Czechia · Brno</div>
                                             </li>
                                             <li>
                                                 <div>2011 – 2014</div>
                                                 <div>Brno University of Technology</div>
-                                                <div>Bachelor's degree, Systems engineering, <br><a href="http://hdl.handle.net/11012/59328" target="_blank" class="link">Bachelor's thesis</a></div>
+                                                <div>Bachelor's degree, Systems engineering, <br><a href="http://hdl.handle.net/11012/59328" target="_blank" class="link">Bachelor's thesis · Information system assessment and proposal for ICT modification</a></div>
                                                 <div class="w_location">Czechia · Brno</div>
                                             </li>
                                         </ul>
@@ -175,25 +179,27 @@
                     </div>
                 </div>
 
-                <div class="about__intro--wrapper">
-                    <div class="intro__left">
+                <div class="about__intro--wrapper row">
+                    <div class="cer__left">
                         <h3>Certifications & courses</h3>
-                        <ul>
-                            <li>Design for complex UIS</li>
-                            <li>Motion</li>
-                            <li>Art direction</li>
-                        </ul>
-                        <ul>
-                            <li>Product metrics </li>
-                            <li>Product strategy</li>
-                            <li>Accessibility training</li>
-                        </ul>
+                        <div class="row">
+                            <ul>
+                                <li data-tooltip="Presented by Vitaly Friedman"><img src="./img/about/smashing.svg" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Design for complex UIS</li>
+                                <li data-tooltip="Awwwards academy"><img src="./img/about/awwards.svg" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Motion</li>
+                                <li data-tooltip="Awwwards academy"><img src="./img/about/awwards.svg" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Art direction</li>
+                            </ul>
+                            <ul>
+                                <li data-tooltip="Product school"><img src="./img/about/productschool.png" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Product metrics</li>
+                                <li data-tooltip="Product school"><img src="./img/about/productschool.png" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Product strategy</li>
+                                <li data-tooltip="Deque.com"><img src="./img/about/deque.svg">Accessibility training</li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="intro__right">
+                    <div class="cer__right">
                         <h3>Speaking</h3>
                         <div>
-                            Design GenAI Superpowers 
-                            <span>Design meet up ·  Prague · 2023 · </span>
+                            <a href="https://www.youtube.com/watch?v=lBhBG88wJFo&t" target="_blank" class="link">Design GenAI Superpowers </a>
+                                <span class="caption">Design meet up ·  Prague · 2023</span>
                         </div>
                     </div>
                 </div>
@@ -286,14 +292,10 @@
                             <h2>Two bold missions</h2>
                         </div>
                         <div class="expec--right">
-                            <p><sup>1</sup> It all starts with the people and their skills — this is a mantra of
-                                my startup
-                                <a href="https://mentedy.com" target="_blank"
-                                    class="link odkaz anim-middleout">Mentedy.com.</a>
-                                that helps companies to manage skills and help employees grow through → internal and
-                                external mentoring.
+                            <p><sup>1</sup> Every business needs good cashflow and every cashflow comes with an invoice. We at <a href="https://lucanto.eu" target="_blank"
+                                    class="link odkaz anim-middleout">Lucanto.eu</a> help create & manage invoices & expenses with → ease.
                             </p>
-                            <p><sup>2</sup> Designing and transforming Sales analytics into simple and actionable stories in 
+                            <p><sup>2</sup> Empowering sales professionals with GenAi tools at Outreach.io – So every sales rep can be the best rep with the help of GenAI tools like Account Plan, Prospecting Agent, Smart Email Assist and more.
                             <a href="https://www.outreach.io/" target="_blank" class="link odkaz anim-middleout">Outreach.io</a></p>
                         </div>
                     </div>
