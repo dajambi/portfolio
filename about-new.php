@@ -9,10 +9,7 @@
     <?php include '_partials/loading.php'; ?>
     <?php include '_partials/meta-links.php'; ?>
 
-    <meta name="description"
-        content="About me - 🤘I am Staff digital Product designer with a passion for design & business and with one rule in mind - Design is everything.">
-    <meta name="keywords"
-        content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
+    <meta name="description" content="About me - 🤘I'm Staff digital Product designer with a passion for design & business and with one rule in mind - Design is everything.">
     <title>About me - David Jambor - Staff digital product (UI/UX/IxD) designer 🤘</title>
 
 </head>
@@ -50,7 +47,7 @@
             <div id="header_text--about">
                 <h1><span class="highlight_blue">I can</span> help you build ambitious digital product</h1>
                 <p>Hey, I'm David, Staff product designer with a passion for design & business . My guiding principle is - 
-                    <a target="_blank" href="https://www.facebook.com" class="link odkaz anim-middleout">Design is everything</a>. Currently designing GenAI features that empower sales professionals for Outreach.io. I'm based in Czechia (CET) timezone. Working with global teams.</p>
+                    <a target="_blank" href="#about__principles" class="link odkaz anim-middleout">Design is everything</a>. Currently designing GenAI features that empower sales professionals for Outreach.io. I'm based in Czechia (CET) timezone. Working with global teams.</p>
                 <div class="ab_stats">
                     <ul>
                         <li>12+ <span>Years in design</span></li>
@@ -121,21 +118,22 @@
                                   
                                     <div class="play_button">
                                         <span>Play</span>
+                                        <img src="img/play.svg" alt="Play presentation" width="26px" height="26px" loading="lazy">
                                     </div>
                             </figure>
                         </a>
                     </div>
                     <div class="intro__right">
-                        <h2>Building digital products </h2>
+                        <h2>Building digital products</h2>
                         <div class="about_header--row"> 
-                            <h2>with</h2>
+                            <h2>powered by</h2>
                             <div class="aisphere"><img srcset="img/about/aisphere@1x.png 1x, img/about/aisphere@2x.png 2x" alt="AI Sphere" width="145px" height="153px" loading="lazy"></div>
-                            <h2>GenAI & startups</h2>
+                            <h2>GenAI</h2>
                          </div>
 
-                        <p>Hello, I’m David, thrilled Product designer with a passion for simplicity, function design and with one rule in my mind - Design is everything. Currently designing the Customer Support app at Czech startup Kiwi.com in Brno.. Medium articleHello, I’m David, thrilled Product designer with a passion for simplicity, function design and with one rule in my mind - Design is everything. Currently designing the Customer Support app at Czech startup Kiwi.com in Brno.. Medium article.  Get in touch</p>
+                        <p>I enjoy working in a startup mode, where I’m part of a small but ambitious team striving to disrupt a specific domain or deliver a unique solution. This is where I bring the most value, leveraging my generalist approach and diverse skillset. I also find joy in tackling complex products powered by GenAI – especially when the team understands the transformative potential of their work and upholds ethical principles and safeguards. Shall we talk?</p>
                         <div class="tags">
-                            <h3>My niche</h3>
+                            <h4>My design focus and interests</h4>
                             <ul class="tags__list">
                                 <li>AI tools</li>
                                 <li>GenAI</li>
@@ -184,13 +182,33 @@
                         <h3>Certifications & courses</h3>
                         <div class="row">
                             <ul>
-                                <li data-tooltip="Presented by Vitaly Friedman"><img src="./img/about/smashing.svg" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Design for complex UIS</li>
-                                <li data-tooltip="Awwwards academy"><img src="./img/about/awwards.svg" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Motion</li>
-                                <li data-tooltip="Awwwards academy"><img src="./img/about/awwards.svg" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Art direction</li>
+                                <li data-tooltip="Presented by Vitaly Friedman">
+                                    <img src="./img/about/smashing.svg" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Design for complex UIS
+                                </li>
+
+                                <li>
+                                    <a href="img/about/certification/motion.png" data-fancybox="gallery" class="link">
+                                        <img src="./img/about/awwards.svg" alt="Awwwards certification for Motion skills" width="24px" height="24px" loading="lazy">Motion
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="img/about/certification/art-direction.png" data-fancybox="gallery" class="link">
+                                     <img src="./img/about/awwards.svg" alt="Awwwards certification for art direction" width="24px" height="24px" loading="lazy">Art direction
+                                    </a>
+                                </li>
                             </ul>
                             <ul>
-                                <li data-tooltip="Product school"><img src="./img/about/productschool.png" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Product metrics</li>
-                                <li data-tooltip="Product school"><img src="./img/about/productschool.png" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Product strategy</li>
+                                <li>
+                                     <a href="img/about/certification/analytics.png" data-fancybox="gallery" class="link">
+                                        <img src="./img/about/productschool.png" alt="Product metrics certification" width="24px" height="24px" loading="lazy">Product metrics
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="img/about/certification/product_strategy.png" data-fancybox="gallery" class="link">
+                                        <img src="./img/about/productschool.png" alt="Product strategy certification" width="24px" height="24px" loading="lazy">Product strategy
+                                    </a>
+                                </li>
                                 <li data-tooltip="Deque.com"><img src="./img/about/deque.svg">Accessibility training</li>
                             </ul>
                         </div>
@@ -475,7 +493,7 @@
         <section id="about__opinions">
             <div class="opinions__graphic">
                 <div class="about--wrapper">
-                    <h1>Work <span class="highlight_blue">attitude</span><br> & references</h1>
+                    <h1>Work <span class="highlight_blue">attitude</span><br> & recommendations</h1>
                     <p class="opinions__intro">
                         I feel fortunate to have transformed my passion for digital product design and development into a fulfilling career that positively impacts people's lives. For me, it's more than just a job – it's a personal interest and hobby that drives me to strive for excellence in every project I undertake. My dedication&nbsp;<span class="blues">+</span>&nbsp;commitment to achieving exceptional outcomes stem from my passion for the craft, rather than a sense of obligation. I believe that my genuine enthusiasm and unwavering focus on delivering quality results are what have earned me recognitions from my peers and clients alike.
                     </p>

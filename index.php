@@ -10,10 +10,8 @@
     <?php include '_partials/loading.php'; ?>
     <?php include '_partials/meta-links.php'; ?>
 
-    <meta name="description"
-        content="🤘I’m Senior product designer with a passion for functional design and with one rule in mind - Design is everything.">
-    <meta name="keywords"
-        content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
+    <meta name="description" content="🤘I’m Staff product designer with a passion for functional design and with one rule in mind - Design is everything.">
+
     <title>David Jambor - Portfolio - Staff product designer 🤘</title>
 
 </head>

@@ -10,10 +10,7 @@
     <?php include('_partials/loading.php') ?>
     <?php include('_partials/meta-links.php') ?>
 
-    <meta name="description"
-        content="Contact me — I’m Senior product designer with a passion for functional design and with one rule in mind - Design is everything.">
-    <meta name="keywords"
-        content="contact, contact me ,ux, user interface design, ui design, ux research, ui ix designer, interaction designer, user experience, mobile app design">
+    <meta name="description" content="Contact me — I’m Senior product designer with a passion for functional design and with one rule in mind - Design is everything.">
     <title>Contact - Senior product designer</title>
 
 </head>

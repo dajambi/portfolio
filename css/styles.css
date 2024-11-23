@@ -3103,6 +3103,10 @@ p a[data-fx="12"] {
   padding-bottom: 2rem;
   z-index: 1;
   padding-top: 4em; }
+  @media (min-width: 1440px) {
+    .about__intro--wrapper {
+      padding-left: 100px;
+      padding-right: 100px; } }
   @media (max-width: 1280px) {
     .about__intro--wrapper {
       width: 100%; } }
@@ -3121,6 +3125,10 @@ p a[data-fx="12"] {
   width: 100%;
   height: 100%;
   position: relative; }
+  .speech__image:hover .play_button {
+    transform: scale(1.08);
+    box-shadow: 0 64px 64px 0 rgba(134, 135, 160, 0.02), 0 32px 32px 0 rgba(117, 120, 153, 0.02), 0 16px 16px 0 rgba(118, 119, 155, 0.02), 0 8px 8px 0 rgba(122, 120, 152, 0.06), 0 4px 4px 0 rgba(118, 115, 154, 0.04), 0 64px 64px 0 rgba(134, 135, 160, 0.08), 0 32px 32px 0 rgba(117, 120, 153, 0.05);
+    backdrop-filter: blur(15px); }
   .speech__image::after {
     content: " ";
     position: absolute;
@@ -3130,6 +3138,25 @@ p a[data-fx="12"] {
     height: 116px;
     z-index: 1;
     background: url("../img/about/me_conference2.png") no-repeat; }
+
+.play_button {
+  display: flex;
+  flex-direction: row;
+  line-height: 2.75rem;
+  padding-left: 1.25rem;
+  padding-right: 0.625rem;
+  color: #fff;
+  font-size: 1rem;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 2.25rem;
+  backdrop-filter: blur(10px);
+  position: absolute;
+  top: 45%;
+  left: 35%;
+  gap: 0.6rem;
+  transition: all 0.3s ease-in-out;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  transform: scale(1); }
 
 .intro__right {
   display: flex;
@@ -3185,7 +3212,7 @@ p a[data-fx="12"] {
   display: flex;
   flex-direction: row;
   align-items: center;
-  width: 1280px;
+  max-width: 1280px;
   height: 100%;
   background: linear-gradient(180deg, #1E1E36 0%, #0D0D19 100%);
   color: #fff;
@@ -3235,6 +3262,13 @@ p a[data-fx="12"] {
     display: flex;
     align-items: center;
     gap: 16px; }
+    .cer__left li a {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      color: #CACDCE; }
+    .cer__left li a:hover {
+      text-decoration: underline; }
 
 .caption {
   display: flex;
