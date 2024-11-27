@@ -9,7 +9,10 @@
     <?php include '_partials/loading.php'; ?>
     <?php include '_partials/meta-links.php'; ?>
 
-    <meta name="description" content="About me - 🤘I'm Staff digital Product designer with a passion for design & business and with one rule in mind - Design is everything.">
+    <meta name="description"
+        content="About me - 🤘I am Digital Product (UI/UX/IxD) designer with a passion for functional design and with one rule in mind - Design is everything.">
+    <meta name="keywords"
+        content="ux designer,ux design,ux, user interface design, ui design, ux research,ui ix designer, interaction designer, user experience, mobile app design">
     <title>About me - David Jambor - Staff digital product (UI/UX/IxD) designer 🤘</title>
 
 </head>
@@ -29,6 +32,7 @@
     <canvas class="cursor cursor--canvas" resize></canvas>
 
     <header class="home about">
+        <div class="ellipse"></div>
         <div class="container">
             <div class="logo">
                 <a href="https://www.davidjambor.cz"><img src="./img/logo.svg"
@@ -45,14 +49,16 @@
             <?php include '_partials/navigation.php'; ?>
 
             <div id="header_text--about">
-                <h1><span class="highlight_blue">I can</span> help you build ambitious digital product</h1>
-                <p>Hey, I'm David, Staff product designer with a passion for design & business . My guiding principle is - 
-                    <a target="_blank" href="#about__principles" class="link odkaz anim-middleout">Design is everything</a>. Currently designing GenAI features that empower sales professionals for Outreach.io. I'm based in Czechia (CET) timezone. Working with global teams.</p>
+                <h1><span class="highlight_blue">Hello,</span> <br>beautiful people, pleasure to see you here</h1>
+                <p>My name is David and I'm a Senior product designer currently living in Czechia. During the last ten
+                    years I've worked as the Graphic, Web designer, UX/UI and Product designer for startups, corporates and also as
+                    the freelancer for my own clients.</p>
                 <div class="ab_stats">
                     <ul>
                         <li>12+ <span>Years in design</span></li>
                         <li>210+ <span>Projects</span></li>
-                        <li>2× <span>Startup founded</span></li>
+                        <li>6+ <span>Years in remote</span></li>
+                        <li>1 <span>Startup founded</span></li>
                     </ul>
                 </div>
             </div>
@@ -104,172 +110,78 @@
                         </a></li>
                 </ul>
             </div>
+            <div id="step__decoration"></div>
 
         </div>
     </header>
 
     <main>
-        <section id="about__intro">
-                <div class="about__intro--wrapper">
-                    <div class="intro__left">
-                        <a href="https://www.youtube.com/watch?v=lBhBG88wJFo&t" target="_blank" class="link">
-                            <figure class="speech__image">
-                                <img srcset="img/about/me_conference@1x.png 1x, img/about/me_conference@2x.png 2x" alt="Speech about Smart Email Assist" loading="lazy" width="304px" height="422px" />
-                                  
-                                    <div class="play_button">
-                                        <span>Play</span>
-                                        <img src="img/play.svg" alt="Play presentation" width="26px" height="26px" loading="lazy">
-                                    </div>
-                            </figure>
-                        </a>
-                    </div>
-                    <div class="intro__right">
-                        <h2>Building digital products</h2>
-                        <div class="about_header--row"> 
-                            <h2>powered by</h2>
-                            <div class="aisphere"><img srcset="img/about/aisphere@1x.png 1x, img/about/aisphere@2x.png 2x" alt="AI Sphere" width="145px" height="153px" loading="lazy"></div>
-                            <h2>GenAI</h2>
-                         </div>
-
-                        <p>I enjoy working in a startup mode, where I’m part of a small but ambitious team striving to disrupt a specific domain or deliver a unique solution. This is where I bring the most value, leveraging my generalist approach and diverse skillset. I also find joy in tackling complex products powered by GenAI – especially when the team understands the transformative potential of their work and upholds ethical principles and safeguards. Shall we talk?</p>
-                        <div class="tags">
-                            <h4>My design focus and interests</h4>
-                            <ul class="tags__list">
-                                <li>AI tools</li>
-                                <li>GenAI</li>
-                                <li>Web3</li>
-                                <li>Fintech</li>
-                                <li>Travel</li>
-                                <li>Sales</li>
-                                <li>Education</li>
-                                <li>Performance</li>
-                                <li>Security & observability</li>
-                                <li>Startups</li>
-                                <li>0 → 1</li>
-                                <li>Mentoring</li>
-                                <li>Health</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>   
-
-                <div class="about__intro--wrapper column">
-                    <h3>Higher education</h3>
-                    <div id="about__education">
-                            <div class="edu__graphic">
-                                    <div class="w__curriculum">  
-                                        <ul>
-                                            <li>
-                                                <div>2014 – 2016</div>
-                                                <div>Brno University of Technology</div>
-                                                <div>Master's degree, Systems engineering, <br><a href="https://dspace.vutbr.cz/handle/11012/59328" target="_blank" class="link">Master's thesis · Information system assessment and proposal for ICT modification</a></div>
-                                                <div class="w_location">Czechia · Brno</div>
-                                            </li>
-                                            <li>
-                                                <div>2011 – 2014</div>
-                                                <div>Brno University of Technology</div>
-                                                <div>Bachelor's degree, Systems engineering, <br><a href="http://hdl.handle.net/11012/59328" target="_blank" class="link">Bachelor's thesis · Information system assessment and proposal for ICT modification</a></div>
-                                                <div class="w_location">Czechia · Brno</div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                            </div>
-                    </div>
-                </div>
-
-                <div class="about__intro--wrapper row">
-                    <div class="cer__left">
-                        <h3>Certifications & courses</h3>
-                        <div class="row">
-                            <ul>
-                                <li data-tooltip="Presented by Vitaly Friedman">
-                                    <img src="./img/about/smashing.svg" alt="Awwwards certification" width="24px" height="24px" loading="lazy">Design for complex UIS
-                                </li>
-
-                                <li>
-                                    <a href="img/about/certification/motion.png" data-fancybox="gallery" class="link">
-                                        <img src="./img/about/awwards.svg" alt="Awwwards certification for Motion skills" width="24px" height="24px" loading="lazy">Motion
-                                    </a>
-                                </li>
-
-                                <li>
-                                    <a href="img/about/certification/art-direction.png" data-fancybox="gallery" class="link">
-                                     <img src="./img/about/awwards.svg" alt="Awwwards certification for art direction" width="24px" height="24px" loading="lazy">Art direction
-                                    </a>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li>
-                                     <a href="img/about/certification/analytics.png" data-fancybox="gallery" class="link">
-                                        <img src="./img/about/productschool.png" alt="Product metrics certification" width="24px" height="24px" loading="lazy">Product metrics
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="img/about/certification/product_strategy.png" data-fancybox="gallery" class="link">
-                                        <img src="./img/about/productschool.png" alt="Product strategy certification" width="24px" height="24px" loading="lazy">Product strategy
-                                    </a>
-                                </li>
-                                <li data-tooltip="Deque.com"><img src="./img/about/deque.svg">Accessibility training</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="cer__right">
-                        <h3>Speaking</h3>
-                        <div>
-                            <a href="https://www.youtube.com/watch?v=lBhBG88wJFo&t" target="_blank" class="link">Design GenAI Superpowers </a>
-                                <span class="caption">Design meet up ·  Prague · 2023</span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div id="step__decoration"></div>
-        </section>
-
         <section id="about__journey">
             <div class="about--wrapper">
                 <div class="journey">
                     <div class="steps--left">
                         <div class="cont_sticky">
-                            <h1>SSteps that took me to product design.</h1>
-                            <div>2 mins read</div>
+                            <h1>Steps that takes me to product design</h1>
+                            <div>3 min read</div>
                             <div><img srcset="img/steps--big@1x.png 1x, img/steps--big@2x.png 2x" width="459px"
                                     height="435px" alt="Design journey steps"></div>
                         </div>
                     </div>
                     <div class="steps--right">
-                        <p>Design has always been my passion. As a kid, I installed Photoshop for the first time and created my very first website — a single paragraph with three buttons 👏. That small project marked the beginning of an incredible design journey.</p>
+                        <p>Design is something I have always loved and been passionate about. One and a half decades ago, I was lucky enough to install Photoshop and design my first website, which consisted of one paragraph and three buttons 👏. This marked the beginning of my design journey.</p>
 
-                        <p>As a teenager, I designed and coded a <a data-img="img/about/bside.png" data-fx="12">gaming portal</a> for myself and my gaming crew. which kicked off my passion for design and brought me my first clients. These early projects gave me creative and financial <a data-img="img/about/freedom.gif" data-fx="12">freedom.</a></p>
+                        <p>As a teenager, I designed and coded a <a data-img="img/about/bside.png" data-fx="12">gaming portal</a> for myself and my gaming companions. My passion for design led me to my first clients, which gave me the <a data-img="img/about/freedom.gif" data-fx="12">freedom.</a> to pursue it further. </p>
 
-                        <p> While studying at university, I discovered how design could seamlessly blend with business and project management. This realization fueled my freelancing career, during which I designed hundreds 
+                        <p> While in university, I realized how I could combine design with business and project management, and so, I started a new journey as a freelancer. Over the course of five years, I designed over a 
                              <a data-img="img/about/webs.jpg"
                                 data-fx="12">websites</a>, dozens of logos, <a data-img="img/about/posters.jpg"
                                 data-fx="12">posters</a>, <a data-img="img/about/billboards.jpg"
                                 data-fx="12">billboards</a>
-                            , car wraps, book covers, email campaigns, and business cards. I took every challenge as an opportunity to learn, teaching myself new skills and delivering on client needs.
+                            , car wraps, book covers, email campaigns, and business cards.
+                            Whenever a client requested something I didn't know how to do, I did my best to learn and deliver it. Almost everything I learned, I learned on the go and mostly by myself. It was a great adventure with many mistakes, but I learned a lot from it.
+                            This experience I used when my mother started her business. I helped her to design a
+                            customer experience, not just a marketing web. This was something I really liked because it
+                            wasn't temporary and it had high value. Therefore after college, I jump into UX and started
+                            designing apps and information systems, which I studied by the way. It all came together.
                         </p>
 
-                        <p>
-                        One of my most rewarding experiences was helping my mother start <a href="https://www.kosmetika-jamborova.cz/" target="_blank" class="link odkaz">her business.</a> I didn’t just create a marketing website, but I crafted the customer experience that endures till now. This kicked off my passion for a holistic approach and transition into UX / product design, focusing on apps and information systems. 
+                        <p>I've been fortunate to design complex SaaS applications for IT Experts in SolarWinds. As a
+                            member of the MSP design team. The majority of the time I worked on a multi-tenant
+                            Helpdesk system with great teams from Poland, Edinburgh, Ottawa and a founder from Austin. I
+                            ship projects like Task list, Task timer, Ticket automation, Knowledge base system,
+                            new dashboards system known aka Workspaces and designed the majority of widgets. I designed
+                            also
+                            some experimental features we developed during the hackathons. Also, I've been working on
+                            MSP
+                            Backup as the second designer where I helped design the new recovery and reporting system.
+                            Meanwhile, I collaborated on a new design system with other designers where I specified
+                            components, behaviors and guidelines for Tables, Color picker, Timer, Favicons, Cards,
+                            Motion, Empty states, Email templates and more.
                         </p>
+                        <p>After that, I joined the great Czech travel startup Kiwi.com where I lead the design of the
+                            internal Helpdesk application. I helped to transform the support experience from absolute
+                            chaos during the Covid pandemic in 2020 to proactive and reliable service. I constantly
+                            delivered work for more than six product managers and designed features that handle the
+                            initial booking process, multi-language chat between support team and customer.
+                            Together with tribe leads, I came up with new vision so now we are striving to develop a
+                            single platform that will digitize all internal processes and services.
 
-                        <p>As an independent designer, I’ve been fortunate to collaborate with inspiring companies and individuals. I contributed to <a href="https://www.gordic.cz/" target="_blank" class="link odkaz">Gordic.cz</a> by designing their support portal and reimagining their web ecosystem. I designed and developed <a href="https://www.emontana.cz/" target="_blank" class="link odkaz">emontana.cz</a>, a popular climbing portal in the Czech Republic. For <a href="https://www.ntsup.eu/" target="_blank" class="link odkaz">ntsup.cz</a>, I refreshed their branding and created offline campaigns seen across the Czechia.
                         </p>
-
-                        <p>I’ve had the privilege of designing complex SaaS applications for  <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz">SolarWinds</a> /  <a href="https://www.n-able.com/" target="_blank" class="link odkaz">N-able</a>, where I was part of the MSP design team. I worked on multi-tenant <a href="https://www.n-able.com/products/msp-manager" target="_blank" class="link odkaz">Helpdesk systems</a> and <a href="https://www.n-able.com/products/cove-data-protection" target="_blank" class="link odkaz">MSP Backup</a>, collaborating with incredible teams across Poland, Edinburgh, Ottawa, and Austin.
-                         N-able is a global leader in MSP software, and I’m proud to have contributed to their success.   
+                        <p>Working independently I've been lucky to collaborate with great companies and individuals. I
+                            worked with one of the biggest czech company Gordic.cz, who delivers the IT system,
+                            on their new web and I also designed a Gordic support portal that fits their new web
+                            ecosystem.
+                            I designed and developed a well-known climbing portal in the Czech republic — emontana.cz
+                            with a reach of
+                            over 10k visitors per month. For ntsup.cz I redesigned the branding and offline campaigns
+                            that
+                            were promoted all over the Czechia.
                         </p>
-                        <p>Later, I joined the Czech travel startup <a href="https://www.kiwi.com" target="_blank" class="link odkaz">Kiwi.com</a>, where I led the design of an internal Helpdesk application. Together, we transformed the chaotic support experience during the 2020 COVID pandemic into a proactive and reliable service.                     
-                        </p>
-                        <p>
-                        At <a href="https://www.outreach.io/" target="_blank" class="link odkaz">Outreach.io</a>, I helped shape the future of sales with projects like <a href="https://support.outreach.io/hc/en-us/articles/7989565935643-Sales-Execution-Report-Overview" target="_blank" class="link odkaz">Sales Execution Report</a> and innovative GenAI-powered features like <a href="https://www.outreach.io/resources/blog/smart-email-assist-public-beta" target="_blank" class="link odkaz">Smart Email Assist</a>, <a href="https://www.outreach.io/resources/blog/smart-account-plans" target="_blank" class="link odkaz">Account Plans</a>, and Prospecting Agent—pioneering disruption in the sales domain.
-                        </p>
-
-                        <p>
-                        I’ve also ventured into entrepreneurship as the co-founder of <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank" class="link odkaz">Mentedy</a>, a mentoring platform that almost reached its full potential. Today, I channel that same drive into my second startup, <a href="https://lucanto.eu/" target="_blank" class="link odkaz">Lucanto.eu</a>, an accounting and payment platform for SMBs powered by GenAI. It’s a rewarding, terrifying, and exhausting experience, usually all at once.
-                        </p>
-
-                        <p>That’s my story. Now let’s dive into yours, shall we?</p>
+                        <p>Today, I spend almost all my free time building my own startup for online mentoring
+                            mentedy.cz. It is rewarding, terrifying, and exhausting - usually everything at once. But
+                            it's an invaluable experience when you have to design everything, care about product
+                            management, think about human resources, finances, negotiate with potential investors. </br>
+                            That's my story. Now let's focus on yours, shall we?</p>
                     </div>
                 </div>
 
@@ -289,10 +201,14 @@
                             <h2>Two bold missions</h2>
                         </div>
                         <div class="expec--right">
-                            <p><sup>1</sup> Every business needs good cashflow and every cashflow comes with an invoice. We at <a href="https://lucanto.eu" target="_blank"
-                                    class="link odkaz anim-middleout">Lucanto.eu</a> help create & manage invoices & expenses with → ease.
+                            <p><sup>1</sup> It all starts with the people and their skills — this is a mantra of
+                                my startup
+                                <a href="https://mentedy.com" target="_blank"
+                                    class="link odkaz anim-middleout">Mentedy.com.</a>
+                                that helps companies to manage skills and help employees grow through → internal and
+                                external mentoring.
                             </p>
-                            <p><sup>2</sup> Empowering sales professionals with GenAi tools at Outreach.io – So every sales rep can be the best rep with the help of GenAI tools like Account Plan, Prospecting Agent, Smart Email Assist and more.
+                            <p><sup>2</sup> Designing and transforming Sales analytics into simple and actionable stories in 
                             <a href="https://www.outreach.io/" target="_blank" class="link odkaz anim-middleout">Outreach.io</a></p>
                         </div>
                     </div>
@@ -472,7 +388,7 @@
         <section id="about__opinions">
             <div class="opinions__graphic">
                 <div class="about--wrapper">
-                    <h1>Work <span class="highlight_blue">attitude</span><br> & recommendations</h1>
+                    <h1>Work <span class="highlight_blue">attitude</span><br> & references</h1>
                     <p class="opinions__intro">
                         I feel fortunate to have transformed my passion for digital product design and development into a fulfilling career that positively impacts people's lives. For me, it's more than just a job – it's a personal interest and hobby that drives me to strive for excellence in every project I undertake. My dedication&nbsp;<span class="blues">+</span>&nbsp;commitment to achieving exceptional outcomes stem from my passion for the craft, rather than a sense of obligation. I believe that my genuine enthusiasm and unwavering focus on delivering quality results are what have earned me recognitions from my peers and clients alike.
                     </p>
@@ -500,9 +416,42 @@
             </div>
         </section>
 
+
+        <!-- <section id="about__writings">
+            <div class="about--wrapper">
+                <h1>Writings + <br> other thoughts.</h1>
+                <div id="articles">
+                    <article>
+                        <div class="article__topic">Building the startup · story NO—1</div>
+                        <h3>From zero to hero</h3>
+                        <p>Life is a journey of and sooner or later you as a designer will look for other life challenge.
+                            What can be more challenging then trying to build your own startup? I got this chance and I
+                            will tell you what this is like.</p>
+                        <div class="article__detail">12 Dec 2020 · 10 min read</div>
+                    </article>
+                    <article>
+                        <div class="article__topic">Building the startup · story NO—2</div>
+                        <h3>The mistake that cost $600k</h3>
+                        <p>Do you know that feeling when you want to do something, but you keep repeating to yourself,
+                            that this is not the right time? That you will do it once you are ready? Do it now you lazy
+                            pussy!</p>
+                        <div class="article__detail">12 Dec 2020 · 10 min read</div>
+                    </article>
+                    <article>
+                        <div class="article__topic">Building the startup · story NO—3</div>
+                        <h3>Ouu shit, what now?</h3>
+                        <p>Changing the business directions is hard, costly and risky decision. But as the designer you
+                            have so huge power in your hand so you can get your first customer within a months without
+                            any budget.</p>
+                        <div class="article__detail">12 Dec 2020 · 10 min read</div>
+                    </article>
+                </div>
+            </div>
+        </section> -->
+
         <section id="about__hobbies">
             <div class="about--wrapper">
-                <h1>Where I find <br> my energy <br> and inspiration</h1>
+                <h1>How do I get <br> my energy <br> and inspiration?</h1>
                 <div class="hobbies__detail">
                     <article>
                         <figure class="ar--first">
@@ -511,9 +460,15 @@
                             <h2>Adventures & Traveling</h2>
                         </figure>
                         <figcaption>
-                            <p>Mont Blanc · Alps</p>
+                            <p>Mont Blanc · 2018</p>
                         </figcaption>
-                        <p>Adventures, adrenaline sports, and traveling are the activities that bring joy to my life and recharge my energy. I feel truly alive when I’m immersed in nature, with sea salt in my hair and sunsets melting into ocean horizons. The best moments of my life haven’t been spent in front of a monitor—they’ve been created when I stepped out of my comfort zone, conquered mountains, and shared breathtaking views with my adventure companions. I’ve realized that people regret the things they didn’t do, not the things they tried. That’s why I embrace saying yes to new challenges.</p>
+                        <p>The adventures, adrenalin sports, and traveling are the activities that help me enjoy my l
+                            life and where I get the energy from. I am happy when I can spend time in nature, feel sea
+                            salt in my hair, and watch the sunset falling behind ocean horizons. The best moments of my
+                            life haven't happened in front of the monitor. It happened when I went beyond the comfort
+                            zone, conquer the mountains, and enjoy a well-deserved view together with my adventure
+                            companion. I found out that people regret things that they didn't do, not things that
+                            they've done. I think it is true - therefore I like saying yes to new challenges.</p>
                     </article>
                     <article>
                         <figure class="ar--first ar--second">
@@ -522,9 +477,14 @@
                             <h2>Family & Friends</h2>
                         </figure>
                         <figcaption>
-                            <p>One of many trips · Paradise</p>
+                            <p>One of many trips · 2016</p>
                         </figcaption>
-                        <p>Life without family, supportive friends, and great colleagues would be far too lonely. In the past, I often isolated myself, focusing solely on completing work for clients or rushing to deliver new features. Now, I’ve come to understand what truly matters. I’ve learned to say no to side projects unless they’re truly meaningful, and I prioritize spending time with my family, friends, or pursuing personal growth. These moments hold far greater value.</p>
+                        <p>Life without family, supportive friends, and great colleagues would be too sad. In the
+                            past, I spent a lot of time alone, because I wanted to finish work for my clients or
+                            deliver new features sooner. Now I realize how important work-life balance is. I say NO to
+                            side projects unless it is something special and I prefer spending my time with my family,
+                            friends or by learning something new. It is always worth it. That free time has a much
+                            bigger value to me now.</p>
                     </article>
                 </div>
             </div>
