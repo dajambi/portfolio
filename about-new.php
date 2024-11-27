@@ -230,67 +230,46 @@
                 <div class="journey">
                     <div class="steps--left">
                         <div class="cont_sticky">
-                            <h1>Steps that takes me to product design</h1>
-                            <div>3 min read</div>
+                            <h1>SSteps that took me to product design.</h1>
+                            <div>2 mins read</div>
                             <div><img srcset="img/steps--big@1x.png 1x, img/steps--big@2x.png 2x" width="459px"
                                     height="435px" alt="Design journey steps"></div>
                         </div>
                     </div>
                     <div class="steps--right">
-                        <p>Design is something I have always loved and been passionate about. One and a half decades ago, I was lucky enough to install Photoshop and design my first website, which consisted of one paragraph and three buttons 👏. This marked the beginning of my design journey.</p>
+                        <p>Design has always been my passion. As a kid, I installed Photoshop for the first time and created my very first website — a single paragraph with three buttons 👏. That small project marked the beginning of an incredible design journey.</p>
 
-                        <p>As a teenager, I designed and coded a <a data-img="img/about/bside.png" data-fx="12">gaming portal</a> for myself and my gaming companions. My passion for design led me to my first clients, which gave me the <a data-img="img/about/freedom.gif" data-fx="12">freedom.</a> to pursue it further. </p>
+                        <p>As a teenager, I designed and coded a <a data-img="img/about/bside.png" data-fx="12">gaming portal</a> for myself and my gaming crew. which kicked off my passion for design and brought me my first clients. These early projects gave me creative and financial <a data-img="img/about/freedom.gif" data-fx="12">freedom.</a></p>
 
-                        <p> While in university, I realized how I could combine design with business and project management, and so, I started a new journey as a freelancer. Over the course of five years, I designed over a 
+                        <p> While studying at university, I discovered how design could seamlessly blend with business and project management. This realization fueled my freelancing career, during which I designed hundreds 
                              <a data-img="img/about/webs.jpg"
                                 data-fx="12">websites</a>, dozens of logos, <a data-img="img/about/posters.jpg"
                                 data-fx="12">posters</a>, <a data-img="img/about/billboards.jpg"
                                 data-fx="12">billboards</a>
-                            , car wraps, book covers, email campaigns, and business cards.
-                            Whenever a client requested something I didn't know how to do, I did my best to learn and deliver it. Almost everything I learned, I learned on the go and mostly by myself. It was a great adventure with many mistakes, but I learned a lot from it.
-                            This experience I used when my mother started her business. I helped her to design a
-                            customer experience, not just a marketing web. This was something I really liked because it
-                            wasn't temporary and it had high value. Therefore after college, I jump into UX and started
-                            designing apps and information systems, which I studied by the way. It all came together.
+                            , car wraps, book covers, email campaigns, and business cards. I took every challenge as an opportunity to learn, teaching myself new skills and delivering on client needs.
                         </p>
 
-                        <p>I've been fortunate to design complex SaaS applications for IT Experts in SolarWinds. As a
-                            member of the MSP design team. The majority of the time I worked on a multi-tenant
-                            Helpdesk system with great teams from Poland, Edinburgh, Ottawa and a founder from Austin. I
-                            ship projects like Task list, Task timer, Ticket automation, Knowledge base system,
-                            new dashboards system known aka Workspaces and designed the majority of widgets. I designed
-                            also
-                            some experimental features we developed during the hackathons. Also, I've been working on
-                            MSP
-                            Backup as the second designer where I helped design the new recovery and reporting system.
-                            Meanwhile, I collaborated on a new design system with other designers where I specified
-                            components, behaviors and guidelines for Tables, Color picker, Timer, Favicons, Cards,
-                            Motion, Empty states, Email templates and more.
+                        <p>
+                        One of my most rewarding experiences was helping my mother start <a href="https://www.kosmetika-jamborova.cz/" target="_blank" class="link odkaz">her business.</a> I didn’t just create a marketing website, but I crafted the customer experience that endures till now. This kicked off my passion for a holistic approach and transition into UX / product design, focusing on apps and information systems. 
                         </p>
-                        <p>After that, I joined the great Czech travel startup Kiwi.com where I lead the design of the
-                            internal Helpdesk application. I helped to transform the support experience from absolute
-                            chaos during the Covid pandemic in 2020 to proactive and reliable service. I constantly
-                            delivered work for more than six product managers and designed features that handle the
-                            initial booking process, multi-language chat between support team and customer.
-                            Together with tribe leads, I came up with new vision so now we are striving to develop a
-                            single platform that will digitize all internal processes and services.
 
+                        <p>As an independent designer, I’ve been fortunate to collaborate with inspiring companies and individuals. I contributed to <a href="https://www.gordic.cz/" target="_blank" class="link odkaz">Gordic.cz</a> by designing their support portal and reimagining their web ecosystem. I designed and developed <a href="https://www.emontana.cz/" target="_blank" class="link odkaz">emontana.cz</a>, a popular climbing portal in the Czech Republic. For <a href="https://www.ntsup.eu/" target="_blank" class="link odkaz">ntsup.cz</a>, I refreshed their branding and created offline campaigns seen across the Czechia.
                         </p>
-                        <p>Working independently I've been lucky to collaborate with great companies and individuals. I
-                            worked with one of the biggest czech company Gordic.cz, who delivers the IT system,
-                            on their new web and I also designed a Gordic support portal that fits their new web
-                            ecosystem.
-                            I designed and developed a well-known climbing portal in the Czech republic — emontana.cz
-                            with a reach of
-                            over 10k visitors per month. For ntsup.cz I redesigned the branding and offline campaigns
-                            that were promoted all over the Czechia. In Kiwi.com I contributed with designed solution and helped digitize the customer support and survive during covid crises.
-                            In Outreach.io I designed a first GenAI feature – Smart Email Assist and other GenAi capabilities like Account plan or Prospecting agent which totally disrupt the sales domain.
+
+                        <p>I’ve had the privilege of designing complex SaaS applications for  <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz">SolarWinds</a> /  <a href="https://www.n-able.com/" target="_blank" class="link odkaz">N-able</a>, where I was part of the MSP design team. I worked on multi-tenant <a href="https://www.n-able.com/products/msp-manager" target="_blank" class="link odkaz">Helpdesk systems</a> and <a href="https://www.n-able.com/products/cove-data-protection" target="_blank" class="link odkaz">MSP Backup</a>, collaborating with incredible teams across Poland, Edinburgh, Ottawa, and Austin.
+                         N-able is a global leader in MSP software, and I’m proud to have contributed to their success.   
                         </p>
-                        <p>I’m ex-cofounder of Mentedy – mentoring platform which which we almost succeeded. 
-                            Today, I spend almost all my free time building my second startup – Accounting and payment platform for SMBs powered by GenAI.
-                            mentedy.cz. It is rewarding, terrifying, and exhausting - usually everything at once.</br>
-                            That's my story. Now let's focus on yours, shall we?                        
+                        <p>Later, I joined the Czech travel startup <a href="https://www.kiwi.com" target="_blank" class="link odkaz">Kiwi.com</a>, where I led the design of an internal Helpdesk application. Together, we transformed the chaotic support experience during the 2020 COVID pandemic into a proactive and reliable service.                     
                         </p>
+                        <p>
+                        At <a href="https://www.outreach.io/" target="_blank" class="link odkaz">Outreach.io</a>, I helped shape the future of sales with projects like <a href="https://support.outreach.io/hc/en-us/articles/7989565935643-Sales-Execution-Report-Overview" target="_blank" class="link odkaz">Sales Execution Report</a> and innovative GenAI-powered features like <a href="https://www.outreach.io/resources/blog/smart-email-assist-public-beta" target="_blank" class="link odkaz">Smart Email Assist</a>, <a href="https://www.outreach.io/resources/blog/smart-account-plans" target="_blank" class="link odkaz">Account Plans</a>, and Prospecting Agent—pioneering disruption in the sales domain.
+                        </p>
+
+                        <p>
+                        I’ve also ventured into entrepreneurship as the co-founder of <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank" class="link odkaz">Mentedy</a>, a mentoring platform that almost reached its full potential. Today, I channel that same drive into my second startup, <a href="https://lucanto.eu/" target="_blank" class="link odkaz">Lucanto.eu</a>, an accounting and payment platform for SMBs powered by GenAI. It’s a rewarding, terrifying, and exhausting experience, usually all at once.
+                        </p>
+
+                        <p>That’s my story. Now let’s dive into yours, shall we?</p>
                     </div>
                 </div>
 
@@ -520,39 +499,6 @@
                 <?php include '_partials/testimonials.php'; ?>
             </div>
         </section>
-
-
-        <!-- <section id="about__writings">
-            <div class="about--wrapper">
-                <h1>Writings + <br> other thoughts.</h1>
-                <div id="articles">
-                    <article>
-                        <div class="article__topic">Building the startup · story NO—1</div>
-                        <h3>From zero to hero</h3>
-                        <p>Life is a journey of and sooner or later you as a designer will look for other life challenge.
-                            What can be more challenging then trying to build your own startup? I got this chance and I
-                            will tell you what this is like.</p>
-                        <div class="article__detail">12 Dec 2020 · 10 min read</div>
-                    </article>
-                    <article>
-                        <div class="article__topic">Building the startup · story NO—2</div>
-                        <h3>The mistake that cost $600k</h3>
-                        <p>Do you know that feeling when you want to do something, but you keep repeating to yourself,
-                            that this is not the right time? That you will do it once you are ready? Do it now you lazy
-                            pussy!</p>
-                        <div class="article__detail">12 Dec 2020 · 10 min read</div>
-                    </article>
-                    <article>
-                        <div class="article__topic">Building the startup · story NO—3</div>
-                        <h3>Ouu shit, what now?</h3>
-                        <p>Changing the business directions is hard, costly and risky decision. But as the designer you
-                            have so huge power in your hand so you can get your first customer within a months without
-                            any budget.</p>
-                        <div class="article__detail">12 Dec 2020 · 10 min read</div>
-                    </article>
-                </div>
-            </div>
-        </section> -->
 
         <section id="about__hobbies">
             <div class="about--wrapper">

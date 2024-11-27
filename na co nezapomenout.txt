@@ -33,3 +33,8 @@ https://app.cal.com/event-types
 
 About me
 - dodělat do certification sekce obrázky po kliknutí
+-
+
+sitemaps
+updatovat xml 
+nahrát novou na google sites
