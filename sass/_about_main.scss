@@ -134,6 +134,8 @@ p a[data-fx="12"] {
   padding-top: 4em;
 
   @media (min-width:1440px) {
+    display: flex;
+    justify-content: flex-start;
     padding-left: 100px;
     padding-right: 100px;
   }
@@ -152,7 +154,6 @@ p a[data-fx="12"] {
   display: flex;
   width: 50%;
   justify-content: flex-start;
-
 }
 
 .speech__image {
@@ -232,14 +233,19 @@ p a[data-fx="12"] {
     padding: 0;
   }
 
-  li {
-    line-height: 28px;
-    display: flex;
-    border-radius: 1.25rem;
-    border: 1px solid $text-coal--light;
-    padding: 0 16px;
-    color: $text-shadow;
-  }
+ 
+}
+
+.tag {
+  line-height: 28px;
+  display: flex;
+  border-radius: 1.25rem;
+  border: 1px solid $text-coal--light;
+  padding: 0 16px;
+  color: $text-shadow;
+  font-weight: 400;
+  align-items: center;
+  gap: 4px;
 }
 
 .about_header--row {

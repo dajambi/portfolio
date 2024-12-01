@@ -3105,6 +3105,8 @@ p a[data-fx="12"] {
   padding-top: 4em; }
   @media (min-width: 1440px) {
     .about__intro--wrapper {
+      display: flex;
+      justify-content: flex-start;
       padding-left: 100px;
       padding-right: 100px; } }
   @media (max-width: 1280px) {
@@ -3188,13 +3190,17 @@ p a[data-fx="12"] {
     flex-wrap: wrap;
     gap: 0.5rem;
     padding: 0; }
-  .intro__right li {
-    line-height: 28px;
-    display: flex;
-    border-radius: 1.25rem;
-    border: 1px solid #27272d;
-    padding: 0 16px;
-    color: #CACDCE; }
+
+.tag {
+  line-height: 28px;
+  display: flex;
+  border-radius: 1.25rem;
+  border: 1px solid #27272d;
+  padding: 0 16px;
+  color: #CACDCE;
+  font-weight: 400;
+  align-items: center;
+  gap: 4px; }
 
 .about_header--row {
   display: flex;
@@ -3805,7 +3811,7 @@ p a[data-fx="12"] {
   background-position: 50% 50%; }
 
 .hwork {
-  background-color: #090818; }
+  background: #090818; }
 
 .wblack {
   background-color: #090818 !important; }
@@ -3854,14 +3860,130 @@ p a[data-fx="12"] {
       font-weight: 600; }
   #header_text--work .experiment {
     position: relative; }
+  #header_text--work .experiment::after {
+    content: " ";
+    position: absolute;
+    bottom: -2.5em;
+    right: 0;
+    background: url("../img/rectangle.svg") no-repeat;
+    width: 225px;
+    height: 170px;
+    z-index: -1; }
   @supports (-webkit-text-stroke: 1px white) {
     #header_text--work .experiment {
-      -webkit-text-stroke: 2px #fff;
+      -webkit-text-stroke: 1px #fff;
       -webkit-text-fill-color: transparent;
       color: transparent; } }
 
-.wblack {
-  background-color: #0D0D19; }
+#projectsall {
+  display: flex;
+  flex-direction: column;
+  background-color: #090818;
+  border: 1px solid red;
+  align-items: center; }
+
+.projects--wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: space-around;
+  width: 1280px;
+  gap: 1.5rem;
+  padding-bottom: 2rem;
+  z-index: 1;
+  padding-top: 4em; }
+  @media (min-width: 1440px) {
+    .projects--wrapper {
+      display: flex;
+      justify-content: flex-start;
+      padding-left: 20px;
+      padding-right: 20px; } }
+  @media (max-width: 1280px) {
+    .projects--wrapper {
+      width: 100%; } }
+
+.work_company {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 3em 0;
+  border-bottom: 1px solid #3A3946; }
+  .work_company .last {
+    border-bottom: none; }
+
+.work_row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 2em;
+  padding-bottom: 1em; }
+  .work_row span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px; }
+  .work_row h3 {
+    font-size: 16px;
+    margin: 0; }
+  .work_row ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1.4em;
+    list-style: none; }
+  .work_row li, .work_row li a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.625rem;
+    color: #CACDCE;
+    font-weight: 400;
+    position: relative;
+    line-height: 24px; }
+  .work_row li::before {
+    content: " ";
+    position: absolute;
+    left: -24px;
+    top: 12px;
+    width: 10px;
+    height: 1px;
+    background: url(../img/line.svg) no-repeat; }
+  .work_row a:hover {
+    text-decoration: underline; }
+
+.proProduct {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 300;
+  padding-bottom: 4px;
+  padding-top: 4em;
+  color: #888585; }
+
+.ProductName {
+  font-weight: 500;
+  font-size: 16px;
+  padding-bottom: .6em; }
+
+.fixspace {
+  padding-right: 16px; }
+
+.tag-s {
+  line-height: 24px;
+  display: flex;
+  border-radius: 1.25rem;
+  border: 1px solid #27272d;
+  padding: 0 6px;
+  color: #CACDCE;
+  font-weight: 400;
+  align-items: center;
+  gap: 4px;
+  font-size: 12px; }
+
+.row_left {
+  width: 40%;
+  padding-left: 10%; }
+
+.row_right {
+  width: 40%;
+  padding-left: 15%; }
 
 #lines {
   grid-column: 6/6;
@@ -3881,10 +4003,10 @@ p a[data-fx="12"] {
     font-size: 20px; }
     @media screen and (min-width: 320px) {
       #lines {
-        font-size: calc(20px + 12 * ((100vw - 320px) / 1080)); } }
+        font-size: calc(20px + 8 * ((100vw - 320px) / 1080)); } }
     @media screen and (min-width: 1400px) {
       #lines {
-        font-size: 32px; } }
+        font-size: 28px; } }
   #lines span {
     opacity: .3; }
 

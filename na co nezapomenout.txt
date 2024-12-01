@@ -32,8 +32,8 @@ https://app.cal.com/event-types
 
 
 About me
-- dodělat do certification sekce obrázky po kliknutí
--
+- dodělat hover stavy u sekce about
+- oddělat bravu linku u toho co není link
 
 sitemaps
 updatovat xml 

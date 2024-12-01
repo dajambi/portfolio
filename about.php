@@ -134,20 +134,20 @@
                         <p>I enjoy working in a startup mode 0 → 1, where I’m part of a small but ambitious team striving to disrupt a specific domain or deliver a unique solution or when a company needs to switch strategy and overcome a crisis. This is where I bring the most value, leveraging my generalist approach and diverse skillset. I also find joy in tackling complex products powered by GenAI – especially when the team understands the transformative potential of their work and upholds ethical principles and safeguards. Shall we talk?</p>
                         <div class="tags">
                             <h4>My design focus and interests</h4>
-                            <ul class="tags__list">
-                                <li>AI tools</li>
-                                <li>GenAI</li>
-                                <li>Web3</li>
-                                <li>Fintech</li>
-                                <li>Travel</li>
-                                <li>Sales</li>
-                                <li>Education</li>
-                                <li>Performance</li>
-                                <li>Security & observability</li>
-                                <li>Startups</li>
-                                <li>0 → 1</li>
-                                <li>Mentoring</li>
-                                <li>Health</li>
+                            <ul class="tags__list" role="list">
+                                <li class="tag">AI tools</li>
+                                <li class="tag">GenAI</li>
+                                <li class="tag">Web3</li>
+                                <li class="tag">Fintech</li>
+                                <li class="tag">Travel</li>
+                                <li class="tag">Sales</li>
+                                <li class="tag">Education</li>
+                                <li class="tag">Performance</li>
+                                <li class="tag">Security & observability</li>
+                                <li class="tag">Startups</li>
+                                <li class="tag">0 → 1</li>
+                                <li class="tag">Mentoring</li>
+                                <li class="tag">Health</li>
                             </ul>
                         </div>
                     </div>
@@ -289,8 +289,8 @@
                             <h2>Two bold missions</h2>
                         </div>
                         <div class="expec--right">
-                            <p><sup>1</sup> Every business needs good cashflow and every cashflow comes with an invoice. We at <a href="https://lucanto.eu" target="_blank"
-                                    class="link odkaz anim-middleout">Lucanto.eu</a> help create & manage invoices & expenses with → ease.
+                            <p><sup>1</sup> Every business needs good cashflow and every cashflow comes with an invoice. At <a href="https://lucanto.eu" target="_blank"
+                                    class="link odkaz anim-middleout">Lucanto.eu</a> I help create & manage invoices & expenses with → ease.
                             </p>
                             <p><sup>2</sup> Empowering sales professionals with GenAi tools at Outreach.io – So every sales rep can be the best rep with the help of GenAI tools like Account Plan, Prospecting Agent, Smart Email Assist and more.
                             <a href="https://www.outreach.io/" target="_blank" class="link odkaz anim-middleout">Outreach.io</a></p>
@@ -304,38 +304,26 @@
                             <ul class="accordion">
                                 <li>
                                     <a><span><sup>1</sup></span>Design is everything</a>
-                                    <p>Design is everything - and it is true. Design goes beyond nice pixels and aesthetics. It's about how every element of a product or service works together to create a seamless and enjoyable experience for the customer. From service to support, sales to marketing, every touchpoint must be carefully crafted to ensure a cohesive and engaging user journey. In today's highly competitive market, good design is no longer optional. It's what sets apart successful products and services and drives long-term success. </p>
+                                    <p>Design goes far beyond nice pixels and aesthetics. It’s about how every element of a product or service comes together to create a seamless and enjoyable experience for the customer. From service to support, sales to marketing, every touchpoint must be intentionally crafted to deliver a cohesive and engaging user journey. In today’s competitive market, good design isn’t optional. It’s what distinguishes successful products and services and drives lasting success. </p>
                                     
                                     <p>However, good design is not just about the big picture. It's also about the details - the little things that may be unnoticed, but can make a significant difference in the overall experience. Without attention to detail, even the best-designed product or service may fall short of its potential. Therefore, it's crucial to give design and customer experience a central place in your company's structure – if you want to create product your customer will love.</p>
                                 </li>
                                 <li>
                                     <a><span><sup>2</sup></span> There is no substitute of hard work</a>
-                                    <p>Everything I've achieved in sport, school, job or life was thanks to hard work,
-                                        endurance and a positive approach and it didn't happen over the night. I like a
-                                        famous quote from Arnold Schwarzenegger „If you don't find the time, if you
-                                        don't do the work, you don't get the results." — this streams through my veins
-                                        and I believe
-                                        that it is reflected in my work.</p>
+                                    <p>Everything I’ve achieved in sports, school, work, or life was thanks to hard work, endurance, and a positive approach, and it didn’t happen overnight. I like a famous quote from Arnold Schwarzenegger: “If you don’t find the time, if you don’t do the work, you don’t get the results.” — This runs through my veins, and I believe that it is reflected in my work.</p>
                                 </li>
                                 <li>
                                     <a><span><sup>3</sup></span>Never stop evolving</a>
-                                    <p>The feedback is the best thing you can get even though it is hard to accept it
-                                        sometimes. But it is the only way how to move forward. Basically it is a simple
-                                        formula — pain + reflection + open mind = progress. The same way works the
-                                        design process and the same way I use this principle for my personal
-                                        development.</p>
+                                    <p>Feedback is one of the best gifts you can receive, even if it’s sometimes hard to accept. It’s the only way to truly move forward. Progress, at its core, follows a simple formula: pain + reflection + an open mind = growth. This principle not only shapes my design process but also guides my personal development.</p>
                                 </li>
                                 <li>
                                     <a><span><sup>4</sup></span>Honesty and open communication</a>
-                                    <p>I really do respect people and I believe in open communication culture. I did a
-                                        few mistakes in the past when I was quiet and followed the crowd, but I will not
-                                        repeat it. So now when I don't like something I say it, when I see space for
-                                        improvements I say it even if you will be the highest-paid person in the room.
+                                    <p>I deeply respect people and believe in fostering an open communication culture. In the past, I made mistakes by staying quiet and simply following the crowd, but I’ve learned from those experiences. Now, I speak up when I see something I don’t agree with or when I spot opportunities for improvement—no matter who’s in the room, even if it’s the highest-paid person.
                                     </p>
                                 </li>
                                 <li>
                                     <a><span><sup>5</sup></span>It has to be diverse and fun</a>
-                                    <p>I love working in a startup mode. The mode where people are doing their best, where everyone goes far beyond their own responsibilities, and when you can grab the beer and enjoy a nice moment with the team. I am enjoying very diverse projects. The projects where I can collaborate or handle the research, design, validation, motion, or help with the design system and principles. Thanks to my side project I also found a passion in front-end, product/project management, and go-to-market activities.</p>
+                                    <p>I love working in a startup mode—the kind of environment where everyone gives their best, steps beyond their responsibilities, and celebrates wins together over a beer. I enjoy working on diverse projects where I can contribute to research, design, validation, motion, or help refine design systems and principles. Through my side projects, I’ve also discovered a passion for front-end development, product and project management, and go-to-market.</p>
                                 </li>
                                 <ul>
                         </div>
@@ -513,7 +501,7 @@
                         <figcaption>
                             <p>Mont Blanc · Alps</p>
                         </figcaption>
-                        <p>Adventures, adrenaline sports, and traveling are the activities that bring joy to my life and recharge my energy. I feel truly alive when I’m immersed in nature, with sea salt in my hair and sunsets melting into ocean horizons. The best moments of my life haven’t been spent in front of a monitor—they’ve been created when I stepped out of my comfort zone, conquered mountains, and shared breathtaking views with my adventure companions. I’ve realized that people regret the things they didn’t do, not the things they tried. That’s why I embrace saying yes to new challenges.</p>
+                        <p>Adventures, adrenaline sports, and traveling bring me joy and recharge my energy. I feel most alive when immersed in nature—sea salt in my hair and sunsets melting into ocean horizons. The best moments of my life haven’t been spent in front of a monitor; they’ve been shaped by stepping out of my comfort zone, conquering mountains, and sharing breathtaking views with my adventure companions. I’ve learned that people regret the things they didn’t do, not the things they tried. That’s why I wholeheartedly embrace saying yes to new challenges.</p>
                     </article>
                     <article>
                         <figure class="ar--first ar--second">
@@ -524,7 +512,7 @@
                         <figcaption>
                             <p>One of many trips · Paradise</p>
                         </figcaption>
-                        <p>Life without family, supportive friends, and great colleagues would be far too lonely. In the past, I often isolated myself, focusing solely on completing work for clients or rushing to deliver new features. Now, I’ve come to understand what truly matters. I’ve learned to say no to side projects unless they’re truly meaningful, and I prioritize spending time with my family, friends, or pursuing personal growth. These moments hold far greater value.</p>
+                        <p>Life without family, supportive friends, and great colleagues would be far too lonely. In the past, I often isolated myself, focusing solely on completing work for clients or rushing to deliver new features. Over time, I’ve come to understand what truly matters. I’ve learned to say no to side projects unless they’re genuinely meaningful, and I now prioritize spending time with my family, connecting with friends, or investing in personal growth. These moments hold far greater value.</p>
                     </article>
                 </div>
             </div>

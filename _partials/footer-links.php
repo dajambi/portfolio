@@ -7,17 +7,77 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" integrity="sha512-HGOnQO9+SP1V92SrtZfjqxxtLmVzqZpjFFekvzZVWoiASSQgSr4cw9Kqd2+l8Llp4Gm0G8GIFJ4ddwZilcdb8A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>	<script src="./js/main.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 	<script type="application/ld+json">
+	{
+	"@context": "https://schema.org",
+	"@type": "Person",
+	"name": "David Jambor - Staff Product Designer",
+	"description": "Product designer specializing in GenAI, Web3, and SaaS applications.",
+	"knowsAbout": ["UX Design", "GenAI", "Web3", "SaaS", "Performance Optimization", "Mentoring"],
+	"email": "mailto:hey@davidjambor.cz",
+	"jobTitle": "Staff Product Designer",
+	"url": "https://www.davidjambor.cz",
+	"image": "https://www.davidjambor.cz/assets/david-jambor-social.png",
+	"worksFor": [
 		{
-		"@context": "http://schema.org",
-		"name" : "David Jambor - Senior Product Designer",
-		"email": "hey@davidjambor.cz",
-		"@type" : "Person",
-		"jobTitle": "Senior Product Designer",
-		"url": "http://www.davidjambor.cz",
-		"image": "https://www.davidjambor.cz/assets/david-jambor-social.png",
-		"sameAs":[
+		"@type": "Organization",
+		"name": "Outreach.io",
+		"url": "https://outreach.io"
+		},
+		{
+		"@type": "Organization",
+		"name": "Kiwi.com",
+		"url": "https://www.kiwi.com"
+		},
+		{
+		"@type": "Organization",
+		"name": "N-able",
+		"url": "https://www.n-able.com/"
+		}
+	],
+	"hasOccupation": {
+		"@type": "Occupation",
+		"name": "Product Designer",
+		"skills": ["UI Design", "Interaction Design", "Design Systems", "Prototyping", "User Research", "Motion", "Design Ops", "Visions", "Workshops",]
+	},
+	"mainEntityOfPage": {
+		"@type": "CreativeWork",
+		"name": "David Jambor Portfolio",
+		"url": "https://www.davidjambor.cz"
+	},
+	"sameAs": [
 		"https://dribbble.com/jambi",
 		"https://www.linkedin.com/in/david-jambor/",
-		"https://www.behance.net/jambi"]}
+		"https://www.behance.net/jambi"
+	],
+	"review": [
+		{
+		"@type": "Review",
+		"author": {
+			"@type": "Person",
+			"name": "Jan Hornych, Co-founder of Smartest"
+		},
+		"reviewBody": "David created the design for our website that completely suits our needs and all the requirements. In addition, the design was done in a very short time and during the process, he actively led the communication with us.",
+		"reviewRating": {
+			"@type": "Rating",
+			"ratingValue": "5",
+			"bestRating": "5"
+		}
+		},
+		{
+		"@type": "Review",
+		"author": {
+			"@type": "Person",
+			"name": "Lynne Robertson, Senior UX Designer"
+		},
+		"reviewBody": "He has an excellent eye for design and is quick to solve any challenge. He consistently produces high-quality UX designs and is good at communicating his design decisions to all stakeholders. It was a pleasure to work with him.",
+		"reviewRating": {
+			"@type": "Rating",
+			"ratingValue": "5",
+			"bestRating": "5"
+		}
+		}
+	]
+	}
 	</script>
 	<script>console.log("%c \uD83E\uDD19 I’ve coded this shit on my own", "font-size: 12px;font-family: monospace;background: black;display: inline-block;color: white;padding: 15px;border: 2px solid white;")</script>>
+
