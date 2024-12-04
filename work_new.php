@@ -124,6 +124,8 @@
          <div class="projects--wrapper">
             <h1>Delivered <span class="highlight_blue">projects</span></h1>
 
+            
+
             <div class="work_company">
                 <div class="work_row">
                     <h3>Outreach.io</h3>
@@ -144,7 +146,25 @@
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Account Assist
+                                <a class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Data enrichment
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Sales signals
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://support.outreach.io/hc/en-us/articles/25694433467931-Smart-Account-Assist-Overview" target="_blank" class="link odkaz"  data-img="img/work/projects/accountassist.gif" data-fx="12">Account Assist
+                                     <div class="tag-s">
+                                        <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
+                                        GenAI</div>
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a class="link odkaz"  data-img="img/work/projects/timeline.png" data-fx="12">Sales activities redesign
                                      <div class="tag-s">
                                         <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
                                         GenAI</div>
@@ -152,7 +172,7 @@
                             </li>
                            
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Account plan 
+                                <a href="https://www.outreach.io/resources/blog/smart-account-plans" target="_blank" class="link odkaz"  data-img="img/work/projects/accountplan.png" data-fx="12">Account plan 
                                      <div class="tag-s">
                                         <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
                                         GenAI</div>
@@ -160,15 +180,7 @@
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Overhaul of activities
-                                     <div class="tag-s">
-                                        <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
-                                        GenAI</div>
-                                </a>
-                            </li>
-
-                            <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Smart Email Assist
+                                <a href="https://medium.com/outreach-prague/how-did-we-join-the-genai-race-with-smart-email-assist-09d9571dc624" target="_blank" class="link odkaz"  data-img="img/work/projects/sea.gif" data-fx="12">Smart Email Assist
                                      <div class="tag-s">
                                         <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
                                         GenAI
@@ -184,13 +196,20 @@
 
                     <div class="row_right">
                     <ul role="list">
+
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Public calendar
+                                <a href="" class="link odkaz"  data-img="img/work/projects/content.png" data-fx="12">Content experience improvements
+                                </a>
+                            </li>
+
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/work/projects/public-calendar.png" data-fx="12">Outreach Public calendar
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Reports overhaul
+                                <a class="link odkaz"  data-img="img/work/projects/reports.png" data-fx="12">Reports overhaul
                                 </a>
                             </li>
                            
@@ -200,12 +219,12 @@
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Outreach calendar – No show 
+                                <a class="link odkaz"   data-fx="12">Outreach calendar – No show 
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Outreach calendar tweaks
+                                <a class="link odkaz" data-img="img/work/projects/calendar.png" data-fx="12">Outreach calendar tweaks
                                 </a>
                             </li>
                         </ul>
@@ -260,7 +279,7 @@
 
             <div class="work_company">
                 <div class="work_row">
-                    <h3>Solarwinds</h3>
+                    <h3>Solarwinds / N-able</h3>
                     <span>2016 – 2019 </span>
                     <span>SaaS ・ B2B ・ IT Services & Security</span>
                 </div>
@@ -381,6 +400,58 @@
                 </div>
             </div>
 
+            <div id="lastcompany" class="work_company">
+                <div class="work_row">
+                    <h3>My startups & work for clients</h3>
+                    <span>B2B ・ B2C ・ B2G </span>
+                    <span>Education, Fintech, Automation, Mentoring</span>
+                </div>
+
+                <div class="work_row">
+                    <div class="row_left">
+                        <ul role="list">
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Lucanto
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Mentedy
+                                     <div class="tag-s">Startup story</div>
+                                </a>
+                            </li>
+                           
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Smart test automation
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Gordic website redesign
+                                     <div class="tag-s">Case study</div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="row_right">
+                        <ul role="list">
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Backups reports
+                                     <div class="tag-s">Case study</div>
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Disaster recovery setup
+                                </a>
+                            </li>
+                        </ul>
+
+                    </div>
+
+                </div>
+            </div>
         </div>
     </section>
 

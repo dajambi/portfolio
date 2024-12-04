@@ -3908,8 +3908,9 @@ p a[data-fx="12"] {
   width: 100%;
   padding: 3em 0;
   border-bottom: 1px solid #3A3946; }
-  .work_company .last {
-    border-bottom: none; }
+
+#lastcompany {
+  border-bottom: none; }
 
 .work_row {
   display: flex;
