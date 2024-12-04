@@ -2,11 +2,11 @@
 
 
 .hwork {
-  background: #090818;
+  background: $color-bg;
 }
 
 .wblack {
-  background-color: #090818 !important;
+  background-color: $color-bg;
 }
 
 .wt-image {
@@ -82,13 +82,8 @@
 #projectsall {
   display: flex;
   flex-direction: column;
-  background-color: #090818;
-  border: 1px solid red;
+  background-color: $color-bg;
   align-items: center;
-
-  // * {
-  //   border: 1px solid red;
-  // }
 }
 
 .projects--wrapper {
@@ -115,6 +110,13 @@
 }
 
 
+.homeprojectfix {
+  padding-top: 0;
+  padding-bottom: 10em;
+}
+
+
+
 .work_company {
   display: flex;
   flex-direction: column;
@@ -125,6 +127,7 @@
 
 #lastcompany{
   border-bottom: none;
+  padding-bottom: 10em;
 }
 
 .work_row {
@@ -150,6 +153,7 @@
     flex-direction: column;
     gap: 1.4em;
     list-style: none;
+    color: $text-shadow;
   }
 
   li, li a {
@@ -179,6 +183,36 @@
     text-decoration: underline;
   }
 
+}
+
+#beta-features {
+  list-style: none;
+    display: flex;
+    overflow: hidden;
+    gap: 2em;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 8em;
+
+
+  li {
+    display: flex;
+    border: 1px solid #3A3946;
+    border-radius: 1rem;
+    width: 600px;
+    height: 340px;
+  }
+}
+
+.projects-beta {
+
+
+  p {
+    font-weight: 400;
+    font-size: $textsize--standard;
+    color: $text-shadow;
+  }
 }
 
 .proProduct {
@@ -217,7 +251,7 @@
   padding-left: 10%;
 }
 .row_right {
-  width: 40%;
+  width: 50%;
   padding-left: 15%;
 }
 

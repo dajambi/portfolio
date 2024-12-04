@@ -117,6 +117,26 @@
 
     <main id="home">
         <div id="black">
+
+                <section id="projectsall">
+                <div class="projects--wrapper homeprojectfix">
+                    <div class="projects-beta">
+                        <h1>On the <span class="highlight_blue">horizon</span></h1>
+                        <p>A sneak peek at projects I’m currently working on or that are in Beta.</p>
+                    </div>
+                    
+
+                    <ul id="beta-features">
+                        <li>  
+                            <script src="https://fast.wistia.com/embed/medias/egb09sog8u.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_embed wistia_async_egb09sog8u seo=true videoFoam=false" style="height:auto;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/egb09sog8u/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div>
+                        </li>
+                        <li>
+                            <script src="https://fast.wistia.com/embed/medias/ihnz3217g9.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_embed wistia_async_ihnz3217g9 seo=true videoFoam=false" style="height:auto;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/ihnz3217g9/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div> 
+                        </li>
+                    </ul>
+                </div>
+            </section>
+
             <section id="container__work--black">
                 <div id="project-text">
                     <h1>Chosen <span class="highlight_blue">projects</span></h1>
@@ -292,7 +312,7 @@
                             </figure>
                             <figcaption class="work__info">
                                 <img src="./img/references/gordic_new.svg" width="80" alt="Gordic">
-                                <h3>Learning & Support portal</h3>
+                                <h3>Learning & self–service portal</h3>
                                 <p>I designed portal where GORDIC company shares personalized news, events, important
                                     legal updates and best industry practices in order to help their customers to do the
                                     right things right.</p>

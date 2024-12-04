@@ -115,15 +115,31 @@
     </header>
 
     <section id="projectsall">
-         <div class="about__intro--wrapper">
-            <h1>On the <span class="highlight_blue">horizon</span></h1>
+         <div class="projects--wrapper">
+            <div class="projects-beta">
+                <h1>On the <span class="highlight_blue">horizon</span></h1>
+                <p>A sneak peek at projects I’m currently working on or that are in Beta.</p>
+            </div>
+            
+
+            <ul id="beta-features">
+                <li>  
+                    <script src="https://fast.wistia.com/embed/medias/egb09sog8u.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_embed wistia_async_egb09sog8u seo=true videoFoam=false" style="height:auto;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/egb09sog8u/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div>
+                </li>
+                <li>
+                    <script src="https://fast.wistia.com/embed/medias/ihnz3217g9.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_embed wistia_async_ihnz3217g9 seo=true videoFoam=false" style="height:auto;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/ihnz3217g9/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div> 
+                </li>
+            </ul>   
         </div>
     </section>
 
     <section id="projectsall">
          <div class="projects--wrapper">
-            <h1>Delivered <span class="highlight_blue">projects</span></h1>
 
+            <div class="projects-beta">
+                <h1>Notable <span class="highlight_blue">projects</span></h1>
+                <p>See a mixtape of projects, features, and improvements I’m proud to have delivered or explore <a href="#project-text" class="link odkaz">case studies</a> below to learn more.</p>
+            </div>
             
 
             <div class="work_company">
@@ -137,7 +153,7 @@
 
                     <div class="row_left">
                         <ul role="list">
-                            <li> 
+                            <!--comming <li> 
                                 <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">AI prospecting agent 
                                      <div class="tag-s">
                                         <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
@@ -153,7 +169,7 @@
                             <li> 
                                 <a class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Sales signals
                                 </a>
-                            </li>
+                            </li> -->
 
                             <li> 
                                 <a href="https://support.outreach.io/hc/en-us/articles/25694433467931-Smart-Account-Assist-Overview" target="_blank" class="link odkaz"  data-img="img/work/projects/accountassist.gif" data-fx="12">Account Assist
@@ -214,12 +230,7 @@
                             </li>
                            
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Sales Execution report 
-                                </a>
-                            </li>
-
-                            <li> 
-                                <a class="link odkaz"   data-fx="12">Outreach calendar – No show 
+                                <a href="https://support.outreach.io/hc/en-us/articles/7989565935643-Sales-Execution-Report-Overview" target="_blank" class="link odkaz"  data-img="img/work/projects/sales_funnel.png" data-fx="12">Sales Execution report 
                                 </a>
                             </li>
 
@@ -251,7 +262,7 @@
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Internal messaging platform
+                                <a href="https://www.davidjambor.cz/helpdesk" target="_blank" class="link odkaz"  data-img="img/work/kiwi_helpdesk@2x.png" data-fx="12">Internal messaging platform
                                      <div class="tag-s">Case study</div>
                                 </a>
                             </li>
@@ -420,7 +431,11 @@
                                      <div class="tag-s">Startup story</div>
                                 </a>
                             </li>
-                           
+                        </ul>
+                    </div>
+
+                    <div class="row_right">
+                        <ul role="list">
                             <li> 
                                 <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Smart test automation
                                 </a>
@@ -430,22 +445,13 @@
                                 <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Gordic website redesign
                                      <div class="tag-s">Case study</div>
                                 </a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="row_right">
-                        <ul role="list">
+                            </li> 
+                            
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Backups reports
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Gordic learning & self-service portal
                                      <div class="tag-s">Case study</div>
                                 </a>
-                            </li>
-
-                            <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Disaster recovery setup
-                                </a>
-                            </li>
+                            </li>   
                         </ul>
 
                     </div>
