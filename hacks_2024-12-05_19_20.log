@@ -1,0 +1,1 @@
+./www/adminer.php:145:lzw_decompress($Pa){$Ob=256;$Qa=8;$gb=array();$Wf=0;$Xf=0;for($r=0;$r<strlen($Pa);$r++){$Wf=($Wf<<8)+ord($Pa[$r]);$Xf+=8;if($Xf>=$Qa){$Xf-=$Qa;$gb[]=$Wf>>$Xf;$Wf&=(1<<$Xf)-1;$Ob++;if($Ob>>$Qa)$Qa++;}}$Nb=range("\0","\xFF");$J="";foreach($gb

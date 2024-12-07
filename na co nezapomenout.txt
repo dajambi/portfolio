@@ -34,7 +34,13 @@ https://app.cal.com/event-types
 About me
 - dodělat hover stavy u sekce about
 - oddělat bravu linku u toho co není link
+- Horizont udělat effekt za titlem /i na homepage
 
 sitemaps
 updatovat xml 
 nahrát novou na google sites
+
+
+work
+- musím nastylovat poslední case study - je zakomentovaná
+- všechny imgs které jsou v projects musí projít přes tinify

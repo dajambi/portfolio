@@ -152,10 +152,10 @@ a {
 	&::after {
 		content: '';
 		position: absolute;
-		left: -7px;
+		left: -4px;
 		bottom: 3%;
 		z-index: -1;
-		background: linear-gradient(270deg, $blue_gradient--start 0%, $blue_gradient--end 100%);
+		background: linear-gradient(90deg, $purple_gradient--start 0%, $purple_gradient--end 100%);
 		width: 103%;
 		height: 25px;
 	}
@@ -171,7 +171,7 @@ a {
 		left: -7px;
 		bottom: 3%;
 		z-index: -1;
-		background: linear-gradient(270deg, $blue_gradient--start 0%, $blue_gradient--end 100%);
+		background: linear-gradient(270deg, $purple_gradient--start 0%, $purple_gradient--end 100%);
 		width: 103%;
 		height: 25px;
 		opacity: 0.2;

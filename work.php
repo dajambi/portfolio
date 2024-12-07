@@ -10,7 +10,7 @@
     <?php include '_partials/meta-links.php'; ?>
 
     <meta name="description" content="About me -I’m senior product designer with a passion for functional design and with one rule in mind - Design is everything.">
-    <title>My work - UX projects and design for digital products</title>
+    <title>My work - My projects, products and digital experiments</title>
 </head>
 
 <?php include '_partials/tag-manager.php'; ?>
@@ -113,6 +113,332 @@
             </div>
         </div>
     </header>
+
+    <?php include '_partials/beta-features.php'; ?>  
+
+    <section class="projectsall">
+         <div class="projects--wrapper">
+
+            <div class="projects-beta">
+                <h1>Notable <span class="highlight_blue">projects</span></h1>
+                <p>See a mixtape of projects, features, and improvements I’m proud to have delivered or explore <a href="#project-text" class="link odkaz">case studies</a> below to learn more.</p>
+            </div>
+            
+
+            <div class="work_company">
+                <div class="work_row">
+                    <h3>Outreach.io</h3>
+                    <span>2021 – Current </span>
+                    <span>SaaS ・ B2B ・ Sales</span>
+                </div>
+
+                <div class="work_row">
+
+                    <div class="row_left">
+                        <ul role="list">
+                            <!--comming <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">AI prospecting agent 
+                                     <div class="tag-s">
+                                        <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
+                                        GenAI</div>
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Data enrichment
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Sales signals
+                                </a>
+                            </li> -->
+
+                            <li> 
+                                <a href="https://support.outreach.io/hc/en-us/articles/25694433467931-Smart-Account-Assist-Overview" target="_blank" class="link odkaz"  data-img="img/work/projects/accountassist.gif" data-fx="12">Account Assist
+                                     <div class="tag-s">
+                                        <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
+                                        GenAI</div>
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a class="link odkaz"  data-img="img/work/projects/timeline.png" data-fx="12">Sales activities redesign
+                                     <div class="tag-s">
+                                        <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
+                                        GenAI</div>
+                                </a>
+                            </li>
+                           
+                            <li> 
+                                <a href="https://www.outreach.io/resources/blog/smart-account-plans" target="_blank" class="link odkaz"  data-img="img/work/projects/accountplan.png" data-fx="12">Account plan 
+                                     <div class="tag-s">
+                                        <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
+                                        GenAI</div>
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://medium.com/outreach-prague/how-did-we-join-the-genai-race-with-smart-email-assist-09d9571dc624" target="_blank" class="link odkaz"  data-img="img/work/projects/sea.gif" data-fx="12">Smart Email Assist
+                                     <div class="tag-s">
+                                        <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
+                                        GenAI
+                                    </div>
+                                    <div class="tag-s">
+                                        Case study
+                                    </div>
+                                </a>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                    <div class="row_right">
+                    <ul role="list">
+
+                            <li> 
+                                <a href="" class="link odkaz"  data-img="img/work/projects/content.png" data-fx="12">Content experience improvements
+                                </a>
+                            </li>
+
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/work/projects/public-calendar.png" data-fx="12">Outreach Public calendar
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a class="link odkaz"  data-img="img/work/projects/reports.png" data-fx="12">Reports overhaul
+                                </a>
+                            </li>
+                           
+                            <li> 
+                                <a href="https://support.outreach.io/hc/en-us/articles/7989565935643-Sales-Execution-Report-Overview" target="_blank" class="link odkaz"  data-img="img/work/projects/sales_funnel.png" data-fx="12">Sales Execution report 
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a class="link odkaz" data-img="img/work/projects/calendar.png" data-fx="12">Outreach calendar tweaks
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="work_company">
+                <div class="work_row">
+                    <h3>Kiwi.com <span class="fixspace"></span></h3>
+                    <span>2020 – 2021 </span>
+                    <span>SaaS ・ B2C・ Travel</span>
+                </div>
+
+                <div class="work_row">
+                    <div class="row_left">
+                        <div class="proProduct">product</div>
+                        <div class="ProductName">Helpdesk</div>
+                        <ul role="list">
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Context based tasks
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.davidjambor.cz/helpdesk" target="_blank" class="link odkaz"  data-img="img/work/kiwi_helpdesk@2x.png" data-fx="12">Internal messaging platform
+                                     <div class="tag-s">Case study</div>
+                                </a>
+                            </li>
+                          
+                            <li>Knowledge base system</li>
+                        </ul>
+                    </div>
+
+                    <div class="row_right">
+                        <div class="proProduct">product</div>
+                        <div class="ProductName">Internal apps</div>
+                        <ul role="list">
+                            <li>Refunds management</li>
+
+                            <li>System for pricing A/B tests</li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="work_company">
+                <div class="work_row">
+                    <h3>Solarwinds / N-able</h3>
+                    <span>2016 – 2019 </span>
+                    <span>SaaS ・ B2B ・ IT Services & Security</span>
+                </div>
+
+                <div class="work_row">
+                    <div class="row_left">
+                        <div class="proProduct">product</div>
+                        <div class="ProductName">MSP Manager</div>
+                        <ul role="list">
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Visual redesign with new navigation
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Customer selector
+                                     <div class="tag-s">Case study</div>
+                                </a>
+                            </li>
+                           
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Customisable workspaces / dashboards
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">KB article management
+                                     <div class="tag-s">Case study</div>
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Task management
+                                     <div class="tag-s">Case study</div>
+                                </a>
+                            </li>
+
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Notification editor & templates
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Real time ticket monitoring
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Custom fields & statuses
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Time tracking
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Queues management
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Asset management & remote control
+                                </a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+
+                    <div class="row_right">
+                        <div class="proProduct">product</div>
+                        <div class="ProductName">Cove data protection</div>
+                        <ul role="list">
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Backups reports
+                                     <div class="tag-s">Case study</div>
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Disaster recovery setup
+                                </a>
+                            </li>
+                        </ul>
+
+                        <div class="proProduct">product</div>
+                        <div class="ProductName">Endpoint security</div>
+                        <ul role="list">
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Security Assessment
+                                </a>
+                            </li>
+                        </ul>
+
+                        <div class="proProduct">product</div>
+                        <div class="ProductName">Design system</div>
+                        <ul role="list">
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Data tables
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Email templates 
+                                <div class="tag-s">Also coded</div>
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Color picker
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+
+            <div id="lastcompany" class="work_company">
+                <div class="work_row">
+                    <h3>My startups & work for clients</h3>
+                    <span>B2B ・ B2C ・ B2G </span>
+                    <span>Education, Fintech, Automation, Mentoring</span>
+                </div>
+
+                <div class="work_row">
+                    <div class="row_left">
+                        <ul role="list">
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Lucanto
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Mentedy
+                                     <div class="tag-s">Startup story</div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="row_right">
+                        <ul role="list">
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Smart test automation
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Gordic website redesign
+                                     <div class="tag-s">Case study</div>
+                                </a>
+                            </li> 
+                            
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Gordic learning & self-service portal
+                                     <div class="tag-s">Case study</div>
+                                </a>
+                            </li>   
+                        </ul>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
 
     <main id="home">
         <div id="black workcont" class="wblack">
@@ -331,7 +657,7 @@
                     </div>
                 </div>
 
-                <!-- <div class="work__effect work__job7">
+                 <div class="work__effect work__job8">
                     <div class="work">
                         <a href="/gordic-redesign">
                             <figure class="work__image">
@@ -359,30 +685,11 @@
                             </figcaption>
                         </a>
                     </div>
-                </div> -->
+                </div>
 
             </section>
         </div>  
     </main>
-
-    <!-- <section id="about__principles" class="wsideprojects">
-        <div class="wsideprojects__graphic">
-            <div class="about--wrapper">
-                <h1>Humble <br><span class="highlight_blue"> design evolution</span></h1>
-                <div class="expectations">
-                    <div class="expec--left">
-                        <h2>Mixtape of side projects</h2>
-                    </div>
-                    <div class="expec--right">
-                         <p>Creativity is hard if you do the same kind of job again and again. That’s why I find beneficial working on the side projects from different problem space. Inspiration hits you when you are working, not when you are stuck. Andy that is why it is worth to invest some time to side projects.</p>
-                        <h3>“Inspiration exists, but it has to find us working.”</h3>
-                        <p class="wsign">— Pablo Picasso</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
 
     <section id="designsources">
         <div class="about--wrapper">
@@ -420,71 +727,9 @@
 
     </section>
 
-    <section id="about__principles">
-        <div class="wsideprojects__graphic">
-            <div class="about--wrapper">
-                <h1>Work experiences<br><span class="highlight_blue"> in nutshell</span></h1>
-                <div class="w__curriculum">  
-                     <ul>
-                         <li>
-                             <div>Now</div>
-                             <div>Outreach.io</div>
-                             <div>Product designer, Senior & Staff product designer</div>
-                             <div class="w_location">Czechia · Prague · Hybrid</div>
-                         </li>
-                         <li>
-                             <div>2020 – 2021</div>
-                             <div>Kiwi.com</div>
-                             <div>Product designer & Senior product designer</div>
-                             <div class="w_location">Czechia · Brno · Hybrid</div>
-                         </li>
-                         <li>
-                             <div>2016 – 2019</div>
-                             <div>Solarwinds.com</div>
-                             <div>Associate UX designer & UX designer</div>
-                             <div class="w_location">Czechia · Brno · Remote</div>
-                         </li>
-                         <li>
-                             <div>2012 – 2019</div>
-                             <div>Freelance</div>
-                             <div>Full stack designer & project manager</div>
-                             <div class="w_location">Czechia</div>
-                         </li>
-                     </ul>
-
-                    <h3>Building my startup</h3>
-                    <ul>
-                         <li>
-                             <div>2018 – 2022</div>
-                             <div>Mentedy.cz</div>
-                             <div>Full stack designer & Product evangelist</div>
-                             <div class="w_location">Cloud</div>
-                         </li>
-                     </ul>
-
-                    <h3>Education</h3>
-                    <ul>
-                         <li>
-                             <div>2014 – 2016</div>
-                             <div>Brno University of Technology</div>
-                             <div>Master's degree, Systems engineering, <br><a href="https://dspace.vutbr.cz/handle/11012/59328" target="_blank" class="link">Master's thesis</a></div>
-                             <div class="w_location">Czechia · Brno</div>
-                         </li>
-                         <li>
-                             <div>2011 – 2014</div>
-                             <div>Brno University of Technology</div>
-                             <div>Bachelor's degree, Systems engineering, <br><a href="http://hdl.handle.net/11012/59328" target="_blank" class="link">Bachelor's thesis</a></div>
-                             <div class="w_location">Czechia · Brno</div>
-                         </li>
-                     </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-
 
     <section id="about__prefooter">
-        <div class="about--wrapper">
+        <div class="about__intro--wrapper">
             <h4>What next?</h4>
             <a href="/about">More about me<span> </span></a>
             <a href="/contact">Let’s get in touch<span> </span></a>
