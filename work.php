@@ -137,7 +137,7 @@
                     <div class="row_left">
                         <ul role="list">
                             <li> 
-                                <a href="https://www.outreach.io/resources/blog/explore-24-outreachs-ai-prospecting-agent" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">AI prospecting agent 
+                                <a href="https://www.outreach.io/resources/blog/explore-24-outreachs-ai-prospecting-agent" target="_blank" class="link odkaz">AI prospecting agent 
                                      <div class="tag-s">
                                         <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
                                         GenAI</div>
@@ -145,12 +145,12 @@
                             </li>
 
                             <li> 
-                                <a class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Data enrichment
+                                <a href="https://www.outreach.io/resources/blog/explore-24-outreachs-ai-prospecting-agent" target="_blank" class="link odkaz">Data enrichment
                                 </a>
                             </li>
 
                             <li> 
-                                <a class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Sales signals
+                                <a href="https://www.outreach.io/resources/blog/explore-24-outreachs-ai-prospecting-agent" target="_blank" class="link odkaz">Sales signals
                                 </a>
                             </li>
 
@@ -240,8 +240,7 @@
                         <div class="ProductName">Helpdesk</div>
                         <ul role="list">
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Context based tasks
-                                </a>
+                                Context based tasks
                             </li>
 
                             <li> 
@@ -280,61 +279,66 @@
                         <div class="ProductName">MSP Manager</div>
                         <ul role="list">
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Visual redesign with new navigation
+                                <a href="https://www.youtube.com/watch?v=L1RQajfFPFw&t=125s" target="_blank" class="link odkaz">Visual redesign with new navigation
                                 </a>
                             </li>
 
-                            <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Customer selector
+                            <!-- <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz">Customer selector
                                      <div class="tag-s">Case study</div>
                                 </a>
-                            </li>
+                            </li> -->
                            
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Customisable workspaces / dashboards
+                                <a href="https://www.youtube.com/watch?v=_CmHCYvf3zY" target="_blank" class="link odkaz">Workspaces
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">KB article management
+                                <a href="/knowledge-base" target="_blank" class="link odkaz">KB article management
                                      <div class="tag-s">Case study</div>
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Task management
+                                <a href="/task-management" target="_blank" class="link odkaz">Task management
                                      <div class="tag-s">Case study</div>
                                 </a>
                             </li>
 
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Notification editor & templates
+                                <a href="https://www.youtube.com/watch?v=tPCeHiAfWEE&list=PLYriFemdHw-IN3I3mi6dcTO_ZqpND-cBA&index=15" target="_blank" class="link odkaz">Customer access groups
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Real time ticket monitoring
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz">Real time ticket monitoring
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Custom fields & statuses
+                                <a href="https://documentation.n-able.com/MSPM/userguide/en/Content/MSP-Create-custom-ticket-status.htm?Highlight=custom%20statuses" target="_blank" class="link odkaz">Custom fields & statuses
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Time tracking
+                                <a href="https://youtu.be/xpSlcAG6Bqo?si=Qe5ft70ePX3J7_xy&t=123" target="_blank" class="link odkaz">Time tracking
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Queues management
+                                <a href="https://www.youtube.com/watch?v=Ij2glYJJujQ" target="_blank" class="link odkaz">Ticket queues
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Asset management & remote control
+                                <a href="https://www.youtube.com/watch?v=vTJc9EUe1l8" target="_blank" class="link odkaz">Custom knowledge types
+                                </a>
+                            </li>
+
+                            <li> 
+                                <a href="https://www.youtube.com/watch?v=ALGhFu98k9g&list=PLYriFemdHw-IN3I3mi6dcTO_ZqpND-cBA&index=48" target="_blank" class="link odkaz">Asset management & remote control
                                 </a>
                             </li>
                             
@@ -346,13 +350,13 @@
                         <div class="ProductName">Cove data protection</div>
                         <ul role="list">
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Backups reports
+                                <a href="/backup-reporting" target="_blank" class="link odkaz">Backups reports
                                      <div class="tag-s">Case study</div>
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Disaster recovery setup
+                                <a href="https://youtu.be/Aukf5mJ3crw?si=S2kh7HOcbIZ__hzd&t=246" target="_blank" class="link odkaz">Device setup
                                 </a>
                             </li>
                         </ul>
@@ -361,7 +365,7 @@
                         <div class="ProductName">Endpoint security</div>
                         <ul role="list">
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Security Assessment
+                                <a class="link odkaz">Security Assessment
                                 </a>
                             </li>
                         </ul>
@@ -370,18 +374,18 @@
                         <div class="ProductName">Design system</div>
                         <ul role="list">
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Data tables
+                                <a class="link odkaz">Data tables
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Email templates 
+                                <a class="link odkaz">Email templates 
                                 <div class="tag-s">Also coded</div>
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Color picker
+                                <a class="link odkaz">Color picker
                                 </a>
                             </li>
                         </ul>
@@ -401,18 +405,18 @@
                     <div class="row_left">
                         <ul role="list">
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Lucanto
+                                <a href="https://lucanto.eu/" target="_blank" class="link odkaz" data-img="img/work/lucanto.png" data-fx="12">Lucanto
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Mentedy
+                                <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank" class="link odkaz" data-img="img/work/mentedyhub.png" data-fx="12">Mentedy
                                      <div class="tag-s">Startup story</div>
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Smart test automation
+                                <a class="link odkaz" data-img="img/work/smart-test.png" data-fx="12">Smart test automation
                                 </a>
                             </li>
                         </ul>
@@ -421,13 +425,15 @@
                     <div class="row_right">
                         <ul role="list">
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Gordic website redesign
+                                <a href="/gordic-redesign" target="_blank" class="link odkaz" data-img="img/work/gordic_main@1x.png" data-fx="12">Gordic website redesign
                                      <div class="tag-s">Case study</div>
                                 </a>
                             </li> 
+
+                           
                             
                             <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Gordic learning & self-service portal
+                                <a href="/gordic-support" target="_blank" class="link odkaz" data-img="img/work/gordic_support@1x.png" data-fx="12">Gordic learning & self-service portal
                                      <div class="tag-s">Case study</div>
                                 </a>
                             </li>   

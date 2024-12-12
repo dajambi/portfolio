@@ -1364,7 +1364,7 @@ header {
 .gordic-redesign {
   background-color: #0D0D19;
   background-image: url("../img/header_bg.svg"), url("../img/case-study/gordic1/g-header@1x.png");
-  background-position: 50% 0%, 100% 100%;
+  background-position: 50% 0%, 50% 100%;
   background-repeat: no-repeat, no-repeat;
   height: 880px; }
 
