@@ -9,52 +9,23 @@
 	<script type="application/ld+json">
 	{
 	"@context": "https://schema.org",
-	"@type": "Person",
-	"name": "David Jambor - Staff Product Designer",
-	"description": "Product designer specializing in GenAI, Web3, and SaaS applications.",
-	"knowsAbout": ["UX Design", "GenAI", "Web3", "SaaS", "Performance Optimization", "Mentoring"],
-	"email": "mailto:hey@davidjambor.cz",
-	"jobTitle": "Staff Product Designer",
+	"@type": "Organization",
+	"name": "David Jambor – Staff digital product designer",
+	"description": "Product design services specializing in GenAI, Web3, and SaaS applications.",
 	"url": "https://www.davidjambor.cz",
-	"image": "https://www.davidjambor.cz/assets/david-jambor-social.png",
-	"worksFor": [
-		{
-		"@type": "Organization",
-		"name": "Outreach.io",
-		"url": "https://outreach.io"
-		},
-		{
-		"@type": "Organization",
-		"name": "Kiwi.com",
-		"url": "https://www.kiwi.com"
-		},
-		{
-		"@type": "Organization",
-		"name": "N-able",
-		"url": "https://www.n-able.com/"
-		}
-	],
-	"hasOccupation": {
-		"@type": "Occupation",
-		"name": "Product Designer",
-		"skills": ["UI Design", "Interaction Design", "Design Systems", "Prototyping", "User Research", "Motion", "Design Ops", "Visions", "Workshops",]
-	},
-	"mainEntityOfPage": {
-		"@type": "CreativeWork",
-		"name": "David Jambor Portfolio",
-		"url": "https://www.davidjambor.cz"
-	},
+	"logo": "https://www.davidjambor.cz/assets/david-jambor-social.png",
 	"sameAs": [
 		"https://dribbble.com/jambi",
 		"https://www.linkedin.com/in/david-jambor/",
 		"https://www.behance.net/jambi"
 	],
+	"areaServed": ["Global"],
 	"review": [
 		{
 		"@type": "Review",
 		"author": {
 			"@type": "Person",
-			"name": "Jan Hornych, Co-founder of Smartest"
+			"name": "Jan Hornych"
 		},
 		"reviewBody": "David created the design for our website that completely suits our needs and all the requirements. In addition, the design was done in a very short time and during the process, he actively led the communication with us.",
 		"reviewRating": {
@@ -67,7 +38,7 @@
 		"@type": "Review",
 		"author": {
 			"@type": "Person",
-			"name": "Lynne Robertson, Senior UX Designer"
+			"name": "Lynne Robertson"
 		},
 		"reviewBody": "He has an excellent eye for design and is quick to solve any challenge. He consistently produces high-quality UX designs and is good at communicating his design decisions to all stakeholders. It was a pleasure to work with him.",
 		"reviewRating": {
@@ -76,7 +47,12 @@
 			"bestRating": "5"
 		}
 		}
-	]
+	],
+	"founder": {
+		"@type": "Person",
+		"name": "David Jambor"
+	},
+	"knowsAbout": ["UX Design", "GenAI", "Web3", "SaaS", "Performance Optimization", "Mentoring"]
 	}
 	</script>
 	<script>console.log("%c \uD83E\uDD19 I’ve coded this shit on my own", "font-size: 12px;font-family: monospace;background: black;display: inline-block;color: white;padding: 15px;border: 2px solid white;")</script>>

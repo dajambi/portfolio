@@ -230,7 +230,7 @@
                 <div class="journey">
                     <div class="steps--left">
                         <div class="cont_sticky">
-                            <h1>SSteps that took me to product design.</h1>
+                            <h1>Steps that took me to product design.</h1>
                             <div>2 mins read</div>
                             <div><img srcset="img/steps--big@1x.png 1x, img/steps--big@2x.png 2x" width="459px"
                                     height="435px" alt="Design journey steps"></div>

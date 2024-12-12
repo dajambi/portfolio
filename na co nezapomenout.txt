@@ -44,3 +44,7 @@ nahrát novou na google sites
 work
 - musím nastylovat poslední case study - je zakomentovaná
 - všechny imgs které jsou v projects musí projít přes tinify
+
+
+about
+- add a little space before cerfitication

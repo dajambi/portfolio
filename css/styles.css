@@ -3596,7 +3596,7 @@ p a[data-fx="12"] {
     #about__hobbies article img {
       box-shadow: 0px 64px 64px rgba(134, 135, 160, 0.08), 0px 32px 32px rgba(117, 120, 153, 0.08), 0px 16px 16px rgba(118, 119, 155, 0.07); }
   #about__hobbies article:nth-child(2) {
-    transform: translateY(150px); }
+    transform: translateY(140px); }
   #about__hobbies .ar--first {
     position: relative; }
     #about__hobbies .ar--first::before {
@@ -3903,8 +3903,8 @@ p a[data-fx="12"] {
   max-width: 170px;
   height: auto;
   position: absolute;
-  top: -24px;
-  right: -72px; }
+  top: -16px;
+  right: -100px; }
 
 .projects--wrapper {
   display: flex;

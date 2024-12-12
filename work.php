@@ -121,7 +121,7 @@
 
             <div class="projects-beta">
                 <h1>Notable <span class="highlight_blue">projects</span></h1>
-                <p>See a mixtape of projects, features, and improvements I’m proud to have delivered or explore <a href="#project-text" class="link odkaz">case studies</a> below to learn more.</p>
+                <p>See a mixtape of products, side projects, features, and improvements I’m proud to have delivered. Or explore <a href="#project-text" class="link odkaz">case studies</a> below to learn more.</p>
             </div>
             
 
@@ -136,8 +136,8 @@
 
                     <div class="row_left">
                         <ul role="list">
-                            <!--comming <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">AI prospecting agent 
+                            <li> 
+                                <a href="https://www.outreach.io/resources/blog/explore-24-outreachs-ai-prospecting-agent" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">AI prospecting agent 
                                      <div class="tag-s">
                                         <img srcset="img/genai_small@1x.png 1x, img/genai_small@2x.png 2x" alt="GenAI" width="15px" height="16px" loading="lazy">
                                         GenAI</div>
@@ -152,7 +152,7 @@
                             <li> 
                                 <a class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Sales signals
                                 </a>
-                            </li> -->
+                            </li>
 
                             <li> 
                                 <a href="https://support.outreach.io/hc/en-us/articles/25694433467931-Smart-Account-Assist-Overview" target="_blank" class="link odkaz"  data-img="img/work/projects/accountassist.gif" data-fx="12">Account Assist
@@ -410,16 +410,16 @@
                                      <div class="tag-s">Startup story</div>
                                 </a>
                             </li>
+
+                            <li> 
+                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Smart test automation
+                                </a>
+                            </li>
                         </ul>
                     </div>
 
                     <div class="row_right">
                         <ul role="list">
-                            <li> 
-                                <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Smart test automation
-                                </a>
-                            </li>
-
                             <li> 
                                 <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz"  data-img="img/about/out_money.gif" data-fx="12">Gordic website redesign
                                      <div class="tag-s">Case study</div>
@@ -657,7 +657,7 @@
                     </div>
                 </div>
 
-                 <div class="work__effect work__job8">
+                 <!-- <div class="work__effect work__job8">
                     <div class="work">
                         <a href="/gordic-redesign">
                             <figure class="work__image">
@@ -685,7 +685,7 @@
                             </figcaption>
                         </a>
                     </div>
-                </div>
+                </div> -->
 
             </section>
         </div>  
@@ -729,13 +729,14 @@
 
 
     <section id="about__prefooter">
-        <div class="about__intro--wrapper">
+        <div class="about--wrapper">
             <h4>What next?</h4>
             <a href="/about">More about me<span> </span></a>
             <a href="/contact">Let’s get in touch<span> </span></a>
         </div>
     </section>
 
+  
     <?php include '_partials/footer.php'; ?>
     <?php include '_partials/footer-links.php'; ?>
     <script src="js/TweenMax.min.js"></script>
