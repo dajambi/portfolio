@@ -36,9 +36,7 @@ About me
 - oddělat bravu linku u toho co není link
 - Horizont udělat effekt za titlem /i na homepage
 
-sitemaps
-updatovat xml 
-nahrát novou na google sites
+
 
 
 work

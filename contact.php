@@ -10,8 +10,8 @@
     <?php include('_partials/loading.php') ?>
     <?php include('_partials/meta-links.php') ?>
 
-    <meta name="description" content="Contact me — I’m Senior product designer with a passion for functional design and with one rule in mind - Design is everything.">
-    <title>Contact - Senior product designer</title>
+    <meta name="description" content="Contact me - 🤘I'm Staff digital Product designer with a passion for design & business and with one rule in mind - Design is everything.">
+    <title>Contact me - David Jambor - Staff digital product (UI/UX/IxD) designer 🤘</title>
 
 </head>
 
