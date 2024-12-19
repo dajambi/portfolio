@@ -10,7 +10,7 @@
 	{
 	"@context": "https://schema.org",
 	"@type": "Organization",
-	"name": "David Jambor – Staff digital product designer",
+	"name": "David Jambor Design Studio",
 	"description": "Product design services specializing in GenAI, Web3, and SaaS applications.",
 	"url": "https://www.davidjambor.cz",
 	"logo": "https://www.davidjambor.cz/assets/david-jambor-social.png",
@@ -20,6 +20,11 @@
 		"https://www.behance.net/jambi"
 	],
 	"areaServed": ["Global"],
+	"aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "2"
+	},
 	"review": [
 		{
 		"@type": "Review",
