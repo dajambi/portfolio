@@ -10,7 +10,7 @@
 	{
 	"@context": "https://schema.org",
 	"@type": "Organization",
-	"name": "David Jambor Design Studio",
+	"name": "David Jambor - Staff Product Designer | AI & GenAI Enthusiast | Digital Product Innovator",
 	"description": "Product design services specializing in GenAI, Web3, and SaaS applications.",
 	"url": "https://www.davidjambor.cz",
 	"logo": "https://www.davidjambor.cz/assets/david-jambor-social.png",

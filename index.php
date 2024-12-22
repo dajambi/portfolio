@@ -12,7 +12,7 @@
 
     <meta name="description" content="🤘I’m Staff product designer with a passion for functional design and with one rule in mind - Design is everything.">
 
-    <title>David Jambor - Portfolio - Staff product designer 🤘</title>
+    <title>David Jambor - Staff Product Designer | AI & GenAI Enthusiast | Digital Product Innovator</title>
 
 </head>
 

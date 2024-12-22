@@ -10,7 +10,7 @@
     <?php include '_partials/meta-links.php'; ?>
 
     <meta name="description" content="About me -I’m senior product designer with a passion for functional design and with one rule in mind - Design is everything.">
-    <title>My work - My projects, products and digital experiments</title>
+    <title>David Jambor’s Portfolio | Case Studies in Product Design & GenAI</title>
 </head>
 
 <?php include '_partials/tag-manager.php'; ?>

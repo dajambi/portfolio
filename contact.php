@@ -11,7 +11,7 @@
     <?php include('_partials/meta-links.php') ?>
 
     <meta name="description" content="Contact me - 🤘I'm Staff digital Product designer with a passion for design & business and with one rule in mind - Design is everything.">
-    <title>Contact me - David Jambor - Staff digital product (UI/UX/IxD) designer 🤘</title>
+    <title>Contact David Jambor | Let’s Build Ambitious Products Together</title>
 
 </head>
 
