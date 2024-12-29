@@ -470,7 +470,7 @@ $(document).ready(function () {
     {
       breakpoint: 1024,
       settings: {
-        slidesToShow: 4,
+        slidesToShow: 4.1,
         slidesToScroll: 1
       }
     },
@@ -552,6 +552,49 @@ $(document).ready(function () {
     ]
   });
 
+  
+  $('#beta-features').slick({
+    swipe: true,
+    swipeToSlide: true,
+    lazyLoad: 'progressive',
+    autoplay: false,
+    autoplaySpeed: 5000,
+    infinite: false,
+    mobileFirst: false,
+    prevArrow: '.barrow--left',
+    nextArrow: '.barrow--right',
+    responsive: true,
+    variableWidth: true, 
+    slidesToScroll: 1,
+    slidesToShow: 3.5,  
+    speed: 600,
+    cssEase: 'ease',
+    easing: 'swing',
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
+  
 
 
   //slide navigation
@@ -588,7 +631,6 @@ $(document).ready(function () {
     $('li[data-slide=1]').removeClass('active');
     $('li[data-slide=3]').removeClass('active');
   });
-
 });
 
 

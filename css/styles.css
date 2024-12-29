@@ -3904,7 +3904,7 @@ p a[data-fx="12"] {
   height: auto;
   position: absolute;
   top: -16px;
-  right: -100px; }
+  left: 460px; }
 
 .projects--wrapper {
   display: flex;
@@ -3989,30 +3989,81 @@ p a[data-fx="12"] {
 
 #beta-features {
   list-style: none;
-  display: flex;
-  overflow: hidden;
-  gap: 2em;
-  flex-direction: row;
+  padding: 0;
   margin: 0;
-  padding: 0; }
-  #beta-features li {
-    display: flex;
-    flex-direction: column;
-    width: 600px;
-    min-height: 300px;
-    height: auto;
-    font-weight: 400;
-    font-size: 14px;
-    color: #CACDCE;
-    gap: .6em; }
-  #beta-features video {
+  height: 420px;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  overflow: hidden;
+  cursor: url(../img/cursor-arrow-1.svg) 25 25, auto; }
+
+.beta-item {
+  display: block;
+  width: 600px;
+  height: 420px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #CACDCE;
+  margin-right: .6em; }
+  .beta-item video {
     border: 1px solid #3A3946;
     border-radius: 1rem;
     margin-bottom: 1em;
-    min-height: 368px; }
+    max-width: 600px;
+    height: auto; }
+
+.beta-item-s {
+  display: block;
+  width: 320px;
+  height: 240px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #CACDCE;
+  margin-right: .6em; }
+  .beta-item-s video {
+    border: 1px solid #3A3946;
+    border-radius: 1rem;
+    margin-bottom: 1em;
+    max-width: 320px;
+    height: auto; }
+
+.barrows {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  width: 130px;
+  align-items: center; }
+
+.barrow--left, .barrow--right {
+  cursor: pointer;
+  transition: all 350ms ease-in-out;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  align-items: center;
+  line-height: 60px; }
+  .barrow--left:hover, .barrow--right:hover {
+    transform: translateX(-8px); }
+
+.barrow--right:hover {
+  transform: translateX(8px); }
+
+.barrow--right[aria-disabled="true"],
+.barrow--left[aria-disabled="true"] {
+  opacity: 0 !important;
+  pointer-events: none; }
 
 .projects-beta {
-  position: relative; }
+  position: relative;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%; }
   .projects-beta p {
     font-weight: 400;
     font-size: 16px;
