@@ -62,7 +62,7 @@
                         src="/img/work/projects/ai-assistant.mp4"
                         width="100%">
                     </video>
-                    <div class="video-description">Accounting AI assistant</div>
+                    <div class="video-description">Exploration for AI assistant</div>
                 </li>
 
                 <li class="beta-item">
@@ -79,32 +79,42 @@
                     <div class="video-description">Smart Email Assist &nbsp;·&nbsp; video for users onboarding</div>
                 </li>
 
-                <li class="beta-item">
-                    <video
-                        controls
-                        style="height:auto;position:relative;width:100%;transition:opacity 200ms;"
-                        src="/img/work/projects/sea.mp4"
-                        poster="/img/work/projects/sea-poster.png"
-                        width="100%">
-                        Sorry, your browser doesn't support embedded videos, but don't worry, you can
-                        <a href="https://www.davidjambor.cz/img/work/projects/sea.mp4">download it</a>
-                        and watch it with your favorite video player!
-                    </video>
-                    <div class="video-description">Smart Email Assist &nbsp;·&nbsp; video for users onboarding</div>
+                <li class="beta-item-s">
+                    <img src="/img/work/projects/luc-web.png" alt="Lucanto web" loading="lazy">
+                    <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Landing page</div>
                 </li>
 
                 <li class="beta-item">
                     <video
                         controls
                         style="height:auto;position:relative;width:100%;transition:opacity 200ms;"
-                        src="/img/work/projects/sea.mp4"
-                        poster="/img/work/projects/sea-poster.png"
+                        src="/img/work/projects/luc-onboarding.mp4"
+                        poster="/img/work/projects/luc-onboarding.png"
                         width="100%">
                         Sorry, your browser doesn't support embedded videos, but don't worry, you can
-                        <a href="https://www.davidjambor.cz/img/work/projects/sea.mp4">download it</a>
+                        <a href="https://www.davidjambor.cz/img/work/projects/luc-onboarding.mp4">download it</a>
                         and watch it with your favorite video player!
                     </video>
-                    <div class="video-description">Smart Email Assist &nbsp;·&nbsp; video for users onboarding</div>
+                    <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Onboarding experience</div>
+                </li>
+
+                <li class="beta-item-s">
+                    <img src="/img/work/projects/luc-branding.png" alt="Lucanto branding" loading="lazy">
+                    <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Branding</div>
+                </li>
+
+                <li class="beta-item">
+                    <video
+                        controls
+                        style="height:auto;position:relative;width:100%;transition:opacity 200ms;"
+                        src="/img/work/projects/luc-settings.mp4"
+                        poster="/img/work/projects/luc-settings.png"
+                        width="100%">
+                        Sorry, your browser doesn't support embedded videos, but don't worry, you can
+                        <a href="https://www.davidjambor.cz/img/work/projects/luc-settings.mp4">download it</a>
+                        and watch it with your favorite video player!
+                    </video>
+                    <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Onboarding experience</div>
                 </li>
             </ul> 
             
