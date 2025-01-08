@@ -132,6 +132,27 @@
     }
 }
 
+.projectsFeature--wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content:space-around;
+  width: 1640px;
+  gap: 1.5rem;
+  padding-bottom: 2rem;
+  z-index: 1;
+  padding-top: 6em;
+
+  @media (max-width:1440px) {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+    padding-top: 6rem;
+  }
+}
+
 
 .homeprojectfix {
   padding-top: 0;
@@ -218,9 +239,9 @@
   list-style: none;
   padding: 0;
   margin: 0;
-  height: 420px;
+  height: fit-content;
   display: flex;
-  width: 100%;
+  // width: 100%; width pres celou obrazovku slideshow
   flex-direction: row;
   flex-wrap: nowrap;
   overflow: hidden;
@@ -254,7 +275,7 @@
   color: $text-shadow;
   margin-right: .6em;
 
-  video {
+  video, img {
   border: 1px solid #3A3946;
   border-radius: 1rem;
   margin-bottom: 1em;
@@ -302,9 +323,27 @@
 .projects-beta {
   position: relative;
   display: flex;
+  flex-direction: column;
   align-content: center;
   justify-content: space-between;
-  align-items: center;
+  width: 100%;
+
+  p {
+    font-weight: 400;
+    font-size: $textsize--standard;
+    color: $text-shadow;
+    margin-bottom: 2em;
+    max-width: 660px;
+    line-height: 160%;
+  }
+}
+
+
+.projectsFeature-beta {
+  position: relative;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
   width: 100%;
 
   p {

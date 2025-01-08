@@ -1,6 +1,6 @@
 <section class="projectsall workprojectfix">
-         <div class="projects--wrapper">
-            <div class="projects-beta">
+         <div class="projectsFeature--wrapper">
+            <div class="projectsFeature-beta">
                 <div class="projectsTop--left">
                     <h1>Projects </br> on the <span class="highlight_blue">horizon</span></h1>
                     <div class="aisphere2"><img srcset="img/about/aisphere@1x.png 1x, img/about/aisphere@2x.png 2x" alt="AI Sphere" width="170px" height="180px" loading="lazy"></div>
@@ -80,17 +80,17 @@
                 </li>
 
                 <li class="beta-item-s">
-                    <img src="/img/work/projects/luc-web.png" alt="Lucanto web" loading="lazy">
+                    <img src="/img/work/projects/luc-web.png" alt="Lucanto web" loading="lazy" width="320px" height="240px">
                     <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Landing page</div>
                 </li>
 
                 <li class="beta-item">
                     <video
                         controls
-                        style="height:auto;position:relative;width:100%;transition:opacity 200ms;"
+                        style="height:auto;position:relative;width:550px;transition:opacity 200ms;"
                         src="/img/work/projects/luc-onboarding.mp4"
-                        poster="/img/work/projects/luc-onboarding.png"
-                        width="100%">
+                        poster="/img/work/projects/luc-onboading.png"
+                        width="550px">
                         Sorry, your browser doesn't support embedded videos, but don't worry, you can
                         <a href="https://www.davidjambor.cz/img/work/projects/luc-onboarding.mp4">download it</a>
                         and watch it with your favorite video player!
@@ -99,22 +99,36 @@
                 </li>
 
                 <li class="beta-item-s">
-                    <img src="/img/work/projects/luc-branding.png" alt="Lucanto branding" loading="lazy">
+                    <img src="/img/work/projects/luc-branding.png" alt="Lucanto branding" loading="lazy" width="320px" height="240px">
                     <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Branding</div>
                 </li>
 
                 <li class="beta-item">
                     <video
                         controls
-                        style="height:auto;position:relative;width:100%;transition:opacity 200ms;"
+                        style="height:auto;position:relative;width:550px;transition:opacity 200ms;"
                         src="/img/work/projects/luc-settings.mp4"
                         poster="/img/work/projects/luc-settings.png"
-                        width="100%">
+                        width="550px">
                         Sorry, your browser doesn't support embedded videos, but don't worry, you can
                         <a href="https://www.davidjambor.cz/img/work/projects/luc-settings.mp4">download it</a>
                         and watch it with your favorite video player!
                     </video>
                     <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Onboarding experience</div>
+                </li>
+
+                <li class="beta-item">
+                    <video
+                        controls
+                        style="height:auto;position:relative;width:100%;transition:opacity 200ms;"
+                        src="/img/work/projects/account-plan.mp4"
+                        poster="/img/work/projects/ap-poster.png"
+                        width="100%">
+                        Sorry, your browser doesn't support embedded videos, but don't worry, you can
+                        <a href="https://www.davidjambor.cz/img/work/projects/account-plan.mp4">download it</a>
+                        and watch it with your favorite video player!
+                    </video>
+                    <div class="video-description">Account plan &nbsp;·&nbsp; video for users onboarding</div>
                 </li>
             </ul> 
             

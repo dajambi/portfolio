@@ -221,6 +221,11 @@
                                 <a class="link odkaz" data-img="img/work/projects/calendar.png" data-fx="12">Outreach calendar tweaks
                                 </a>
                             </li>
+
+                            <li> 
+                                <a href="https://marketplace.zoom.us/apps/5KZOo1YLS1usQ39qNq87ZQ" class="link odkaz" data-img="img/work/projects/zoom.png" data-fx="12">Outreach calendar Zoom integration
+                                </a>
+                            </li>
                         </ul>
                     </div>
 

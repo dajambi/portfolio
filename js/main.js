@@ -566,7 +566,7 @@ $(document).ready(function () {
     responsive: true,
     variableWidth: true, 
     slidesToScroll: 1,
-    slidesToShow: 3.5,  
+    slidesToShow: 4.5,  
     speed: 600,
     cssEase: 'ease',
     easing: 'swing',
@@ -574,21 +574,21 @@ $(document).ready(function () {
       {
         breakpoint: 1024,
         settings: {
-          slidesToShow: 3,
+          slidesToShow: 3.5,
           slidesToScroll: 1
         }
       },
       {
         breakpoint: 600,
         settings: {
-          slidesToShow: 2,
+          slidesToShow: 2.5,
           slidesToScroll: 1
         }
       },
       {
         breakpoint: 480,
         settings: {
-          slidesToShow: 1,
+          slidesToShow: 1.5,
           slidesToScroll: 1
         }
       }

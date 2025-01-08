@@ -45,7 +45,7 @@
             <?php include '_partials/navigation.php'; ?>
 
             <div id="header_text--about">
-                <h1><span class="highlight_blue">I can</span> help you build ambitious digital product</h1>
+                <h1><span class="highlight_blue">I can</span> help you design ambitious digital product</h1>
                 <p>Hey, I'm David, Staff product designer with a passion for design & business . My guiding principle is - 
                     <a target="_blank" href="#about__principles" class="link odkaz anim-middleout">Design is everything</a>. Currently designing GenAI features that empower sales professionals for Outreach.io. I'm based in Czechia (CET) timezone. Working with global teams.</p>
                 <div class="ab_stats">
