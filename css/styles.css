@@ -790,6 +790,97 @@ footer {
   header, main, .page, .page a, .feedback {
     cursor: default; } }
 
+#surprise {
+  position: absolute;
+  display: none;
+  min-width: 192px;
+  height: 32px;
+  top: 28px;
+  left: -24px; }
+  #surprise a {
+    color: white; }
+  #surprise a::after {
+    content: " ";
+    display: none; }
+
+.sup-first {
+  min-width: 208px;
+  height: 32px;
+  position: sticky;
+  align-self: center;
+  bottom: 8px;
+  animation: 200ms ease 0s 1 normal forwards running filvs;
+  border-radius: 16px;
+  box-shadow: #313337 0px 0px 0px 1px inset; }
+
+.sup-second {
+  opacity: 1;
+  min-width: 192px;
+  height: 32px;
+  transition: opacity 100ms 100ms;
+  animation: auto ease 0s 1 normal none running none;
+  position: sticky;
+  overflow: hidden;
+  align-self: center;
+  bottom: 0px;
+  position: relative;
+  width: 100%;
+  isolation: isolate; }
+
+.sup-third {
+  position: absolute;
+  inset: 0px;
+  clip-path: inset(0px round calc(18px));
+  border-radius: calc(18px);
+  background: transparent;
+  z-index: -1;
+  border: 0px;
+  container-type: inline-size; }
+
+.sup-anim {
+  width: calc(50cqmin);
+  aspect-ratio: 2 / 1;
+  position: absolute;
+  background: radial-gradient(100% 100% at right center, #266df0, transparent 50%);
+  offset-path: border-box;
+  offset-anchor: 100% 50%;
+  animation: 40s linear 0s infinite normal none running onOffInterval; }
+
+.sup-fourth {
+  background: linear-gradient(#04060b, #1b1d21) padding-box padding-box, transparent;
+  border: calc(1px) solid transparent;
+  border-radius: calc(18px);
+  display: flex;
+  gap: 6px;
+  padding: 6px 10px;
+  justify-content: center;
+  align-items: center;
+  position: static;
+  min-width: 191px;
+  height: 30px;
+  transition: height 100ms 50ms; }
+
+@keyframes filvs {
+  0% {
+    transform: translateY(12px) scale(0.95);
+    opacity: 0; }
+  100% {
+    transform: translateY(0%) scale(1);
+    opacity: 1; } }
+
+@keyframes onOffInterval {
+  0% {
+    offset-distance: 0%;
+    opacity: 1; }
+  50% {
+    offset-distance: 800%;
+    opacity: 1; }
+  50.1% {
+    opacity: 0; }
+  100% {
+    offset-distance: 800%;
+    opacity: 0; } }
+
 .nav__overlay {
   position: fixed;
   display: flex;
@@ -2485,7 +2576,7 @@ main#home {
     list-style: none;
     margin: 0;
     padding-left: 30px;
-    height: 420px;
+    height: 460px;
     display: flex;
     width: 100%;
     flex-direction: row;
@@ -2544,7 +2635,7 @@ main#home {
 
 .ld__process {
   color: #434350;
-  margin-top: 200px;
+  margin-top: 340px;
   background: url("../img/side@1x.png") 100% 0% no-repeat #f8f8f8;
   padding-top: 40px; }
   @media (max-width: 1000px) {
@@ -3939,7 +4030,7 @@ p a[data-fx="12"] {
   padding-bottom: 2rem;
   z-index: 1;
   padding-top: 6em; }
-  @media (max-width: 1440px) {
+  @media (max-width: 1640px) {
     .projectsFeature--wrapper {
       display: flex;
       justify-content: flex-start;

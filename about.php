@@ -38,6 +38,18 @@
             <div class="welcome--sub">
                 <a href="/" class="link">Home</a>
                 <span>About me</span>
+                <div id="surprise">
+                    <a data-img="img/ddg.gif" data-fx="12">
+                        <div class="sup-first">
+                            <div class="sup-second">
+                                <div class="sup-third">
+                                    <div class="sup-anim"></div>
+                                </div>
+                                <div class="sup-fourth">DuckDuckGo rules them all!</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
             </div>
 
 
@@ -144,6 +156,7 @@
                                 <li class="tag">Education</li>
                                 <li class="tag">Performance</li>
                                 <li class="tag">Security & observability</li>
+                                <li class="tag">Privacy</li>
                                 <li class="tag">Startups</li>
                                 <li class="tag">0 → 1</li>
                                 <li class="tag">Mentoring</li>

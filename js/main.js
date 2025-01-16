@@ -794,3 +794,14 @@ $("#about__opinions").css("height", newSize + "px");
       }
       dropDown.stop(false, true).slideToggle();
   });
+
+
+  $(document).ready(function() {
+    function isDuckDuckGoBrowser() {
+        return navigator.userAgent.includes('Ddg/');
+    }
+
+    if (isDuckDuckGoBrowser()) {
+        $('#surprise').show();
+    }
+});
