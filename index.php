@@ -38,18 +38,7 @@
 
             <div class="welcome">Welcome
 
-                 <div id="surprise">
-                    <a data-img="img/ddg.gif" data-fx="12">
-                        <div class="sup-first">
-                            <div class="sup-second">
-                                <div class="sup-third">
-                                    <div class="sup-anim"></div>
-                                </div>
-                                <div class="sup-fourth">DuckDuckGo rules them all!</div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
+                <?php include '_partials/surprise.php'; ?>
 
             </div>
 

@@ -793,10 +793,11 @@ footer {
 #surprise {
   position: absolute;
   display: none;
-  min-width: 192px;
+  min-width: 234px;
   height: 32px;
   top: 28px;
-  left: -24px; }
+  left: -84px;
+  font-size: 1em; }
   #surprise a {
     color: white; }
   #surprise a::after {
@@ -853,7 +854,7 @@ footer {
   display: flex;
   gap: 6px;
   padding: 6px 10px;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
   position: static;
   min-width: 191px;
@@ -1250,7 +1251,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: start;
     flex-wrap: nowrap;
     margin-top: 50px;
     animation: flyin 1800ms ease-out;
