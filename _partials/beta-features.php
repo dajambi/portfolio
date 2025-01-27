@@ -114,7 +114,7 @@
                         <a href="https://www.davidjambor.cz/img/work/projects/luc-settings.mp4">download it</a>
                         and watch it with your favorite video player!
                     </video>
-                    <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Onboarding experience</div>
+                    <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Action bar in settings</div>
                 </li>
 
                 <li class="beta-item">
