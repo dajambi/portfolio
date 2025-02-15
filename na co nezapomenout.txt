@@ -37,8 +37,6 @@ About me
 - Horizont udělat effekt za titlem /i na homepage
 
 
-
-
 work
 - musím nastylovat poslední case study - je zakomentovaná
 - všechny imgs které jsou v projects musí projít přes tinify
@@ -46,3 +44,7 @@ work
 
 about
 - add a little space before cerfitication
+
+
+REFERENCE
+- role a linked in image by měli mít display-flex aby to bylo horzinotálně vycentrované

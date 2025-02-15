@@ -52,7 +52,7 @@
                         <a href="https://www.davidjambor.cz/img/work/projects/account-plan.mp4">download it</a>
                         and watch it with your favorite video player!
                     </video>
-                    <div class="video-description">Account plan &nbsp;·&nbsp; video for users onboarding</div>
+                    <div class="video-description">Outreach.io &nbsp;·&nbsp; Account plan &nbsp;·&nbsp; Video for onboarding</div>
                 </li>
 
                 <li class="beta-item-s">
@@ -76,7 +76,7 @@
                         <a href="https://www.davidjambor.cz/img/work/projects/sea.mp4">download it</a>
                         and watch it with your favorite video player!
                     </video>
-                    <div class="video-description">Smart Email Assist &nbsp;·&nbsp; video for users onboarding</div>
+                    <div class="video-description">Outreach.io &nbsp;·&nbsp; Smart Email Assist &nbsp;·&nbsp; Video for users onboarding</div>
                 </li>
 
                 <li class="beta-item-s">
@@ -86,7 +86,7 @@
 
                 <li class="beta-item">
                     <video
-                        controls
+                        controls autoplay loop muted
                         style="height:auto;position:relative;width:550px;transition:opacity 200ms;"
                         src="/img/work/projects/luc-onboarding.mp4"
                         poster="/img/work/projects/luc-onboading.png"
@@ -105,7 +105,41 @@
 
                 <li class="beta-item">
                     <video
-                        controls
+                        controls autoplay loop muted
+                        style="height:auto;position:relative;width:550px;transition:opacity 200ms;"
+                        src="/img/work/projects/data-suggestion.mp4"
+                        poster="/img/work/projects/data-suggestion.png"
+                        width="550px">
+                        Sorry, your browser doesn't support embedded videos, but don't worry, you can
+                        <a href="https://www.davidjambor.cz/img/work/projects/data-suggestion.mp4">download it</a>
+                        and watch it with your favorite video player!
+                    </video>
+                    <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Action bar in settings</div>
+                </li>
+                
+                <li class="beta-item-s">
+                <img src="/img/work/projects/sales-funnel.webp" alt="Lucanto web" loading="lazy" width="320px" height="240px">
+                <div class="video-description">Outreach.io &nbsp;·&nbsp; Sales funnel report</div>
+                </li>
+               
+                <li class="beta-item">
+                    <video
+                        controls autoplay loop muted
+                        style="height:auto;position:relative;width:550px;transition:opacity 200ms;"
+                        src="/img/work/projects/luc-errors.mp4"
+                        poster="/img/work/projects/luc-errors.png"
+                        width="550px">
+                        Sorry, your browser doesn't support embedded videos, but don't worry, you can
+                        <a href="https://www.davidjambor.cz/img/work/projects/luc-settings.mp4">download it</a>
+                        and watch it with your favorite video player!
+                    </video>
+                    <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Error handling in settings</div>
+                </li>
+
+
+                <!-- <li class="beta-item">
+                    <video
+                        controls autoplay loop muted
                         style="height:auto;position:relative;width:550px;transition:opacity 200ms;"
                         src="/img/work/projects/luc-settings.mp4"
                         poster="/img/work/projects/luc-settings.png"
@@ -115,21 +149,7 @@
                         and watch it with your favorite video player!
                     </video>
                     <div class="video-description">Lucanto.eu &nbsp;·&nbsp; Action bar in settings</div>
-                </li>
-
-                <li class="beta-item">
-                    <video
-                        controls
-                        style="height:auto;position:relative;width:100%;transition:opacity 200ms;"
-                        src="/img/work/projects/account-plan.mp4"
-                        poster="/img/work/projects/ap-poster.png"
-                        width="100%">
-                        Sorry, your browser doesn't support embedded videos, but don't worry, you can
-                        <a href="https://www.davidjambor.cz/img/work/projects/account-plan.mp4">download it</a>
-                        and watch it with your favorite video player!
-                    </video>
-                    <div class="video-description">Account plan &nbsp;·&nbsp; video for users onboarding</div>
-                </li>
+                </li> -->
             </ul> 
             
         </div>

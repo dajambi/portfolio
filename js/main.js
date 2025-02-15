@@ -565,7 +565,7 @@ $(document).ready(function () {
     nextArrow: '.barrow--right',
     responsive: true,
     variableWidth: true, 
-    slidesToScroll: 1,
+    slidesToScroll: 3,
     slidesToShow: 4.5,  
     speed: 600,
     cssEase: 'ease',
@@ -575,7 +575,7 @@ $(document).ready(function () {
         breakpoint: 1024,
         settings: {
           slidesToShow: 3.5,
-          slidesToScroll: 1
+          slidesToScroll: 3
         }
       },
       {
