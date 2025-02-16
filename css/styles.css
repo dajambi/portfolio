@@ -4098,6 +4098,22 @@ p a[data-fx="12"] {
   .work_row a:hover {
     text-decoration: underline; }
 
+.projectShowreel-wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: #0D0D19;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px; }
+
+.showreel {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1.4em;
+  margin-top: 2em;
+  max-width: 1200px; }
+
 #beta-features {
   list-style: none;
   padding: 0;

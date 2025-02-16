@@ -114,6 +114,8 @@
         </div>
     </header>
 
+    <?php include '_partials/showreel.php'; ?>  
+
     <?php include '_partials/beta-features.php'; ?>  
 
     <section class="projectsall">

@@ -122,6 +122,8 @@
     <main id="home">
         <div id="black">
 
+            <?php include '_partials/showreel.php'; ?>
+
             <?php include '_partials/beta-features.php'; ?>
 
             <section id="container__work--black">
