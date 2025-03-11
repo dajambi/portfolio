@@ -350,9 +350,9 @@
             <div class="container--about">
                 <div class="about__text">
                     <h1><span class="highlight_blue">Hi,</span> I'm David</h1>
-                    <p>I'm a passionate, self-taught digital product designer currently living in Brno, Czechia. Over the last ten years, I have worked in various roles including Graphic Designer, Web Designer, Web Developer, UX/UI Designer, and Product Designer for startups, corporations, and as a freelancer for my own clients. Through these experiences, I have gained valuable expertise in diverse fields, such as marketing, front-end development, product management, and building products from scratch.</p>
+                    <p>a self-taught digital product designer based in Czechia (CET). Over the last decade, I’ve worn many hats – from Graphic Designer and Web Developer to UX/UI and Product Designer – for startups, corporations, and my own clients. These diverse roles have given me a unique blend of skills, including marketing, front-end development, product management, and building products from scratch.</p>
 
-                     <p>Traveling, spending time with friends, adrenaline sports, and adventures are the hobbies from which I gain energy and inspiration.</p>
+                     <p>Family, traveling, adrenaline sports, and adventures are my sources of energy and inspiration.</p>
                     <div class="buttons__container">
                         <div class="wrap__ghost">
                             <a href="/about" class="link ghost__button">More about me</a>

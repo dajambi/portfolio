@@ -124,7 +124,6 @@
             </div>
         </li>
 
-     
 
         <li class="card">
             <img class="testimonial__logo" src="./img/references/solarwinds.svg" width="80" alt="Solarwinds">

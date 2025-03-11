@@ -4106,13 +4106,32 @@ p a[data-fx="12"] {
   padding-left: 30px;
   padding-right: 30px; }
 
-.showreel {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 1.4em;
-  margin-top: 2em;
-  max-width: 1200px; }
+@media (min-width: 1440px) {
+  .showreel {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.4em;
+    margin-top: 2em;
+    width: 1200px; } }
+
+@media (min-width: 1280px) {
+  .showreel {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.4em;
+    margin-top: 2em;
+    width: 1024px; } }
+
+@media (max-width: 1279px) {
+  .showreel {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.4em;
+    margin-top: 2em;
+    max-width: 960px; } }
 
 #beta-features {
   list-style: none;

@@ -37,6 +37,7 @@
             <div class="welcome--sub">
                 <a href="/" class="link">Home</a>
                 <span>Work</span>
+                <?php include '_partials/surprise.php'; ?>
             </div>
 
 
