@@ -235,6 +235,51 @@
 
 }
 
+
+
+
+  .projectShowreel-wrapper {
+    display: flex ;
+    flex-direction: column;
+    background-color: #0D0D19;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  @media (min-width:1440px) {
+    .showreel {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 1.4em;
+      margin-top: 2em;
+      width: 1200px;
+    }
+  }
+
+  @media (min-width:1280px) {
+    .showreel {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 1.4em;
+      margin-top: 2em;
+      width: 1024px;
+    }
+  }
+
+  @media (max-width:1279px) {
+    .showreel {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 1.4em;
+      margin-top: 2em;
+      max-width: 960px;
+    }
+  }
+
 #beta-features {
   list-style: none;
   padding: 0;

@@ -37,6 +37,7 @@
             <div class="welcome--sub">
                 <a href="/" class="link">Home</a>
                 <span>Work</span>
+                <?php include '_partials/surprise.php'; ?>
             </div>
 
 
@@ -113,6 +114,8 @@
             </div>
         </div>
     </header>
+
+    <?php include '_partials/showreel.php'; ?>  
 
     <?php include '_partials/beta-features.php'; ?>  
 

@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/dajambi/portfolio#readme",
   "devDependencies": {
-    "sass": "^1.77.8"
+    "sass": "^1.85.1"
   },
   "keywords": [
     "my",

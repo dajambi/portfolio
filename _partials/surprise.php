@@ -1,5 +1,5 @@
 <div id="surprise">
-    <a data-img="img/ddg.gif" data-fx="12">
+    <a  href="img/showreel-s.mp4" data-img="img/ddg.gif" data-fx="12" class="link" data-fancybox="gallery">
         <div class="sup-first">
             <div class="sup-second">
                 <div class="sup-third">
@@ -12,3 +12,5 @@
         </div>
     </a>
 </div>
+
+
