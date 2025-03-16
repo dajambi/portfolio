@@ -1,9 +1,4 @@
-﻿work
-- udělat cookies stranku
-
-
-
-
+﻿
 dát atribut loading="lazy" k obrázkům
 specify image dimmension
 aplikovat principy - https://polypane.app/blog/creating-websites-with-prefers-reduced-data/
@@ -20,7 +15,7 @@ Case studies
  - build patičku -  see next projects
 - add player with audio transcript by elevenlabs
 
- Book a call with me to add to themenu
+ Book a call with me to add to themenu - a DM for telegram viz https://endless.design/?ref=godly
 
 https://app.cal.com/event-types
 
@@ -48,3 +43,6 @@ about
 
 REFERENCE
 - role a linked in image by měli mít display-flex aby to bylo horzinotálně vycentrované
+
+
+<script>console.log("%c \uD83E\uDD19 I’ve coded this shit on my own", "font-size: 12px;font-family: monospace;background: black;display: inline-block;color: white;padding: 15px;border: 2px solid white;")</script>>
