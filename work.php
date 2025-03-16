@@ -303,13 +303,13 @@
                             </li>
 
                             <li> 
-                                <a href="/knowledge-base" target="_blank" class="link odkaz">KB article management
+                                <a href="/knowledge-base" target="_blank" class="link odkaz" data-img="img/work/knowledge@2x.png" data-fx="12">KB article management
                                      <div class="tag-s">Case study</div>
                                 </a>
                             </li>
 
                             <li> 
-                                <a href="/task-management" target="_blank" class="link odkaz">Task management
+                                <a href="/task-management" target="_blank" class="link odkaz" data-img="img/work/task@2x.png" data-fx="12">Task management
                                      <div class="tag-s">Case study</div>
                                 </a>
                             </li>

@@ -230,20 +230,20 @@ initHovers();
   TiltFx.prototype.options = {
     movement: {
       imgWrapper: {
-        translation: { x: 10, y: 10, z: 0 },
-        rotation: { x: 0, y: -10, z: 0 },
+        translation: { x: 15, y: 15, z: 0 },
+        rotation: { x: 0, y: -15, z: 0 },
         reverseAnimation: {
           duration: 1200,
           easing: 'easeOutElastic',
-          elasticity: 600
+          elasticity: 800
         }
       },
       caption: {
-        rotation: { x: 0, y: -3, z: 0 },
+        rotation: { x: 0, y: -5, z: 0 },
         reverseAnimation: {
           duration: 1500,
           easing: 'easeOutElastic',
-          elasticity: 600
+          elasticity: 800
         }
       }
 
@@ -470,21 +470,21 @@ $(document).ready(function () {
     {
       breakpoint: 1024,
       settings: {
-        slidesToShow: 4.1,
+        slidesToShow: 3.1,
         slidesToScroll: 1
       }
     },
     {
       breakpoint: 600,
       settings: {
-        slidesToShow: 2,
+        slidesToShow: 2.1,
         slidesToScroll: 1
       }
     },
     {
       breakpoint: 480,
       settings: {
-        slidesToShow: 1,
+        slidesToShow: 1.1,
         slidesToScroll: 1
       }
     }
