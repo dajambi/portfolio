@@ -470,21 +470,21 @@ $(document).ready(function () {
     {
       breakpoint: 1024,
       settings: {
-        slidesToShow: 4.1,
+        slidesToShow: 3.1,
         slidesToScroll: 1
       }
     },
     {
       breakpoint: 600,
       settings: {
-        slidesToShow: 2,
+        slidesToShow: 2.1,
         slidesToScroll: 1
       }
     },
     {
       breakpoint: 480,
       settings: {
-        slidesToShow: 1,
+        slidesToShow: 1.1,
         slidesToScroll: 1
       }
     }

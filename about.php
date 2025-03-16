@@ -150,6 +150,8 @@
                                 <li class="tag">0 → 1</li>
                                 <li class="tag">Mentoring</li>
                                 <li class="tag">Health</li>
+                                <li class="tag">Project management</li>
+                                <li class="tag">Product management</li>
                             </ul>
                         </div>
                     </div>
@@ -252,10 +254,10 @@
                         </p>
 
                         <p>
-                        One of my most rewarding experiences was helping my mother start <a href="https://www.kosmetika-jamborova.cz/" target="_blank" class="link odkaz">her business.</a> I didn’t just create a marketing website, but I crafted the customer experience that endures till now. This kicked off my passion for a holistic approach and transition into UX / product design, focusing on apps and information systems. 
+                        One of my most rewarding experiences was helping my mother start <a href="https://www.kosmetika-jamborova.cz/" target="_blank" class="link odkaz" data-img="img/work/mama.png" data-fx="12">her business.</a> I didn’t just create a marketing website, but I crafted the customer experience that endures till now. This kicked off my passion for a holistic approach and transition into UX / product design, focusing on apps and information systems. 
                         </p>
 
-                        <p>As an independent designer, I’ve been fortunate to collaborate with inspiring companies and individuals. I contributed to <a href="https://www.gordic.cz/" target="_blank" class="link odkaz">Gordic.cz</a> by designing their support portal and reimagining their web ecosystem. I designed and developed <a href="https://www.emontana.cz/" target="_blank" class="link odkaz">emontana.cz</a>, a popular climbing portal in the Czech Republic. For <a href="https://www.ntsup.eu/" target="_blank" class="link odkaz">ntsup.cz</a>, I refreshed their branding and created offline campaigns seen across the Czechia.
+                        <p>As an independent designer, I’ve been fortunate to collaborate with inspiring companies and individuals. I contributed to Gordic.cz by designing  <a href="https://www.gordic.cz/podpora/metodika" target="_blank" class="link odkaz" data-img="img/work/gordic_support@1x.png" data-fx="12">their support portal</a> and <a href="https://www.gordic.cz/" target="_blank" class="link odkaz" data-img="img/work/gordic_main@1x.png" data-fx="12">reimagining their web ecosystem</a>. I designed and developed <a href="https://www.emontana.cz/" target="_blank" class="link odkaz">emontana.cz</a>, a popular climbing portal in the Czech Republic. For <a href="https://www.ntsup.eu/" target="_blank" class="link odkaz">ntsup.cz</a>, I refreshed their branding and created offline campaigns seen across the Czechia.
                         </p>
 
                         <p>I’ve had the privilege of designing complex SaaS applications for  <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz">SolarWinds</a> /  <a href="https://www.n-able.com/" target="_blank" class="link odkaz">N-able</a>, where I was part of the MSP design team. I worked on multi-tenant <a href="https://www.n-able.com/products/msp-manager" target="_blank" class="link odkaz">Helpdesk systems</a> and <a href="https://www.n-able.com/products/cove-data-protection" target="_blank" class="link odkaz">MSP Backup</a>, collaborating with incredible teams across Poland, Edinburgh, Ottawa, and Austin.
@@ -264,11 +266,11 @@
                         <p>Later, I joined the Czech travel startup <a href="https://www.kiwi.com" target="_blank" class="link odkaz">Kiwi.com</a>, where I led the design of an internal Helpdesk application. Together, we transformed the chaotic support experience during the 2020 COVID pandemic into a proactive and reliable service.                     
                         </p>
                         <p>
-                        At <a href="https://www.outreach.io/" target="_blank" class="link odkaz">Outreach.io</a>, I helped shape the future of sales with projects like <a href="https://support.outreach.io/hc/en-us/articles/7989565935643-Sales-Execution-Report-Overview" target="_blank" class="link odkaz">Sales Execution Report</a> and innovative GenAI-powered features like <a href="https://www.outreach.io/resources/blog/smart-email-assist-public-beta" target="_blank" class="link odkaz">Smart Email Assist</a>, <a href="https://www.outreach.io/resources/blog/smart-account-plans" target="_blank" class="link odkaz">Account Plans</a>, and Prospecting Agent—pioneering disruption in the sales domain.
+                        At <a href="https://www.outreach.io/" target="_blank" class="link odkaz">Outreach.io</a>, I helped shape the future of sales with projects like <a href="https://support.outreach.io/hc/en-us/articles/7989565935643-Sales-Execution-Report-Overview" target="_blank" class="link odkaz" data-img="img/work/projects/sales_funnel.png" data-fx="12">Sales Execution Report</a> and innovative GenAI-powered features like <a href="https://www.outreach.io/resources/blog/smart-email-assist-public-beta" target="_blank" class="link odkaz" data-img="img/work/projects/sea.gif" data-fx="12">Smart Email Assist</a>, <a href="https://www.outreach.io/resources/blog/smart-account-plans" target="_blank" class="link odkaz" data-img="img/work/projects/accountplan.png" data-fx="12">Account Plans</a>, and Prospecting Agent—pioneering disruption in the sales domain.
                         </p>
 
                         <p>
-                        I’ve also ventured into entrepreneurship as the co-founder of <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank" class="link odkaz">Mentedy</a>, a mentoring platform that almost reached its full potential. Today, I channel that same drive into my second startup, <a href="https://lucanto.eu/" target="_blank" class="link odkaz">Lucanto.eu</a>, an accounting and payment platform for SMBs powered by GenAI. It’s a rewarding, terrifying, and exhausting experience, usually all at once.
+                        I’ve also ventured into entrepreneurship as the co-founder of <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank" class="link odkaz" data-img="img/work/projects/mentedy@2x.png" data-fx="12">Mentedy</a>, a mentoring platform that almost reached its full potential. Today, I channel that same drive into my second startup, <a href="https://lucanto.eu/" target="_blank" class="link odkaz" data-img="img/work/lucanto.png" data-fx="12">Lucanto.eu</a>, an accounting and payment platform for SMBs powered by GenAI. It’s a rewarding, terrifying, and exhausting experience, usually all at once.
                         </p>
 
                         <p>That’s my story. Now let’s dive into yours, shall we?</p>

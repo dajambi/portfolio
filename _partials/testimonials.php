@@ -36,9 +36,38 @@
     </div>
     <ul class="testimonials">
 
+
         <li class="card">
             <img class="testimonial__logo" src="./img/references/outreach.svg" width="80" alt="Outreach">
-            <p> He is one of the best designers I have worked with. He produces clean designs, which make it pretty easy for us developers to execute. He kept his mind open for both PM and DEV feedback and incorporated parts that made sense and design them almost in real-time. Someone any company would like to have - 100%.</p>
+            <p> I've had the pleasure of collaborating with David at Outreach on multiple innovative products and Gen AI features. I can confidently say that he is an exceptional designer and an outstanding partner. His design skills are top-notch, but what truly sets him apart is his deep understanding of product thinking and user-centric approaches. <a href="https://www.linkedin.com/in/david-jambor/#recommendations" target="_blank" class="link odkaz">Read more</a></p>
+            <div class="person">
+                <img srcset="img/references/amit@1x.png 1x, img/references/amit@2x.png 2x" alt="Senior Product director">
+                <div class="position">
+                    <div>Amit Paunikar</div></span>
+                    <div>
+                        <span>Senior Product director</span>
+                        <a rel="nofollow" target="_blank" href="https://cz.linkedin.com/in/paunikar" class="link">
+                            <svg class="linkedin" width="13px" height="13px" viewBox="0 0 13 13" version="1.1"
+                                xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                <g id="Page-1" stroke="none" fill-rule="evenodd">
+                                    <g id="home-copy-5" transform="translate(-369.000000, -5209.000000)">
+                                        <g id="Group-11" transform="translate(195.000000, 4966.000000)">
+                                            <path
+                                                d="M185.374973,243.625027 C185.611952,243.625027 185.817029,243.711616 185.990206,243.884792 C186.163382,244.057969 186.249971,244.263046 186.249971,244.500025 L186.249971,255 C186.249971,255.236979 186.163382,255.442056 185.990206,255.615233 C185.817029,255.788409 185.611952,255.874998 185.374973,255.874998 L174.874998,255.874998 C174.638019,255.874998 174.432942,255.788409 174.259765,255.615233 C174.086588,255.442056 174,255.236979 174,255 L174,244.500025 C174,244.263046 174.086588,244.057969 174.259765,243.884792 C174.432942,243.711616 174.638019,243.625027 174.874998,243.625027 L185.374973,243.625027 Z M175.886714,254.125002 L177.718741,254.125002 L177.718741,248.273454 L175.886714,248.273454 L175.886714,254.125002 Z M176.789056,247.480487 C177.080722,247.480487 177.331372,247.375669 177.541007,247.166034 C177.750642,246.956399 177.85546,246.710306 177.85546,246.427755 C177.85546,246.145204 177.750642,245.89911 177.541007,245.689475 C177.331372,245.47984 177.080722,245.375023 176.789056,245.375023 C176.49739,245.375023 176.251297,245.47984 176.050776,245.689475 C175.850256,245.89911 175.749996,246.145204 175.749996,246.427755 C175.749996,246.710306 175.850256,246.956399 176.050776,247.166034 C176.251297,247.375669 176.49739,247.480487 176.789056,247.480487 Z M184.499975,254.125002 L184.499975,250.925791 C184.499975,250.014335 184.372371,249.348972 184.117163,248.929702 C183.77081,248.401058 183.178364,248.136735 182.339832,248.136735 C181.920554,248.136735 181.546857,248.236995 181.218733,248.437516 C180.945296,248.601578 180.744776,248.811213 180.617172,249.06642 L180.589828,249.06642 L180.589828,248.273454 L178.839832,248.273454 L178.839832,254.125002 L180.644515,254.125002 L180.644515,251.226571 C180.644515,250.770843 180.708317,250.42449 180.835921,250.187511 C181.018213,249.877617 181.318993,249.722669 181.738263,249.722669 C182.157532,249.722669 182.430969,249.895845 182.558573,250.242199 C182.649719,250.460948 182.695292,250.807302 182.695292,251.281259 L182.695292,254.125002 L184.499975,254.125002 Z">
+                                            </path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </li>
+
+        <li class="card">
+            <img class="testimonial__logo" src="./img/references/outreach.svg" width="80" alt="Outreach">
+            <p> He is one of the best designers I have worked with. He produces clean designs, which make it pretty easy for us developers to execute. He kept his mind open for both PM and DEV feedback and incorporated parts that made sense and design them almost in real-time. Someone any company would like to have - 100%. <a href="https://www.linkedin.com/in/david-jambor/#recommendations" target="_blank" class="link odkaz">Read more</a></p>
             <div class="person">
                 <img srcset="img/references/nikola@1x.png 1x, img/references/nikola@2x.png 2x" alt="Senior Staff Software Engineer">
                 <div class="position">
@@ -63,6 +92,36 @@
                 </div>
             </div>
         </li>
+
+        <li class="card">
+            <img class="testimonial__logo" src="./img/references/outreach.svg" width="80" alt="Outreach">
+            <p>
+                He consistently leads major initiatives, turning complex and ambiguous projects into high-quality, user-centered solutions. His abilities makes him an invaluable part of our team. David thrives under pressure, effortlessly juggling multiple projects while staying focused on delivering...David is absolutely the person you want. <a href="https://www.linkedin.com/in/david-jambor/#recommendations" target="_blank" class="link odkaz">Read more</a></p>
+            <div class="person">
+                <img srcset="img/references/sofiya@1x.png 1x, img/references/sofiya@2x.png 2x" alt="Sofiya Huts, Principal product manager">
+                <div class="position">
+                    <div>Sofiya Huts</div></span>
+                    <div>
+                        <span>Principal product manager</span>
+                        <a rel="nofollow" target="_blank" href="https://www.linkedin.com/in/sofiya-huts/" class="link">
+                            <svg class="linkedin" width="13px" height="13px" viewBox="0 0 13 13" version="1.1"
+                                xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                <g id="Page-1" stroke="none" fill-rule="evenodd">
+                                    <g id="home-copy-5" transform="translate(-369.000000, -5209.000000)">
+                                        <g id="Group-11" transform="translate(195.000000, 4966.000000)">
+                                            <path
+                                                d="M185.374973,243.625027 C185.611952,243.625027 185.817029,243.711616 185.990206,243.884792 C186.163382,244.057969 186.249971,244.263046 186.249971,244.500025 L186.249971,255 C186.249971,255.236979 186.163382,255.442056 185.990206,255.615233 C185.817029,255.788409 185.611952,255.874998 185.374973,255.874998 L174.874998,255.874998 C174.638019,255.874998 174.432942,255.788409 174.259765,255.615233 C174.086588,255.442056 174,255.236979 174,255 L174,244.500025 C174,244.263046 174.086588,244.057969 174.259765,243.884792 C174.432942,243.711616 174.638019,243.625027 174.874998,243.625027 L185.374973,243.625027 Z M175.886714,254.125002 L177.718741,254.125002 L177.718741,248.273454 L175.886714,248.273454 L175.886714,254.125002 Z M176.789056,247.480487 C177.080722,247.480487 177.331372,247.375669 177.541007,247.166034 C177.750642,246.956399 177.85546,246.710306 177.85546,246.427755 C177.85546,246.145204 177.750642,245.89911 177.541007,245.689475 C177.331372,245.47984 177.080722,245.375023 176.789056,245.375023 C176.49739,245.375023 176.251297,245.47984 176.050776,245.689475 C175.850256,245.89911 175.749996,246.145204 175.749996,246.427755 C175.749996,246.710306 175.850256,246.956399 176.050776,247.166034 C176.251297,247.375669 176.49739,247.480487 176.789056,247.480487 Z M184.499975,254.125002 L184.499975,250.925791 C184.499975,250.014335 184.372371,249.348972 184.117163,248.929702 C183.77081,248.401058 183.178364,248.136735 182.339832,248.136735 C181.920554,248.136735 181.546857,248.236995 181.218733,248.437516 C180.945296,248.601578 180.744776,248.811213 180.617172,249.06642 L180.589828,249.06642 L180.589828,248.273454 L178.839832,248.273454 L178.839832,254.125002 L180.644515,254.125002 L180.644515,251.226571 C180.644515,250.770843 180.708317,250.42449 180.835921,250.187511 C181.018213,249.877617 181.318993,249.722669 181.738263,249.722669 C182.157532,249.722669 182.430969,249.895845 182.558573,250.242199 C182.649719,250.460948 182.695292,250.807302 182.695292,251.281259 L182.695292,254.125002 L184.499975,254.125002 Z">
+                                            </path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </li>
+
 
         <li class="card">
             <img class="testimonial__logo" src="./img/references/smartest.svg" width="80" alt="Smarttest">
@@ -95,35 +154,7 @@
             </div>
         </li>
 
-        <li class="card">
-            <img class="testimonial__logo" src="./img/references/outreach.svg" width="80" alt="Outreach">
-            <p>
-                He consistently leads major initiatives, turning complex and ambiguous projects into high-quality, user-centered solutions. His abilities makes him an invaluable part of our team. David thrives under pressure, effortlessly juggling multiple projects while staying focused on delivering...David is absolutely the person you want.</p>
-            <div class="person">
-                <img srcset="img/references/sofiya@1x.png 1x, img/references/sofiya@2x.png 2x" alt="Sofiya Huts, Principal product manager">
-                <div class="position">
-                    <div>Sofiya Huts</div></span>
-                    <div>
-                        <span>Principal product manager</span>
-                        <a rel="nofollow" target="_blank" href="https://www.linkedin.com/in/sofiya-huts/" class="link">
-                            <svg class="linkedin" width="13px" height="13px" viewBox="0 0 13 13" version="1.1"
-                                xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                <g id="Page-1" stroke="none" fill-rule="evenodd">
-                                    <g id="home-copy-5" transform="translate(-369.000000, -5209.000000)">
-                                        <g id="Group-11" transform="translate(195.000000, 4966.000000)">
-                                            <path
-                                                d="M185.374973,243.625027 C185.611952,243.625027 185.817029,243.711616 185.990206,243.884792 C186.163382,244.057969 186.249971,244.263046 186.249971,244.500025 L186.249971,255 C186.249971,255.236979 186.163382,255.442056 185.990206,255.615233 C185.817029,255.788409 185.611952,255.874998 185.374973,255.874998 L174.874998,255.874998 C174.638019,255.874998 174.432942,255.788409 174.259765,255.615233 C174.086588,255.442056 174,255.236979 174,255 L174,244.500025 C174,244.263046 174.086588,244.057969 174.259765,243.884792 C174.432942,243.711616 174.638019,243.625027 174.874998,243.625027 L185.374973,243.625027 Z M175.886714,254.125002 L177.718741,254.125002 L177.718741,248.273454 L175.886714,248.273454 L175.886714,254.125002 Z M176.789056,247.480487 C177.080722,247.480487 177.331372,247.375669 177.541007,247.166034 C177.750642,246.956399 177.85546,246.710306 177.85546,246.427755 C177.85546,246.145204 177.750642,245.89911 177.541007,245.689475 C177.331372,245.47984 177.080722,245.375023 176.789056,245.375023 C176.49739,245.375023 176.251297,245.47984 176.050776,245.689475 C175.850256,245.89911 175.749996,246.145204 175.749996,246.427755 C175.749996,246.710306 175.850256,246.956399 176.050776,247.166034 C176.251297,247.375669 176.49739,247.480487 176.789056,247.480487 Z M184.499975,254.125002 L184.499975,250.925791 C184.499975,250.014335 184.372371,249.348972 184.117163,248.929702 C183.77081,248.401058 183.178364,248.136735 182.339832,248.136735 C181.920554,248.136735 181.546857,248.236995 181.218733,248.437516 C180.945296,248.601578 180.744776,248.811213 180.617172,249.06642 L180.589828,249.06642 L180.589828,248.273454 L178.839832,248.273454 L178.839832,254.125002 L180.644515,254.125002 L180.644515,251.226571 C180.644515,250.770843 180.708317,250.42449 180.835921,250.187511 C181.018213,249.877617 181.318993,249.722669 181.738263,249.722669 C182.157532,249.722669 182.430969,249.895845 182.558573,250.242199 C182.649719,250.460948 182.695292,250.807302 182.695292,251.281259 L182.695292,254.125002 L184.499975,254.125002 Z">
-                                            </path>
-                                        </g>
-                                    </g>
-                                </g>
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </li>
-
+       
 
         <li class="card">
             <img class="testimonial__logo" src="./img/references/solarwinds.svg" width="80" alt="Solarwinds">
