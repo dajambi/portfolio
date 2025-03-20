@@ -1,7 +1,4 @@
-<?php 
-require_once '_inc/security_headers.php';
-session_start(); 
-?>
+<?php session_start(); ?>
 <!DOCTYPE html>
 <?php include('_partials/spy.php') ?>
 <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
