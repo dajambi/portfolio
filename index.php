@@ -1,4 +1,7 @@
-<?php session_start(); ?>
+<?php 
+require_once '_inc/security_headers.php';
+session_start(); 
+?>
 <!DOCTYPE html>
 <?php include '_partials/spy.php'; ?>
 <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
@@ -10,7 +13,7 @@
     <?php include '_partials/loading.php'; ?>
     <?php include '_partials/meta-links.php'; ?>
 
-    <meta name="description" content="🤘I’m Staff product designer with a passion for functional design and with one rule in mind - Design is everything.">
+    <meta name="description" content="🤘I'm Staff product designer with a passion for functional design and with one rule in mind - Design is everything.">
 
     <title>David Jambor - Staff Product Designer | AI & GenAI Enthusiast | Digital Product Innovator</title>
 
@@ -350,7 +353,7 @@
             <div class="container--about">
                 <div class="about__text">
                     <h1><span class="highlight_blue">Hi,</span> I'm David</h1>
-                    <p>a self-taught digital product designer based in Czechia (CET). Over the last decade, I’ve worn many hats – from Graphic Designer and Web Developer to UX/UI and Product Designer – for startups, corporations, and my own clients. These diverse roles have given me a unique blend of skills, including marketing, front-end development, product management, and building products from scratch.</p>
+                    <p>a self-taught digital product designer based in Czechia (CET). Over the last decade, I've worn many hats – from Graphic Designer and Web Developer to UX/UI and Product Designer – for startups, corporations, and my own clients. These diverse roles have given me a unique blend of skills, including marketing, front-end development, product management, and building products from scratch.</p>
 
                      <p>Family, traveling, adrenaline sports, and adventures are my sources of energy and inspiration.</p>
                     <div class="buttons__container">

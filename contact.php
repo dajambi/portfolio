@@ -1,4 +1,7 @@
-<?php session_start(); ?>
+<?php 
+require_once '_inc/security_headers.php';
+session_start(); 
+?>
 <!DOCTYPE html>
 <?php include('_partials/spy.php') ?>
 <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
@@ -11,7 +14,7 @@
     <?php include('_partials/meta-links.php') ?>
 
     <meta name="description" content="Contact me - 🤘I'm Staff digital Product designer with a passion for design & business and with one rule in mind - Design is everything.">
-    <title>Contact David Jambor | Let’s Build Ambitious Products Together</title>
+    <title>Contact David Jambor | Let's Build Ambitious Products Together</title>
 
 </head>
 
@@ -45,7 +48,7 @@
             <?php include('_partials/navigation.php') ?>
 
             <div id="header_text--contact">
-                <h1><span class="highlight_blue">Let’s design</span><br>next big thing together</h1>
+                <h1><span class="highlight_blue">Let's design</span><br>next big thing together</h1>
             
                 <div id="rectangle">
                     <div id="circle"></div>

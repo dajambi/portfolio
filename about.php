@@ -1,3 +1,7 @@
+<?php 
+require_once '_inc/security_headers.php';
+session_start(); 
+?>
 <!DOCTYPE html>
 <?php include '_partials/spy.php'; ?>
 <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
@@ -132,7 +136,7 @@
                             <h2>GenAI</h2>
                          </div>
 
-                        <p>I enjoy working in a startup mode 0 → 1, where I’m part of a small but ambitious team striving to disrupt a specific domain or deliver a unique solution or when a company needs to switch strategy and overcome a crisis. This is where I bring the most value, leveraging my generalist approach and diverse skillset. I also find joy in tackling complex products powered by GenAI – especially when the team understands the transformative potential of their work and upholds ethical principles and safeguards. Shall we talk?</p>
+                        <p>I enjoy working in a startup mode 0 → 1, where I'm part of a small but ambitious team striving to disrupt a specific domain or deliver a unique solution or when a company needs to switch strategy and overcome a crisis. This is where I bring the most value, leveraging my generalist approach and diverse skillset. I also find joy in tackling complex products powered by GenAI – especially when the team understands the transformative potential of their work and upholds ethical principles and safeguards. Shall we talk?</p>
                         <div class="tags">
                             <h4>My design focus and interests</h4>
                             <ul class="tags__list" role="list">
@@ -254,14 +258,14 @@
                         </p>
 
                         <p>
-                        One of my most rewarding experiences was helping my mother start <a href="https://www.kosmetika-jamborova.cz/" target="_blank" class="link odkaz" data-img="img/work/mama.png" data-fx="12">her business.</a> I didn’t just create a marketing website, but I crafted the customer experience that endures till now. This kicked off my passion for a holistic approach and transition into UX / product design, focusing on apps and information systems. 
+                        One of my most rewarding experiences was helping my mother start <a href="https://www.kosmetika-jamborova.cz/" target="_blank" class="link odkaz" data-img="img/work/mama.png" data-fx="12">her business.</a> I didn't just create a marketing website, but I crafted the customer experience that endures till now. This kicked off my passion for a holistic approach and transition into UX / product design, focusing on apps and information systems. 
                         </p>
 
-                        <p>As an independent designer, I’ve been fortunate to collaborate with inspiring companies and individuals. I contributed to Gordic.cz by designing  <a href="https://www.gordic.cz/podpora/metodika" target="_blank" class="link odkaz" data-img="img/work/gordic_support@1x.png" data-fx="12">their support portal</a> and <a href="https://www.gordic.cz/" target="_blank" class="link odkaz" data-img="img/work/gordic_main@1x.png" data-fx="12">reimagining their web ecosystem</a>. I designed and developed <a href="https://www.emontana.cz/" target="_blank" class="link odkaz">emontana.cz</a>, a popular climbing portal in the Czech Republic. For <a href="https://www.ntsup.eu/" target="_blank" class="link odkaz">ntsup.cz</a>, I refreshed their branding and created offline campaigns seen across the Czechia.
+                        <p>As an independent designer, I've been fortunate to collaborate with inspiring companies and individuals. I contributed to Gordic.cz by designing  <a href="https://www.gordic.cz/podpora/metodika" target="_blank" class="link odkaz" data-img="img/work/gordic_support@1x.png" data-fx="12">their support portal</a> and <a href="https://www.gordic.cz/" target="_blank" class="link odkaz" data-img="img/work/gordic_main@1x.png" data-fx="12">reimagining their web ecosystem</a>. I designed and developed <a href="https://www.emontana.cz/" target="_blank" class="link odkaz">emontana.cz</a>, a popular climbing portal in the Czech Republic. For <a href="https://www.ntsup.eu/" target="_blank" class="link odkaz">ntsup.cz</a>, I refreshed their branding and created offline campaigns seen across the Czechia.
                         </p>
 
-                        <p>I’ve had the privilege of designing complex SaaS applications for  <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz">SolarWinds</a> /  <a href="https://www.n-able.com/" target="_blank" class="link odkaz">N-able</a>, where I was part of the MSP design team. I worked on multi-tenant <a href="https://www.n-able.com/products/msp-manager" target="_blank" class="link odkaz">Helpdesk systems</a> and <a href="https://www.n-able.com/products/cove-data-protection" target="_blank" class="link odkaz">MSP Backup</a>, collaborating with incredible teams across Poland, Edinburgh, Ottawa, and Austin.
-                         N-able is a global leader in MSP software, and I’m proud to have contributed to their success.   
+                        <p>I've had the privilege of designing complex SaaS applications for  <a href="https://www.solarwinds.com/" target="_blank" class="link odkaz">SolarWinds</a> /  <a href="https://www.n-able.com/" target="_blank" class="link odkaz">N-able</a>, where I was part of the MSP design team. I worked on multi-tenant <a href="https://www.n-able.com/products/msp-manager" target="_blank" class="link odkaz">Helpdesk systems</a> and <a href="https://www.n-able.com/products/cove-data-protection" target="_blank" class="link odkaz">MSP Backup</a>, collaborating with incredible teams across Poland, Edinburgh, Ottawa, and Austin.
+                         N-able is a global leader in MSP software, and I'm proud to have contributed to their success.   
                         </p>
                         <p>Later, I joined the Czech travel startup <a href="https://www.kiwi.com" target="_blank" class="link odkaz">Kiwi.com</a>, where I led the design of an internal Helpdesk application. Together, we transformed the chaotic support experience during the 2020 COVID pandemic into a proactive and reliable service.                     
                         </p>
@@ -270,10 +274,10 @@
                         </p>
 
                         <p>
-                        I’ve also ventured into entrepreneurship as the co-founder of <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank" class="link odkaz" data-img="img/work/projects/mentedy@2x.png" data-fx="12">Mentedy</a>, a mentoring platform that almost reached its full potential. Today, I channel that same drive into my second startup, <a href="https://lucanto.eu/" target="_blank" class="link odkaz" data-img="img/work/lucanto.png" data-fx="12">Lucanto.eu</a>, an accounting and payment platform for SMBs powered by GenAI. It’s a rewarding, terrifying, and exhausting experience, usually all at once.
+                        I've also ventured into entrepreneurship as the co-founder of <a href="https://medium.com/design-bootcamp/story-about-mentedy-my-startup-odyssey-173c9bef7aba" target="_blank" class="link odkaz" data-img="img/work/projects/mentedy@2x.png" data-fx="12">Mentedy</a>, a mentoring platform that almost reached its full potential. Today, I channel that same drive into my second startup, <a href="https://lucanto.eu/" target="_blank" class="link odkaz" data-img="img/work/lucanto.png" data-fx="12">Lucanto.eu</a>, an accounting and payment platform for SMBs powered by GenAI. It's a rewarding, terrifying, and exhausting experience, usually all at once.
                         </p>
 
-                        <p>That’s my story. Now let’s dive into yours, shall we?</p>
+                        <p>That's my story. Now let's dive into yours, shall we?</p>
                     </div>
                 </div>
 
@@ -308,26 +312,26 @@
                             <ul class="accordion">
                                 <li>
                                     <a><span><sup>1</sup></span>Design is everything</a>
-                                    <p>Design goes far beyond nice pixels and aesthetics. It’s about how every element of a product or service comes together to create a seamless and enjoyable experience for the customer. From service to support, sales to marketing, every touchpoint must be intentionally crafted to deliver a cohesive and engaging user journey. In today’s competitive market, good design isn’t optional. It’s what distinguishes successful products and services and drives lasting success. </p>
+                                    <p>Design goes far beyond nice pixels and aesthetics. It's about how every element of a product or service comes together to create a seamless and enjoyable experience for the customer. From service to support, sales to marketing, every touchpoint must be intentionally crafted to deliver a cohesive and engaging user journey. In today's competitive market, good design isn't optional. It's what distinguishes successful products and services and drives lasting success. </p>
                                     
                                     <p>However, good design is not just about the big picture. It's also about the details - the little things that may be unnoticed, but can make a significant difference in the overall experience. Without attention to detail, even the best-designed product or service may fall short of its potential. Therefore, it's crucial to give design and customer experience a central place in your company's structure – if you want to create product your customer will love.</p>
                                 </li>
                                 <li>
                                     <a><span><sup>2</sup></span> There is no substitute of hard work</a>
-                                    <p>Everything I’ve achieved in sports, school, work, or life was thanks to hard work, endurance, and a positive approach, and it didn’t happen overnight. I like a famous quote from Arnold Schwarzenegger: “If you don’t find the time, if you don’t do the work, you don’t get the results.” — This runs through my veins, and I believe that it is reflected in my work.</p>
+                                    <p>Everything I've achieved in sports, school, work, or life was thanks to hard work, endurance, and a positive approach, and it didn't happen overnight. I like a famous quote from Arnold Schwarzenegger: "If you don't find the time, if you don't do the work, you don't get the results." — This runs through my veins, and I believe that it is reflected in my work.</p>
                                 </li>
                                 <li>
                                     <a><span><sup>3</sup></span>Never stop evolving</a>
-                                    <p>Feedback is one of the best gifts you can receive, even if it’s sometimes hard to accept. It’s the only way to truly move forward. Progress, at its core, follows a simple formula: pain + reflection + an open mind = growth. This principle not only shapes my design process but also guides my personal development.</p>
+                                    <p>Feedback is one of the best gifts you can receive, even if it's sometimes hard to accept. It's the only way to truly move forward. Progress, at its core, follows a simple formula: pain + reflection + an open mind = growth. This principle not only shapes my design process but also guides my personal development.</p>
                                 </li>
                                 <li>
                                     <a><span><sup>4</sup></span>Honesty and open communication</a>
-                                    <p>I deeply respect people and believe in fostering an open communication culture. In the past, I made mistakes by staying quiet and simply following the crowd, but I’ve learned from those experiences. Now, I speak up when I see something I don’t agree with or when I spot opportunities for improvement—no matter who’s in the room, even if it’s the highest-paid person.
+                                    <p>I deeply respect people and believe in fostering an open communication culture. In the past, I made mistakes by staying quiet and simply following the crowd, but I've learned from those experiences. Now, I speak up when I see something I don't agree with or when I spot opportunities for improvement—no matter who's in the room, even if it's the highest-paid person.
                                     </p>
                                 </li>
                                 <li>
                                     <a><span><sup>5</sup></span>It has to be diverse and fun</a>
-                                    <p>I love working in a startup mode—the kind of environment where everyone gives their best, steps beyond their responsibilities, and celebrates wins together over a beer. I enjoy working on diverse projects where I can contribute to research, design, validation, motion, or help refine design systems and principles. Through my side projects, I’ve also discovered a passion for front-end development, product and project management, and go-to-market.</p>
+                                    <p>I love working in a startup mode—the kind of environment where everyone gives their best, steps beyond their responsibilities, and celebrates wins together over a beer. I enjoy working on diverse projects where I can contribute to research, design, validation, motion, or help refine design systems and principles. Through my side projects, I've also discovered a passion for front-end development, product and project management, and go-to-market.</p>
                                 </li>
                                 <ul>
                         </div>
@@ -505,7 +509,7 @@
                         <figcaption>
                             <p>Mont Blanc · Alps</p>
                         </figcaption>
-                        <p>Adventures, adrenaline sports, and traveling bring me joy and recharge my energy. I feel most alive when immersed in nature—sea salt in my hair and sunsets melting into ocean horizons. The best moments of my life haven’t been spent in front of a monitor; they’ve been shaped by stepping out of my comfort zone, conquering mountains, and sharing breathtaking views with my adventure companions. I’ve learned that people regret the things they didn’t do, not the things they tried. That’s why I wholeheartedly embrace saying yes to new challenges.</p>
+                        <p>Adventures, adrenaline sports, and traveling bring me joy and recharge my energy. I feel most alive when immersed in nature—sea salt in my hair and sunsets melting into ocean horizons. The best moments of my life haven't been spent in front of a monitor; they've been shaped by stepping out of my comfort zone, conquering mountains, and sharing breathtaking views with my adventure companions. I've learned that people regret the things they didn't do, not the things they tried. That's why I wholeheartedly embrace saying yes to new challenges.</p>
                     </article>
                     <article>
                         <figure class="ar--first ar--second">
@@ -516,7 +520,7 @@
                         <figcaption>
                             <p>One of many trips · Paradise</p>
                         </figcaption>
-                        <p>Life without family, supportive friends, and great colleagues would be far too lonely. In the past, I often isolated myself, focusing solely on completing work for clients or rushing to deliver new features. Over time, I’ve come to understand what truly matters. I’ve learned to say no to side projects unless they’re genuinely meaningful, and I now prioritize spending time with my family, connecting with friends, or investing in personal growth. These moments hold far greater value.</p>
+                        <p>Life without family, supportive friends, and great colleagues would be far too lonely. In the past, I often isolated myself, focusing solely on completing work for clients or rushing to deliver new features. Over time, I've come to understand what truly matters. I've learned to say no to side projects unless they're genuinely meaningful, and I now prioritize spending time with my family, connecting with friends, or investing in personal growth. These moments hold far greater value.</p>
                     </article>
                 </div>
             </div>

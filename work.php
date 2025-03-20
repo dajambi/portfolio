@@ -123,7 +123,7 @@
          <div class="projects--wrapper">
 
             <div class="projects-beta">
-                <h1>Notable <span class="highlight_blue">projects</span></h1>
+                <h1 id="NotableProjects">Notable <span class="highlight_blue">projects</span></h1>
                 <p>See a mixtape of products, side projects, features, and improvements I’m proud to have delivered. Or explore <a href="#project-text" class="link odkaz">case studies</a> below to learn more.</p>
             </div>
             
